@@ -1,0 +1,5257 @@
+[
+  {
+    "id": 16492,
+    "ids": {
+      "imdb": "15799866",
+      "rotten": "",
+      "tmdb": "891699"
+    },
+    "title": "Silent Night",
+    "alternativeTitles": "",
+    "year": "2023",
+    "certificateIS": "16 ára",
+    "durationMinutes": 104,
+    "genres": [
+      {
+        "ID": 1,
+        "Name": "Spenna",
+        "NameEN\t": "Action"
+      }
+    ],
+    "poster": "http://kvikmyndir.is/images/poster/16492_500.jpg",
+    "actors_abridged": [
+      {
+        "name": "Joel Kinnaman"
+      },
+      {
+        "name": "Kid Cudi"
+      }
+    ],
+    "directors_abridged": [
+      {
+        "name": "John Woo"
+      }
+    ],
+    "ratings": {
+      "imdb": "6.4",
+      "rotten_audience": "0",
+      "rotten_critics": "0"
+    },
+    "showtimes": [
+      {
+        "cinema": {
+          "id": 4,
+          "name": "Laugarásbíó"
+        },
+        "schedule": [
+          {
+            "time": "19:45 (L)",
+            "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/794472/"
+          },
+          {
+            "time": "21:55 (L)",
+            "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/794473/"
+          }
+        ]
+      },
+      {
+        "cinema": {
+          "id": 8,
+          "name": "Sambíóin Egilshöll"
+        },
+        "schedule": [
+          {
+            "time": "17:40 (1)",
+            "purchase_url": "http://www.sambio.is/websales/show/371783/"
+          },
+          {
+            "time": "20:00 (4)",
+            "purchase_url": "http://www.sambio.is/websales/show/371784/"
+          },
+          {
+            "time": "22:20 (4)",
+            "purchase_url": "http://www.sambio.is/websales/show/371785/"
+          }
+        ]
+      },
+      {
+        "cinema": {
+          "id": 9,
+          "name": "Sambíóin, Akureyri"
+        },
+        "schedule": [
+          {
+            "time": "17:30 (1)",
+            "purchase_url": "http://www.sambio.is/websales/show/371831/"
+          },
+          {
+            "time": "20:00 (1)",
+            "purchase_url": "http://www.sambio.is/websales/show/371833/"
+          }
+        ]
+      }
+    ],
+    "certificate": {
+      "is": "16 ára",
+      "color": "red",
+      "number": "16"
+    },
+    "trailers": [
+      {
+        "id": 891699,
+        "results": [
+          {
+            "iso_639_1": "en",
+            "iso_3166_1": "US",
+            "name": "Official Trailer",
+            "key": "yBnTqn0lBDA",
+            "site": "YouTube",
+            "size": 1080,
+            "type": "Trailer",
+            "official": true,
+            "published_at": "2023-10-03T16:00:15.000Z",
+            "id": "651c4136967cc7342468650e",
+            "url": "https://www.youtube.com/embed/yBnTqn0lBDA?rel=0"
+          }
+        ]
+      }
+    ],
+    "omdb": [
+      {
+        "Title": "Silent Night",
+        "Year": "2023",
+        "Rated": "R",
+        "Released": "01 Dec 2023",
+        "Runtime": "104 min",
+        "Genre": "Action",
+        "Director": "John Woo",
+        "Writer": "Robert Archer Lynn",
+        "Actors": "Joel Kinnaman, Catalina Sandino Moreno, Kid Cudi",
+        "Plot": "A grieving father enacts his long-awaited revenge against a ruthless gang on Christmas Eve.",
+        "Language": "None",
+        "Country": "United States",
+        "Awards": "N/A",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BN2ZjNDg4ZGQtZTY4NC00MWVmLTk4ZmEtYjc1NWRkZWRjMWUwXkEyXkFqcGdeQXVyMjM4NTM5NDY@._V1_SX300.jpg",
+        "Ratings": [],
+        "Metascore": "N/A",
+        "imdbRating": "N/A",
+        "imdbVotes": "N/A",
+        "imdbID": "tt15799866",
+        "Type": "movie",
+        "tomatoMeter": "N/A",
+        "tomatoImage": "N/A",
+        "tomatoRating": "N/A",
+        "tomatoReviews": "N/A",
+        "tomatoFresh": "N/A",
+        "tomatoRotten": "N/A",
+        "tomatoConsensus": "N/A",
+        "tomatoUserMeter": "N/A",
+        "tomatoUserRating": "N/A",
+        "tomatoUserReviews": "N/A",
+        "tomatoURL": "N/A",
+        "DVD": "N/A",
+        "BoxOffice": "N/A",
+        "Production": "N/A",
+        "Website": "N/A",
+        "Response": "True"
+      }
+    ],
+    "plot": "Ósköp venjulegur faðir skorar miskunnarlaust glæpagengi úr undirheimunum á hólm til að hefna dauða ungs sonar síns á Aðfangadagskvöld."
+  },
+  {
+    "id": 16426,
+    "ids": {
+      "imdb": "1448754",
+      "rotten": "",
+      "tmdb": "1071215"
+    },
+    "title": "Thanksgiving",
+    "alternativeTitles": "",
+    "year": "2023",
+    "certificateIS": "18 ára",
+    "durationMinutes": 107,
+    "genres": [
+      {
+        "ID": 5,
+        "Name": "Hrollvekja",
+        "NameEN\t": "Horror"
+      },
+      {
+        "ID": 6,
+        "Name": "Spennutryllir",
+        "NameEN\t": "Thriller"
+      },
+      {
+        "ID": 38,
+        "Name": "Ráðgáta",
+        "NameEN\t": "Mystery"
+      }
+    ],
+    "poster": "http://kvikmyndir.is/images/poster/1718083_500-1700473458.jpg",
+    "actors_abridged": [
+      {
+        "name": "Patrick Dempsey"
+      },
+      {
+        "name": "Ty Olsson"
+      }
+    ],
+    "directors_abridged": [
+      {
+        "name": "Eli Roth"
+      }
+    ],
+    "ratings": {
+      "imdb": "7",
+      "rotten_audience": "0",
+      "rotten_critics": "0"
+    },
+    "showtimes": [
+      {
+        "cinema": {
+          "id": 1,
+          "name": "Smárabíó"
+        },
+        "schedule": [
+          {
+            "time": "17.10 (2)",
+            "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=105465&visLang=1"
+          },
+          {
+            "time": "19.40 (2)",
+            "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=105207&visLang=1"
+          },
+          {
+            "time": "21.50 (S)",
+            "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=105219&visLang=1"
+          },
+          {
+            "time": "22.10 (2)",
+            "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=105206&visLang=1"
+          }
+        ]
+      },
+      {
+        "cinema": {
+          "id": 6,
+          "name": "Álfabakki"
+        },
+        "schedule": [
+          {
+            "time": "17:40 (2)",
+            "purchase_url": "http://www.sambio.is/websales/show/371678/"
+          },
+          {
+            "time": "20:00 (2)",
+            "purchase_url": "http://www.sambio.is/websales/show/371512/"
+          },
+          {
+            "time": "22:20 (2)",
+            "purchase_url": "http://www.sambio.is/websales/show/371510/"
+          }
+        ]
+      },
+      {
+        "cinema": {
+          "id": 7,
+          "name": "Kringlubíó"
+        },
+        "schedule": [
+          {
+            "time": "19:00 (3)",
+            "purchase_url": "http://www.sambio.is/websales/show/371679/"
+          },
+          {
+            "time": "21:20 (3)",
+            "purchase_url": "http://www.sambio.is/websales/show/371684/"
+          }
+        ]
+      },
+      {
+        "cinema": {
+          "id": 8,
+          "name": "Sambíóin Egilshöll"
+        },
+        "schedule": [
+          {
+            "time": "17:40 (2)",
+            "purchase_url": "http://www.sambio.is/websales/show/371772/"
+          },
+          {
+            "time": "20:00 (2)",
+            "purchase_url": "http://www.sambio.is/websales/show/371774/"
+          },
+          {
+            "time": "22:20 (2)",
+            "purchase_url": "http://www.sambio.is/websales/show/371771/"
+          }
+        ]
+      },
+      {
+        "cinema": {
+          "id": 9,
+          "name": "Sambíóin, Akureyri"
+        },
+        "schedule": [
+          {
+            "time": "20:00 (2)",
+            "purchase_url": "http://www.sambio.is/websales/show/371829/"
+          }
+        ]
+      }
+    ],
+    "certificate": {
+      "is": "18 ára",
+      "color": "green",
+      "number": "L"
+    },
+    "trailers": [
+      {
+        "id": 1071215,
+        "results": [
+          {
+            "iso_639_1": "en",
+            "iso_3166_1": "US",
+            "name": "Crazy Good Chemistry!",
+            "key": "6h1Tlo8cgcI",
+            "site": "YouTube",
+            "size": 1080,
+            "type": "Featurette",
+            "official": true,
+            "published_at": "2023-11-11T03:30:03.000Z",
+            "id": "6557a23053866e00ff081938",
+            "url": "https://www.youtube.com/embed/6h1Tlo8cgcI?rel=0"
+          },
+          {
+            "iso_639_1": "en",
+            "iso_3166_1": "US",
+            "name": "John Carver Scare Prank",
+            "key": "x96a6hmM0KI",
+            "site": "YouTube",
+            "size": 1080,
+            "type": "Featurette",
+            "official": true,
+            "published_at": "2023-11-01T22:00:35.000Z",
+            "id": "6547a8299cc67b013a31a965",
+            "url": "https://www.youtube.com/embed/x96a6hmM0KI?rel=0"
+          },
+          {
+            "iso_639_1": "en",
+            "iso_3166_1": "US",
+            "name": "The Legend of John Carver",
+            "key": "8IFfKM7h4Ws",
+            "site": "YouTube",
+            "size": 1080,
+            "type": "Featurette",
+            "official": true,
+            "published_at": "2023-10-31T13:00:09.000Z",
+            "id": "6547a7b241a56133693ae21b",
+            "url": "https://www.youtube.com/embed/8IFfKM7h4Ws?rel=0"
+          },
+          {
+            "iso_639_1": "en",
+            "iso_3166_1": "US",
+            "name": "John Carver Returns to Plymouth",
+            "key": "22nJUDaOQQk",
+            "site": "YouTube",
+            "size": 1080,
+            "type": "Teaser",
+            "official": true,
+            "published_at": "2023-10-26T19:07:12.000Z",
+            "id": "653fb1dabc2cb300aca4ad65",
+            "url": "https://www.youtube.com/embed/22nJUDaOQQk?rel=0"
+          },
+          {
+            "iso_639_1": "en",
+            "iso_3166_1": "US",
+            "name": "Meet Jessica",
+            "key": "09ih97ZYIk4",
+            "site": "YouTube",
+            "size": 1080,
+            "type": "Featurette",
+            "official": true,
+            "published_at": "2023-10-26T02:30:00.000Z",
+            "id": "6557af59d051d9011db4d690",
+            "url": "https://www.youtube.com/embed/09ih97ZYIk4?rel=0"
+          },
+          {
+            "iso_639_1": "en",
+            "iso_3166_1": "US",
+            "name": "Director Eli Roth",
+            "key": "VUXfw5W-FA4",
+            "site": "YouTube",
+            "size": 1080,
+            "type": "Featurette",
+            "official": true,
+            "published_at": "2023-10-23T16:01:04.000Z",
+            "id": "65380cc77fcab300c98674da",
+            "url": "https://www.youtube.com/embed/VUXfw5W-FA4?rel=0"
+          },
+          {
+            "iso_639_1": "en",
+            "iso_3166_1": "US",
+            "name": "A New Horror Legend",
+            "key": "JVJtWY6x_dg",
+            "site": "YouTube",
+            "size": 1080,
+            "type": "Teaser",
+            "official": true,
+            "published_at": "2023-10-19T02:00:11.000Z",
+            "id": "6530b2861dbc8800ff801b7e",
+            "url": "https://www.youtube.com/embed/JVJtWY6x_dg?rel=0"
+          },
+          {
+            "iso_639_1": "en",
+            "iso_3166_1": "US",
+            "name": "Official Trailer (Censored)",
+            "key": "cuiJGpVnMiw",
+            "site": "YouTube",
+            "size": 1080,
+            "type": "Trailer",
+            "official": true,
+            "published_at": "2023-10-04T16:22:06.000Z",
+            "id": "651db10c967cc734295ed6d1",
+            "url": "https://www.youtube.com/embed/cuiJGpVnMiw?rel=0"
+          },
+          {
+            "iso_639_1": "en",
+            "iso_3166_1": "US",
+            "name": "Official Trailer",
+            "key": "KbU50SdL8zA",
+            "site": "YouTube",
+            "size": 1080,
+            "type": "Trailer",
+            "official": true,
+            "published_at": "2023-10-04T15:01:03.000Z",
+            "id": "651d7f01c50ad2014dd0056f",
+            "url": "https://www.youtube.com/embed/KbU50SdL8zA?rel=0"
+          },
+          {
+            "iso_639_1": "en",
+            "iso_3166_1": "US",
+            "name": "Official Teaser Trailer",
+            "key": "OHWiTwH53lU",
+            "site": "YouTube",
+            "size": 1080,
+            "type": "Teaser",
+            "official": true,
+            "published_at": "2023-09-07T16:00:28.000Z",
+            "id": "64f9f5d9ffc9de00e133f76e",
+            "url": "https://www.youtube.com/embed/OHWiTwH53lU?rel=0"
+          }
+        ]
+      }
+    ],
+    "omdb": [
+      {
+        "Title": "Thanksgiving",
+        "Year": "2023",
+        "Rated": "R",
+        "Released": "17 Nov 2023",
+        "Runtime": "107 min",
+        "Genre": "Horror, Mystery, Thriller",
+        "Director": "Eli Roth",
+        "Writer": "Jeff Rendell, Eli Roth",
+        "Actors": "Rick Hoffman, Gina Gershon, Patrick Dempsey",
+        "Plot": "After a Black Friday riot ends in tragedy, a mysterious Thanksgiving-inspired killer terrorizes Plymouth, Massachusetts - the birthplace of the infamous holiday.",
+        "Language": "English",
+        "Country": "United States",
+        "Awards": "N/A",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BOGZhOGJjZTAtOTJmYS00ZTk2LTgxYWEtNjM3ZmUxMjY2NWFiXkEyXkFqcGdeQXVyNjU2NTI4MjE@._V1_SX300.jpg",
+        "Ratings": [
+          {
+            "Source": "Internet Movie Database",
+            "Value": "6.0/10"
+          }
+        ],
+        "Metascore": "N/A",
+        "imdbRating": "6.0",
+        "imdbVotes": "181",
+        "imdbID": "tt1448754",
+        "Type": "movie",
+        "tomatoMeter": "N/A",
+        "tomatoImage": "N/A",
+        "tomatoRating": "N/A",
+        "tomatoReviews": "N/A",
+        "tomatoFresh": "N/A",
+        "tomatoRotten": "N/A",
+        "tomatoConsensus": "N/A",
+        "tomatoUserMeter": "N/A",
+        "tomatoUserRating": "N/A",
+        "tomatoUserReviews": "N/A",
+        "tomatoURL": "N/A",
+        "DVD": "N/A",
+        "BoxOffice": "N/A",
+        "Production": "N/A",
+        "Website": "N/A",
+        "Response": "True"
+      }
+    ],
+    "plot": "Eftir að uppreisn á Svarta föstudeginum endar á hörmulegan hátt herjar dularfullur morðingi sem sækir innblástur í Þakkargjörðarhátíðina, á íbúa Plymouth, Massachusetts - sem er fæðingarbær hins alræmda frídags."
+  },
+  {
+    "id": 16584,
+    "ids": {
+      "imdb": "19631454",
+      "rotten": "",
+      "tmdb": "1175535"
+    },
+    "title": "Uwierz w Mikolaja",
+    "alternativeTitles": "Believe in Santa",
+    "year": "2023",
+    "certificateIS": "12 ára",
+    "durationMinutes": 96,
+    "genres": [
+      {
+        "ID": 2,
+        "Name": "Gaman",
+        "NameEN\t": "Comedy"
+      }
+    ],
+    "poster": "http://kvikmyndir.is/images/poster/16584_500.jpg",
+    "actors_abridged": [
+      {
+        "name": "Teresa Lipowska"
+      },
+      {
+        "name": "Aleksandra Grabowska"
+      }
+    ],
+    "directors_abridged": [
+      {
+        "name": "Anna Wieczur-Bluszcz"
+      }
+    ],
+    "ratings": {
+      "imdb": "5.5",
+      "rotten_audience": "0",
+      "rotten_critics": "0"
+    },
+    "showtimes": [
+      {
+        "cinema": {
+          "id": 5,
+          "name": "Bíó Paradís"
+        },
+        "schedule": [
+          {
+            "time": "21:15 (2)",
+            "purchase_url": "https://tickets.bioparadis.is/#book/4365"
+          }
+        ]
+      }
+    ],
+    "certificate": {
+      "is": "12 ára",
+      "color": "yellow",
+      "number": "12"
+    },
+    "trailers": [
+      {
+        "id": 1175535,
+        "results": []
+      }
+    ],
+    "omdb": [
+      {
+        "Title": "Uwierz w Mikolaja",
+        "Year": "2023",
+        "Rated": "N/A",
+        "Released": "10 Nov 2023",
+        "Runtime": "N/A",
+        "Genre": "Comedy",
+        "Director": "Anna Wieczur-Bluszcz",
+        "Writer": "Gabriela Lazarkiewicz, Ilona Lepkowska",
+        "Actors": "Teresa Lipowska, Aleksandra Grabowska, Agnieszka Wiedlocha",
+        "Plot": "Due to a violent snowstorm, Agnieszka is cut off from the rest of the world in a charming mountain cottage, and a mysterious and handsome man in a Santa Claus suit appears on her way. Five-year-old Zosia and her mother, despite th...",
+        "Language": "Polish",
+        "Country": "Poland",
+        "Awards": "N/A",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BYWI3NjkwMWQtOWMyOS00MzI2LTk1NTEtN2M3ZDI5YjUyZDkxXkEyXkFqcGdeQXVyMTEwMTY3NDI@._V1_SX300.jpg",
+        "Ratings": [],
+        "Metascore": "N/A",
+        "imdbRating": "N/A",
+        "imdbVotes": "N/A",
+        "imdbID": "tt19631454",
+        "Type": "movie",
+        "tomatoMeter": "N/A",
+        "tomatoImage": "N/A",
+        "tomatoRating": "N/A",
+        "tomatoReviews": "N/A",
+        "tomatoFresh": "N/A",
+        "tomatoRotten": "N/A",
+        "tomatoConsensus": "N/A",
+        "tomatoUserMeter": "N/A",
+        "tomatoUserRating": "N/A",
+        "tomatoUserReviews": "N/A",
+        "tomatoURL": "N/A",
+        "DVD": "N/A",
+        "BoxOffice": "N/A",
+        "Production": "N/A",
+        "Website": "N/A",
+        "Response": "True"
+      }
+    ],
+    "plot": "Agnieszka er veðurteppt í fallegum fjallakofa og dularfullur, myndarlegur maður í Jólasveinabúningi birtist. Hin fimm ára gamla Zosia og móðir hennar eru, þrátt fyrir bágar aðstæður, að reyna að undirbúa hefðbundið aðfangadagskvöld og Robert, einmana lögregluþjónn á vakt, gæti aðstoðað. Þessi töfrandi tími er einnig tækifæri fyrir mann sem vill eyða hátíðinni með gömlu kærustunni, ef hún hefur tíma."
+  },
+  {
+    "id": 16570,
+    "ids": {
+      "imdb": "16300962",
+      "rotten": "",
+      "tmdb": "744857"
+    },
+    "title": "When Evil Lurks",
+    "alternativeTitles": "Cuando acecha la maldad",
+    "year": "2023",
+    "certificateIS": "16 ára",
+    "durationMinutes": 99,
+    "genres": [
+      {
+        "ID": 5,
+        "Name": "Hrollvekja",
+        "NameEN\t": "Horror"
+      }
+    ],
+    "poster": "http://kvikmyndir.is/images/poster/16570_500.jpg",
+    "actors_abridged": [
+      {
+        "name": "Ezequiel Rodríguez"
+      },
+      {
+        "name": "Demián Salomón"
+      }
+    ],
+    "directors_abridged": [
+      {
+        "name": "Demián Rugna"
+      }
+    ],
+    "ratings": {
+      "imdb": "7",
+      "rotten_audience": "0",
+      "rotten_critics": "0"
+    },
+    "showtimes": [
+      {
+        "cinema": {
+          "id": 1,
+          "name": "Smárabíó"
+        },
+        "schedule": [
+          {
+            "time": "19.30 (5)",
+            "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=105222&visLang=1"
+          }
+        ]
+      }
+    ],
+    "certificate": {
+      "is": "16 ára",
+      "color": "red",
+      "number": "16"
+    },
+    "trailers": [
+      {
+        "id": 744857,
+        "results": [
+          {
+            "iso_639_1": "en",
+            "iso_3166_1": "US",
+            "name": "The Scariest Film of the Year",
+            "key": "yD8Bu_BMtbs",
+            "site": "YouTube",
+            "size": 1080,
+            "type": "Teaser",
+            "official": true,
+            "published_at": "2023-10-24T18:55:52.000Z",
+            "id": "653eb536c8a5ac0100faa019",
+            "url": "https://www.youtube.com/embed/yD8Bu_BMtbs?rel=0"
+          },
+          {
+            "iso_639_1": "en",
+            "iso_3166_1": "US",
+            "name": "Official Clip \"Don't Do It!\"",
+            "key": "m5xBzIOvdeQ",
+            "site": "YouTube",
+            "size": 1080,
+            "type": "Clip",
+            "official": true,
+            "published_at": "2023-10-23T17:05:53.000Z",
+            "id": "6536bcfc8cfcc7010af6fb48",
+            "url": "https://www.youtube.com/embed/m5xBzIOvdeQ?rel=0"
+          },
+          {
+            "iso_639_1": "en",
+            "iso_3166_1": "US",
+            "name": "Official Trailer [Subtitled]",
+            "key": "YrTnV6gNzno",
+            "site": "YouTube",
+            "size": 1080,
+            "type": "Trailer",
+            "official": true,
+            "published_at": "2023-09-21T16:00:46.000Z",
+            "id": "650c7b903d745400ac9c8975",
+            "url": "https://www.youtube.com/embed/YrTnV6gNzno?rel=0"
+          },
+          {
+            "iso_639_1": "en",
+            "iso_3166_1": "US",
+            "name": "Teaser Trailer",
+            "key": "YbJEiOOvBxc",
+            "site": "YouTube",
+            "size": 1080,
+            "type": "Teaser",
+            "official": true,
+            "published_at": "2023-09-06T15:01:51.000Z",
+            "id": "64f8a368ffc9de00c4a1e3f7",
+            "url": "https://www.youtube.com/embed/YbJEiOOvBxc?rel=0"
+          }
+        ]
+      }
+    ],
+    "omdb": [
+      {
+        "Title": "When Evil Lurks",
+        "Year": "2023",
+        "Rated": "Not Rated",
+        "Released": "27 Oct 2023",
+        "Runtime": "99 min",
+        "Genre": "Horror",
+        "Director": "Demián Rugna",
+        "Writer": "Demián Rugna",
+        "Actors": "Ezequiel Rodríguez, Demián Salomón, Silvina Sabater",
+        "Plot": "In a remote village, two brothers find a demon-infected man just about to \"give birth\" to evil itself. They decide to get rid of the body, only to end up unintentionally spreading chaos.",
+        "Language": "Spanish",
+        "Country": "Argentina, United States",
+        "Awards": "1 win & 1 nomination",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMzNkMTA5ZTYtOGEzOC00MmJiLTgxMWYtM2JlZjhlZDVkYWE0XkEyXkFqcGdeQXVyMTczMjkzNDY@._V1_SX300.jpg",
+        "Ratings": [
+          {
+            "Source": "Internet Movie Database",
+            "Value": "7.0/10"
+          }
+        ],
+        "Metascore": "N/A",
+        "imdbRating": "7.0",
+        "imdbVotes": "14,831",
+        "imdbID": "tt16300962",
+        "Type": "movie",
+        "tomatoMeter": "N/A",
+        "tomatoImage": "N/A",
+        "tomatoRating": "N/A",
+        "tomatoReviews": "N/A",
+        "tomatoFresh": "N/A",
+        "tomatoRotten": "N/A",
+        "tomatoConsensus": "N/A",
+        "tomatoUserMeter": "N/A",
+        "tomatoUserRating": "N/A",
+        "tomatoUserReviews": "N/A",
+        "tomatoURL": "N/A",
+        "DVD": "N/A",
+        "BoxOffice": "$546,626",
+        "Production": "N/A",
+        "Website": "N/A",
+        "Response": "True"
+      }
+    ],
+    "plot": "Íbúar í litlu þorpi uppgötva að djöfull sé um það bil að fæðast í bænum. Í örvæntingu reyna íbúarnir að flýja áður en hið illa lítur dagsins ljós, en mögulega er það nú þegar orðið of seint."
+  },
+  {
+    "id": 16186,
+    "ids": {
+      "imdb": "16953666",
+      "rotten": "",
+      "tmdb": "925102"
+    },
+    "title": "The Night of the 12th",
+    "alternativeTitles": "La nuit du 12",
+    "year": "2022",
+    "certificateIS": "16 ára",
+    "durationMinutes": 115,
+    "genres": [
+      {
+        "ID": 4,
+        "Name": "Drama",
+        "NameEN\t": "Drama"
+      },
+      {
+        "ID": 8,
+        "Name": "Glæpa",
+        "NameEN\t": "Crime"
+      },
+      {
+        "ID": 38,
+        "Name": "Ráðgáta",
+        "NameEN\t": "Mystery"
+      }
+    ],
+    "poster": "http://kvikmyndir.is/images/poster/16186_500.jpg",
+    "actors_abridged": [
+      {
+        "name": "Bastien Bouillon"
+      },
+      {
+        "name": "Bouli Lanners"
+      }
+    ],
+    "directors_abridged": [
+      {
+        "name": "Dominik Moll"
+      }
+    ],
+    "ratings": {
+      "imdb": "7",
+      "rotten_audience": "0",
+      "rotten_critics": "0"
+    },
+    "showtimes": [
+      {
+        "cinema": {
+          "id": 5,
+          "name": "Bíó Paradís"
+        },
+        "schedule": [
+          {
+            "time": "18:45 (1)",
+            "purchase_url": "https://tickets.bioparadis.is/#book/4354"
+          }
+        ]
+      }
+    ],
+    "certificate": {
+      "is": "16 ára",
+      "color": "red",
+      "number": "16"
+    },
+    "trailers": [
+      {
+        "id": 925102,
+        "results": [
+          {
+            "iso_639_1": "en",
+            "iso_3166_1": "US",
+            "name": "Official UK Trailer #2",
+            "key": "_-kMRG6Mg9A",
+            "site": "YouTube",
+            "size": 1080,
+            "type": "Teaser",
+            "official": true,
+            "published_at": "2023-03-31T10:55:14.000Z",
+            "id": "642e98ba0d2f5300f4f7d3a9",
+            "url": "https://www.youtube.com/embed/_-kMRG6Mg9A?rel=0"
+          },
+          {
+            "iso_639_1": "en",
+            "iso_3166_1": "US",
+            "name": "Official UK Trailer",
+            "key": "58s-pXvTQss",
+            "site": "YouTube",
+            "size": 1080,
+            "type": "Trailer",
+            "official": true,
+            "published_at": "2023-03-01T13:24:57.000Z",
+            "id": "6414aa2025cd85007c88825e",
+            "url": "https://www.youtube.com/embed/58s-pXvTQss?rel=0"
+          },
+          {
+            "iso_639_1": "en",
+            "iso_3166_1": "US",
+            "name": "Official Trailer",
+            "key": "LJVGC6N-vuk",
+            "site": "YouTube",
+            "size": 1080,
+            "type": "Trailer",
+            "official": true,
+            "published_at": "2022-06-28T02:30:44.000Z",
+            "id": "63820facfb834600876f7de1",
+            "url": "https://www.youtube.com/embed/LJVGC6N-vuk?rel=0"
+          }
+        ]
+      }
+    ],
+    "omdb": [
+      {
+        "Title": "The Night of the 12th",
+        "Year": "2022",
+        "Rated": "N/A",
+        "Released": "13 Jul 2022",
+        "Runtime": "115 min",
+        "Genre": "Crime, Drama, Mystery",
+        "Director": "Dominik Moll",
+        "Writer": "Pauline Guéna, Gilles Marchand, Dominik Moll",
+        "Actors": "Bastien Bouillon, Bouli Lanners, Théo Cholbi",
+        "Plot": "It is said that every investigator has a crime that haunts them, a case that hurts him more than the others, without him necessarily knowing why. For Yohan that case is the murder of Clara.",
+        "Language": "French, English",
+        "Country": "France, Belgium",
+        "Awards": "11 wins & 11 nominations",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BZWU5ZTIzMzEtYzAyYy00NWY4LWFkZTgtZjkxOTM0YzdlZTAxXkEyXkFqcGdeQXVyMTMwNjQxNDU1._V1_SX300.jpg",
+        "Ratings": [
+          {
+            "Source": "Internet Movie Database",
+            "Value": "7.0/10"
+          },
+          {
+            "Source": "Metacritic",
+            "Value": "81/100"
+          }
+        ],
+        "Metascore": "81",
+        "imdbRating": "7.0",
+        "imdbVotes": "7,803",
+        "imdbID": "tt16953666",
+        "Type": "movie",
+        "tomatoMeter": "N/A",
+        "tomatoImage": "N/A",
+        "tomatoRating": "N/A",
+        "tomatoReviews": "N/A",
+        "tomatoFresh": "N/A",
+        "tomatoRotten": "N/A",
+        "tomatoConsensus": "N/A",
+        "tomatoUserMeter": "N/A",
+        "tomatoUserRating": "N/A",
+        "tomatoUserReviews": "N/A",
+        "tomatoURL": "N/A",
+        "DVD": "N/A",
+        "BoxOffice": "$64,632",
+        "Production": "N/A",
+        "Website": "N/A",
+        "Response": "True"
+      }
+    ],
+    "plot": "Við fylgjumst með rannsóknarlögreglumanni sem getur ekki hætt að hugsa um morðið á Clöru – hvað gerðist eiginlega þetta kvöld?"
+  },
+  {
+    "id": 16119,
+    "ids": {
+      "imdb": "13287846",
+      "rotten": "",
+      "tmdb": "753342"
+    },
+    "title": "Napoleon",
+    "alternativeTitles": "",
+    "year": "2023",
+    "certificateIS": "16 ára",
+    "durationMinutes": 158,
+    "genres": [
+      {
+        "ID": 1,
+        "Name": "Spenna",
+        "NameEN\t": "Action"
+      },
+      {
+        "ID": 32,
+        "Name": "Ævintýri",
+        "NameEN\t": "Adventure"
+      },
+      {
+        "ID": 42,
+        "Name": "Æviágrip",
+        "NameEN\t": "Biography"
+      }
+    ],
+    "poster": "http://kvikmyndir.is/images/poster/16119_500.jpg",
+    "actors_abridged": [
+      {
+        "name": "Joaquin Phoenix"
+      },
+      {
+        "name": "Vanessa Kirby"
+      }
+    ],
+    "directors_abridged": [
+      {
+        "name": "Ridley Scott"
+      }
+    ],
+    "ratings": {
+      "imdb": "6.7",
+      "rotten_audience": "0",
+      "rotten_critics": "0"
+    },
+    "showtimes": [
+      {
+        "cinema": {
+          "id": 1,
+          "name": "Smárabíó"
+        },
+        "schedule": [
+          {
+            "time": "16.30 (X)",
+            "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=105223&visLang=1"
+          },
+          {
+            "time": "20.00 (X)",
+            "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=105200&visLang=1"
+          },
+          {
+            "time": "21.30 (5)",
+            "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=105204&visLang=1"
+          }
+        ]
+      },
+      {
+        "cinema": {
+          "id": 4,
+          "name": "Laugarásbíó"
+        },
+        "schedule": [
+          {
+            "time": "17:15 (A)",
+            "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/794474/"
+          },
+          {
+            "time": "20:30 (A)",
+            "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/794475/"
+          }
+        ]
+      },
+      {
+        "cinema": {
+          "id": 6,
+          "name": "Álfabakki"
+        },
+        "schedule": [
+          {
+            "time": "19:00 (P)",
+            "purchase_url": "http://www.sambio.is/websales/show/371502/"
+          },
+          {
+            "time": "19:10 (3)",
+            "purchase_url": "http://www.sambio.is/websales/show/371495/"
+          },
+          {
+            "time": "20:00 (1)",
+            "purchase_url": "http://www.sambio.is/websales/show/371496/"
+          },
+          {
+            "time": "21:40 (A)",
+            "purchase_url": "http://www.sambio.is/websales/show/371481/"
+          },
+          {
+            "time": "22:00 (P)",
+            "purchase_url": "http://www.sambio.is/websales/show/371500/"
+          }
+        ]
+      },
+      {
+        "cinema": {
+          "id": 7,
+          "name": "Kringlubíó"
+        },
+        "schedule": [
+          {
+            "time": "14:40 (g)",
+            "purchase_url": "http://www.sambio.is/websales/show/371652/"
+          },
+          {
+            "time": "17:40 (1)",
+            "purchase_url": "http://www.sambio.is/websales/show/371627/"
+          },
+          {
+            "time": "18:00 (g)",
+            "purchase_url": "http://www.sambio.is/websales/show/371653/"
+          },
+          {
+            "time": "21:00 (1)",
+            "purchase_url": "http://www.sambio.is/websales/show/371626/"
+          },
+          {
+            "time": "21:20 (g)",
+            "purchase_url": "http://www.sambio.is/websales/show/371661/"
+          }
+        ]
+      },
+      {
+        "cinema": {
+          "id": 8,
+          "name": "Sambíóin Egilshöll"
+        },
+        "schedule": [
+          {
+            "time": "20:00 (1)",
+            "purchase_url": "http://www.sambio.is/websales/show/371759/"
+          }
+        ]
+      }
+    ],
+    "certificate": {
+      "is": "16 ára",
+      "color": "red",
+      "number": "16"
+    },
+    "trailers": [
+      {
+        "id": 753342,
+        "results": [
+          {
+            "iso_639_1": "en",
+            "iso_3166_1": "US",
+            "name": "Coronation",
+            "key": "r55g0nT8_BQ",
+            "site": "YouTube",
+            "size": 1080,
+            "type": "Clip",
+            "official": true,
+            "published_at": "2023-12-02T18:30:29.000Z",
+            "id": "656b9dbb886348014d84012d",
+            "url": "https://www.youtube.com/embed/r55g0nT8_BQ?rel=0"
+          },
+          {
+            "iso_639_1": "en",
+            "iso_3166_1": "US",
+            "name": "Storm Review 60\"",
+            "key": "4gClVB6wLq4",
+            "site": "YouTube",
+            "size": 1080,
+            "type": "Teaser",
+            "official": true,
+            "published_at": "2023-11-22T12:47:36.000Z",
+            "id": "656394353679a10974da2a0a",
+            "url": "https://www.youtube.com/embed/4gClVB6wLq4?rel=0"
+          },
+          {
+            "iso_639_1": "en",
+            "iso_3166_1": "US",
+            "name": "Final Trailer",
+            "key": "1DJYiG6wh0w",
+            "site": "YouTube",
+            "size": 1080,
+            "type": "Trailer",
+            "official": true,
+            "published_at": "2023-11-20T15:30:00.000Z",
+            "id": "655b8084ea84c71096e00679",
+            "url": "https://www.youtube.com/embed/1DJYiG6wh0w?rel=0"
+          },
+          {
+            "iso_639_1": "en",
+            "iso_3166_1": "US",
+            "name": "Premiere Sizzle",
+            "key": "KsC2TD_IuCg",
+            "site": "YouTube",
+            "size": 1080,
+            "type": "Featurette",
+            "official": true,
+            "published_at": "2023-11-17T18:07:41.000Z",
+            "id": "6557b2ea7f054018d515f861",
+            "url": "https://www.youtube.com/embed/KsC2TD_IuCg?rel=0"
+          },
+          {
+            "iso_639_1": "en",
+            "iso_3166_1": "US",
+            "name": "Premiere Timelapse",
+            "key": "aBKcJE1yTp8",
+            "site": "YouTube",
+            "size": 1080,
+            "type": "Featurette",
+            "official": true,
+            "published_at": "2023-11-17T18:07:09.000Z",
+            "id": "6557b2f8b5400214d06f11d6",
+            "url": "https://www.youtube.com/embed/aBKcJE1yTp8?rel=0"
+          },
+          {
+            "iso_639_1": "en",
+            "iso_3166_1": "US",
+            "name": "Behind the Scenes With Ridley Scott",
+            "key": "jWfRDil69sg",
+            "site": "YouTube",
+            "size": 1080,
+            "type": "Featurette",
+            "official": true,
+            "published_at": "2023-11-11T17:00:38.000Z",
+            "id": "6552c2a267b61345cf040866",
+            "url": "https://www.youtube.com/embed/jWfRDil69sg?rel=0"
+          },
+          {
+            "iso_639_1": "en",
+            "iso_3166_1": "US",
+            "name": "Film Clip",
+            "key": "X45DbrvWCyc",
+            "site": "YouTube",
+            "size": 1080,
+            "type": "Clip",
+            "official": true,
+            "published_at": "2023-11-10T17:00:33.000Z",
+            "id": "6552c28567b61345cb4c8116",
+            "url": "https://www.youtube.com/embed/X45DbrvWCyc?rel=0"
+          },
+          {
+            "iso_639_1": "en",
+            "iso_3166_1": "US",
+            "name": "Vanessa Kirby is Josephine",
+            "key": "GFxZN5rteXk",
+            "site": "YouTube",
+            "size": 1080,
+            "type": "Featurette",
+            "official": true,
+            "published_at": "2023-10-19T15:59:03.000Z",
+            "id": "65315848c439c00138364342",
+            "url": "https://www.youtube.com/embed/GFxZN5rteXk?rel=0"
+          },
+          {
+            "iso_639_1": "en",
+            "iso_3166_1": "US",
+            "name": "Official Trailer #2",
+            "key": "LIsfMO5Jd_w",
+            "site": "YouTube",
+            "size": 1080,
+            "type": "Trailer",
+            "official": true,
+            "published_at": "2023-10-18T12:59:40.000Z",
+            "id": "6530aac451a64e00e9d0ae49",
+            "url": "https://www.youtube.com/embed/LIsfMO5Jd_w?rel=0"
+          },
+          {
+            "iso_639_1": "en",
+            "iso_3166_1": "US",
+            "name": "Vignette - Ridley Scott: Real Filmmaking",
+            "key": "37EySlTiO4I",
+            "site": "YouTube",
+            "size": 1080,
+            "type": "Featurette",
+            "official": true,
+            "published_at": "2023-10-03T14:59:00.000Z",
+            "id": "651c2c67223a8b01206d2cb2",
+            "url": "https://www.youtube.com/embed/37EySlTiO4I?rel=0"
+          },
+          {
+            "iso_639_1": "en",
+            "iso_3166_1": "US",
+            "name": "\"Unique Genius\" Vignette",
+            "key": "t-GzKyT3xO8",
+            "site": "YouTube",
+            "size": 1080,
+            "type": "Featurette",
+            "official": true,
+            "published_at": "2023-10-02T13:44:18.000Z",
+            "id": "651acd5f967cc73427f1c61f",
+            "url": "https://www.youtube.com/embed/t-GzKyT3xO8?rel=0"
+          },
+          {
+            "iso_639_1": "en",
+            "iso_3166_1": "US",
+            "name": "Official Trailer",
+            "key": "CBmWztLPp9c",
+            "site": "YouTube",
+            "size": 1080,
+            "type": "Trailer",
+            "official": true,
+            "published_at": "2023-07-10T11:59:53.000Z",
+            "id": "64abf3e88a0e9b0100c3b3ff",
+            "url": "https://www.youtube.com/embed/CBmWztLPp9c?rel=0"
+          }
+        ]
+      }
+    ],
+    "omdb": [
+      {
+        "Title": "Napoleon",
+        "Year": "2023",
+        "Rated": "R",
+        "Released": "22 Nov 2023",
+        "Runtime": "158 min",
+        "Genre": "Action, Adventure, Biography",
+        "Director": "Ridley Scott",
+        "Writer": "David Scarpa",
+        "Actors": "Vanessa Kirby, Joaquin Phoenix, Ludivine Sagnier",
+        "Plot": "An epic that details the checkered rise and fall of French Emperor Napoleon Bonaparte and his relentless journey to power through the prism of his addictive, volatile relationship with his wife, Josephine.",
+        "Language": "English",
+        "Country": "United Kingdom, United States",
+        "Awards": "1 nomination",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BZWIzNDAxMTktMDMzZS00ZjJmLTlhNjYtOGUxYmZlYzVmOGE4XkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_SX300.jpg",
+        "Ratings": [],
+        "Metascore": "N/A",
+        "imdbRating": "N/A",
+        "imdbVotes": "N/A",
+        "imdbID": "tt13287846",
+        "Type": "movie",
+        "tomatoMeter": "N/A",
+        "tomatoImage": "N/A",
+        "tomatoRating": "N/A",
+        "tomatoReviews": "N/A",
+        "tomatoFresh": "N/A",
+        "tomatoRotten": "N/A",
+        "tomatoConsensus": "N/A",
+        "tomatoUserMeter": "N/A",
+        "tomatoUserRating": "N/A",
+        "tomatoUserReviews": "N/A",
+        "tomatoURL": "N/A",
+        "DVD": "N/A",
+        "BoxOffice": "N/A",
+        "Production": "N/A",
+        "Website": "N/A",
+        "Response": "True"
+      }
+    ],
+    "plot": "Mynd um Napóleon Bonaparte Frakkakeisara og leið hans til valda, séð í gegnum sjónarhorn viðkvæms sambands hans og eiginkonunnar og einu sönnu ástar, Josephine."
+  },
+  {
+    "id": 16335,
+    "ids": {
+      "imdb": "11304740",
+      "rotten": "",
+      "tmdb": "1022796"
+    },
+    "title": "Wish",
+    "alternativeTitles": "Ósk",
+    "year": "2023",
+    "certificateIS": "6 ára",
+    "durationMinutes": 92,
+    "genres": [
+      {
+        "ID": 2,
+        "Name": "Gaman",
+        "NameEN\t": "Comedy"
+      },
+      {
+        "ID": 32,
+        "Name": "Ævintýri",
+        "NameEN\t": "Adventure"
+      },
+      {
+        "ID": 70,
+        "Name": "Teiknað",
+        "NameEN\t": "Animation"
+      }
+    ],
+    "poster": "http://kvikmyndir.is/images/poster/1717074_500-1697129266.jpg",
+    "actors_abridged": [
+      {
+        "name": "Ariana DeBose"
+      },
+      {
+        "name": "Chris Pine"
+      }
+    ],
+    "directors_abridged": [
+      {
+        "name": "Chris Buck"
+      },
+      {
+        "name": "Fawn Veerasunthorn"
+      }
+    ],
+    "ratings": {
+      "imdb": "5.9",
+      "rotten_audience": "0",
+      "rotten_critics": "48"
+    },
+    "showtimes": [
+      {
+        "cinema": {
+          "id": 1,
+          "name": "Smárabíó"
+        },
+        "schedule": [
+          {
+            "time": "15.00 (ÍSL TAL ÍSL TAL 4)",
+            "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=105203&visLang=1"
+          }
+        ]
+      },
+      {
+        "cinema": {
+          "id": 4,
+          "name": "Laugarásbíó"
+        },
+        "schedule": [
+          {
+            "time": "17:30 (L)",
+            "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/794471/"
+          }
+        ]
+      },
+      {
+        "cinema": {
+          "id": 6,
+          "name": "Álfabakki"
+        },
+        "schedule": [
+          {
+            "time": "17:40 (1)",
+            "purchase_url": "http://www.sambio.is/websales/show/371448/"
+          },
+          {
+            "time": "17:40 (B)",
+            "purchase_url": "http://www.sambio.is/websales/show/371475/"
+          },
+          {
+            "time": "20:00 (B)",
+            "purchase_url": "http://www.sambio.is/websales/show/371476/"
+          },
+          {
+            "time": "22:20 (B)",
+            "purchase_url": "http://www.sambio.is/websales/show/371463/"
+          }
+        ]
+      },
+      {
+        "cinema": {
+          "id": 7,
+          "name": "Kringlubíó"
+        },
+        "schedule": [
+          {
+            "time": "15:20 (1)",
+            "purchase_url": "http://www.sambio.is/websales/show/371599/"
+          },
+          {
+            "time": "16:40 (3)",
+            "purchase_url": "http://www.sambio.is/websales/show/371597/"
+          },
+          {
+            "time": "18:10 (2)",
+            "purchase_url": "http://www.sambio.is/websales/show/371592/"
+          }
+        ]
+      },
+      {
+        "cinema": {
+          "id": 8,
+          "name": "Sambíóin Egilshöll"
+        },
+        "schedule": [
+          {
+            "time": "17:40 (4)",
+            "purchase_url": "http://www.sambio.is/websales/show/371751/"
+          }
+        ]
+      },
+      {
+        "cinema": {
+          "id": 9,
+          "name": "Sambíóin, Akureyri"
+        },
+        "schedule": [
+          {
+            "time": "17:30 (2)",
+            "purchase_url": "http://www.sambio.is/websales/show/371823/"
+          }
+        ]
+      }
+    ],
+    "certificate": {
+      "is": "6 ára",
+      "color": "green",
+      "number": "6"
+    },
+    "trailers": [
+      {
+        "id": 1022796,
+        "results": [
+          {
+            "iso_639_1": "en",
+            "iso_3166_1": "US",
+            "name": "Ariana DeBose Performs \"This Wish\" at Disneyland Paris",
+            "key": "38TyKEZbkr0",
+            "site": "YouTube",
+            "size": 1080,
+            "type": "Featurette",
+            "official": true,
+            "published_at": "2023-11-27T17:00:02.000Z",
+            "id": "656816b1fb5299011f70a6c7",
+            "url": "https://www.youtube.com/embed/38TyKEZbkr0?rel=0"
+          },
+          {
+            "iso_639_1": "en",
+            "iso_3166_1": "US",
+            "name": "Official Clip: We Need A Plan",
+            "key": "wJ2UPmg1zLI",
+            "site": "YouTube",
+            "size": 1080,
+            "type": "Clip",
+            "official": true,
+            "published_at": "2023-11-24T18:00:36.000Z",
+            "id": "65638323a6c104011bde45b3",
+            "url": "https://www.youtube.com/embed/wJ2UPmg1zLI?rel=0"
+          },
+          {
+            "iso_639_1": "en",
+            "iso_3166_1": "US",
+            "name": "Disney's Wish | Making Wish Pop Off The Screen",
+            "key": "5tmuwCZyebY",
+            "site": "YouTube",
+            "size": 1080,
+            "type": "Behind the Scenes",
+            "official": true,
+            "published_at": "2023-11-22T20:00:04.000Z",
+            "id": "656383322da846013b600a21",
+            "url": "https://www.youtube.com/embed/5tmuwCZyebY?rel=0"
+          },
+          {
+            "iso_639_1": "en",
+            "iso_3166_1": "US",
+            "name": "Academy Conversations - 'Wish' with Ariana DeBose and filmmakers",
+            "key": "82NbHdPVQCI",
+            "site": "YouTube",
+            "size": 1080,
+            "type": "Featurette",
+            "official": true,
+            "published_at": "2023-11-22T18:00:08.000Z",
+            "id": "655ddf16fab3fa00e1408b0c",
+            "url": "https://www.youtube.com/embed/82NbHdPVQCI?rel=0"
+          },
+          {
+            "iso_639_1": "en",
+            "iso_3166_1": "US",
+            "name": "Clip: Ariana Debose Performs \"This Wish\" at Disneyland Paris",
+            "key": "sXGuMfFk-eI",
+            "site": "YouTube",
+            "size": 1080,
+            "type": "Featurette",
+            "official": true,
+            "published_at": "2023-11-20T15:00:44.000Z",
+            "id": "6563833bfb529900aeda0cee",
+            "url": "https://www.youtube.com/embed/sXGuMfFk-eI?rel=0"
+          },
+          {
+            "iso_639_1": "en",
+            "iso_3166_1": "US",
+            "name": "Writing & Recording \"Knowing What I Know Now\"",
+            "key": "8a5SHQEhF6U",
+            "site": "YouTube",
+            "size": 1080,
+            "type": "Behind the Scenes",
+            "official": true,
+            "published_at": "2023-11-17T17:00:11.000Z",
+            "id": "6557b370d4fe04013982f82c",
+            "url": "https://www.youtube.com/embed/8a5SHQEhF6U?rel=0"
+          },
+          {
+            "iso_639_1": "en",
+            "iso_3166_1": "US",
+            "name": "Ariana Debose Performs \"This Wish\" At Disneyland",
+            "key": "MKwYZ-mIWuE",
+            "site": "YouTube",
+            "size": 1080,
+            "type": "Featurette",
+            "official": true,
+            "published_at": "2023-11-15T23:24:34.000Z",
+            "id": "655796a8ca0e17011d17616b",
+            "url": "https://www.youtube.com/embed/MKwYZ-mIWuE?rel=0"
+          },
+          {
+            "iso_639_1": "en",
+            "iso_3166_1": "US",
+            "name": "\"Knowing What I Know Now\"",
+            "key": "dYYnNvSrfSU",
+            "site": "YouTube",
+            "size": 1080,
+            "type": "Teaser",
+            "official": true,
+            "published_at": "2023-11-15T15:00:36.000Z",
+            "id": "65551018ac416100c63ba39b",
+            "url": "https://www.youtube.com/embed/dYYnNvSrfSU?rel=0"
+          },
+          {
+            "iso_639_1": "en",
+            "iso_3166_1": "US",
+            "name": "Booth-to-Screen: \"Knowing What I Know Now\"",
+            "key": "JtTgzKIJT5o",
+            "site": "YouTube",
+            "size": 1080,
+            "type": "Behind the Scenes",
+            "official": true,
+            "published_at": "2023-11-14T17:00:14.000Z",
+            "id": "6557969ed4fe0400e1b42802",
+            "url": "https://www.youtube.com/embed/JtTgzKIJT5o?rel=0"
+          },
+          {
+            "iso_639_1": "en",
+            "iso_3166_1": "US",
+            "name": "A Journey Through Wish with Special Guests",
+            "key": "8UTsDb5h9m4",
+            "site": "YouTube",
+            "size": 1080,
+            "type": "Featurette",
+            "official": true,
+            "published_at": "2023-11-11T17:55:10.000Z",
+            "id": "6557968ad051d90100856ccb",
+            "url": "https://www.youtube.com/embed/8UTsDb5h9m4?rel=0"
+          },
+          {
+            "iso_639_1": "en",
+            "iso_3166_1": "US",
+            "name": "Alan Is In Everything",
+            "key": "whj1BVoiuxo",
+            "site": "YouTube",
+            "size": 1080,
+            "type": "Featurette",
+            "official": true,
+            "published_at": "2023-11-10T22:00:32.000Z",
+            "id": "6557966db5400214d27c0585",
+            "url": "https://www.youtube.com/embed/whj1BVoiuxo?rel=0"
+          },
+          {
+            "iso_639_1": "en",
+            "iso_3166_1": "US",
+            "name": "Writing & Recording \"I'm A Star\"",
+            "key": "PburFAbTZnM",
+            "site": "YouTube",
+            "size": 1080,
+            "type": "Behind the Scenes",
+            "official": true,
+            "published_at": "2023-11-10T17:00:31.000Z",
+            "id": "6557965b0816c700c3dc8961",
+            "url": "https://www.youtube.com/embed/PburFAbTZnM?rel=0"
+          },
+          {
+            "iso_639_1": "en",
+            "iso_3166_1": "US",
+            "name": "Official Clip - I Decide What Everyone Deserves",
+            "key": "NaLQ1RpoFGY",
+            "site": "YouTube",
+            "size": 1080,
+            "type": "Clip",
+            "official": true,
+            "published_at": "2023-11-08T20:00:14.000Z",
+            "id": "6557964453866e00c5b2ce38",
+            "url": "https://www.youtube.com/embed/NaLQ1RpoFGY?rel=0"
+          },
+          {
+            "iso_639_1": "en",
+            "iso_3166_1": "US",
+            "name": "\"I'm A Star\"",
+            "key": "Lyqhit860KM",
+            "site": "YouTube",
+            "size": 1080,
+            "type": "Teaser",
+            "official": true,
+            "published_at": "2023-11-08T14:59:00.000Z",
+            "id": "6557963a7f054018d24777cf",
+            "url": "https://www.youtube.com/embed/Lyqhit860KM?rel=0"
+          },
+          {
+            "iso_639_1": "en",
+            "iso_3166_1": "US",
+            "name": "Booth-to-Screen: \"I'm A Star\"",
+            "key": "pmFJ2GeLzac",
+            "site": "YouTube",
+            "size": 1080,
+            "type": "Behind the Scenes",
+            "official": true,
+            "published_at": "2023-11-07T18:00:35.000Z",
+            "id": "65579628b5400214d27c056b",
+            "url": "https://www.youtube.com/embed/pmFJ2GeLzac?rel=0"
+          },
+          {
+            "iso_639_1": "en",
+            "iso_3166_1": "US",
+            "name": "Official Clip - \"I'm A Star\"",
+            "key": "5BCtEE0Ys7w",
+            "site": "YouTube",
+            "size": 1080,
+            "type": "Clip",
+            "official": true,
+            "published_at": "2023-11-07T17:00:04.000Z",
+            "id": "6557960c7f054018d34233fe",
+            "url": "https://www.youtube.com/embed/5BCtEE0Ys7w?rel=0"
+          },
+          {
+            "iso_639_1": "en",
+            "iso_3166_1": "US",
+            "name": "Featurette - \"A Century In The Making\"",
+            "key": "zoTFzeB29n0",
+            "site": "YouTube",
+            "size": 1080,
+            "type": "Featurette",
+            "official": true,
+            "published_at": "2023-11-01T20:08:42.000Z",
+            "id": "6543b4e2ed2ac2011e4c4685",
+            "url": "https://www.youtube.com/embed/zoTFzeB29n0?rel=0"
+          },
+          {
+            "iso_639_1": "en",
+            "iso_3166_1": "US",
+            "name": "Welcome to Rosas",
+            "key": "YjY-w6CkVtM",
+            "site": "YouTube",
+            "size": 1080,
+            "type": "Teaser",
+            "official": true,
+            "published_at": "2023-11-01T16:21:39.000Z",
+            "id": "6543b484ed2ac200e3c9ac9d",
+            "url": "https://www.youtube.com/embed/YjY-w6CkVtM?rel=0"
+          },
+          {
+            "iso_639_1": "en",
+            "iso_3166_1": "US",
+            "name": "The Making of \"Welcome to Rosas\"",
+            "key": "pBXQiNY7p6A",
+            "site": "YouTube",
+            "size": 1080,
+            "type": "Behind the Scenes",
+            "official": true,
+            "published_at": "2023-11-01T13:59:00.000Z",
+            "id": "6543b4b0e1ad79014bd22623",
+            "url": "https://www.youtube.com/embed/pBXQiNY7p6A?rel=0"
+          },
+          {
+            "iso_639_1": "en",
+            "iso_3166_1": "US",
+            "name": "Booth-to-Screen: \"Welcome To Rosas\"",
+            "key": "KixZ-w3pQ9M",
+            "site": "YouTube",
+            "size": 1080,
+            "type": "Behind the Scenes",
+            "official": true,
+            "published_at": "2023-10-31T15:55:11.000Z",
+            "id": "6547def1d8cc4a013a7b02d0",
+            "url": "https://www.youtube.com/embed/KixZ-w3pQ9M?rel=0"
+          },
+          {
+            "iso_639_1": "en",
+            "iso_3166_1": "US",
+            "name": "A Musical Event",
+            "key": "eQPeGiCH7A0",
+            "site": "YouTube",
+            "size": 1080,
+            "type": "Trailer",
+            "official": true,
+            "published_at": "2023-10-30T19:00:22.000Z",
+            "id": "654804a141a561336c5d3eb7",
+            "url": "https://www.youtube.com/embed/eQPeGiCH7A0?rel=0"
+          },
+          {
+            "iso_639_1": "en",
+            "iso_3166_1": "US",
+            "name": "Making a New Disney Villain",
+            "key": "vgOhz3qk0c4",
+            "site": "YouTube",
+            "size": 1080,
+            "type": "Behind the Scenes",
+            "official": true,
+            "published_at": "2023-10-25T23:58:00.000Z",
+            "id": "653cf97dbc2cb3014d4a7d80",
+            "url": "https://www.youtube.com/embed/vgOhz3qk0c4?rel=0"
+          },
+          {
+            "iso_639_1": "en",
+            "iso_3166_1": "US",
+            "name": "\"This Is The Thanks I Get?!\"",
+            "key": "BHt7Otgx9-Y",
+            "site": "YouTube",
+            "size": 1080,
+            "type": "Teaser",
+            "official": true,
+            "published_at": "2023-10-25T14:00:05.000Z",
+            "id": "653cf98acc9683014eb8f75c",
+            "url": "https://www.youtube.com/embed/BHt7Otgx9-Y?rel=0"
+          },
+          {
+            "iso_639_1": "en",
+            "iso_3166_1": "US",
+            "name": "Booth to Screen -  \"This Is The Thanks I Get?!\"",
+            "key": "syqFr82eM3Q",
+            "site": "YouTube",
+            "size": 1080,
+            "type": "Behind the Scenes",
+            "official": true,
+            "published_at": "2023-10-24T15:55:06.000Z",
+            "id": "653cf98ebc2cb3014d4a7d85",
+            "url": "https://www.youtube.com/embed/syqFr82eM3Q?rel=0"
+          },
+          {
+            "iso_639_1": "en",
+            "iso_3166_1": "US",
+            "name": "Tickets on Sale Now",
+            "key": "tOXC5kjsvss",
+            "site": "YouTube",
+            "size": 1080,
+            "type": "Teaser",
+            "official": true,
+            "published_at": "2023-10-16T17:00:36.000Z",
+            "id": "652de7f50cb33516f63ff887",
+            "url": "https://www.youtube.com/embed/tOXC5kjsvss?rel=0"
+          },
+          {
+            "iso_639_1": "en",
+            "iso_3166_1": "US",
+            "name": "Writing & Recording \"This Wish\"",
+            "key": "jxKyVRfj948",
+            "site": "YouTube",
+            "size": 1080,
+            "type": "Behind the Scenes",
+            "official": true,
+            "published_at": "2023-10-16T16:00:37.000Z",
+            "id": "652de529caef2d00ff533840",
+            "url": "https://www.youtube.com/embed/jxKyVRfj948?rel=0"
+          },
+          {
+            "iso_639_1": "en",
+            "iso_3166_1": "US",
+            "name": "This Wish",
+            "key": "rI5OR0Rx5zc",
+            "site": "YouTube",
+            "size": 1080,
+            "type": "Teaser",
+            "official": true,
+            "published_at": "2023-10-16T12:48:43.000Z",
+            "id": "652de34aa8023600c315514a",
+            "url": "https://www.youtube.com/embed/rI5OR0Rx5zc?rel=0"
+          },
+          {
+            "iso_639_1": "en",
+            "iso_3166_1": "US",
+            "name": "Wish Together",
+            "key": "zIhJMpo-Z1U",
+            "site": "YouTube",
+            "size": 1080,
+            "type": "Featurette",
+            "official": true,
+            "published_at": "2023-10-04T14:05:44.000Z",
+            "id": "651db6e42f3b1700ae15a186",
+            "url": "https://www.youtube.com/embed/zIhJMpo-Z1U?rel=0"
+          },
+          {
+            "iso_639_1": "en",
+            "iso_3166_1": "US",
+            "name": "Official Trailer",
+            "key": "oyRxxpD3yNw",
+            "site": "YouTube",
+            "size": 1080,
+            "type": "Trailer",
+            "official": true,
+            "published_at": "2023-09-27T16:00:40.000Z",
+            "id": "6514554b93bd69011b8c0256",
+            "url": "https://www.youtube.com/embed/oyRxxpD3yNw?rel=0"
+          },
+          {
+            "iso_639_1": "en",
+            "iso_3166_1": "US",
+            "name": "Official Teaser Trailer",
+            "key": "ctlz0R1tSZE",
+            "site": "YouTube",
+            "size": 1080,
+            "type": "Trailer",
+            "official": true,
+            "published_at": "2023-04-27T12:41:06.000Z",
+            "id": "644b471c51a64e08fcdd1c86",
+            "url": "https://www.youtube.com/embed/ctlz0R1tSZE?rel=0"
+          }
+        ]
+      }
+    ],
+    "omdb": [
+      {
+        "Title": "Wish",
+        "Year": "2023",
+        "Rated": "PG",
+        "Released": "22 Nov 2023",
+        "Runtime": "92 min",
+        "Genre": "Animation, Adventure, Comedy",
+        "Director": "Chris Buck, Fawn Veerasunthorn",
+        "Writer": "Jennifer Lee, Allison Moore, Chris Buck",
+        "Actors": "Evan Peters, Chris Pine, Alan Tudyk",
+        "Plot": "Wish will follow a young girl named Asha who wishes on a star and gets a more direct answer than she bargained for when a trouble-making star comes down from the sky to join her.",
+        "Language": "English",
+        "Country": "United States",
+        "Awards": "1 nomination",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BYWQ4M2ZmODItNzZhYi00MzY1LTk2ZmItYTUwODI2NzJmN2JiXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_SX300.jpg",
+        "Ratings": [
+          {
+            "Source": "Rotten Tomatoes",
+            "Value": "48%"
+          }
+        ],
+        "Metascore": "N/A",
+        "imdbRating": "N/A",
+        "imdbVotes": "N/A",
+        "imdbID": "tt11304740",
+        "Type": "movie",
+        "tomatoMeter": "N/A",
+        "tomatoImage": "N/A",
+        "tomatoRating": "N/A",
+        "tomatoReviews": "N/A",
+        "tomatoFresh": "N/A",
+        "tomatoRotten": "N/A",
+        "tomatoConsensus": "N/A",
+        "tomatoUserMeter": "N/A",
+        "tomatoUserRating": "N/A",
+        "tomatoUserReviews": "N/A",
+        "tomatoURL": "https://www.rottentomatoes.com/m/wish_2023",
+        "DVD": "N/A",
+        "BoxOffice": "N/A",
+        "Production": "N/A",
+        "Website": "N/A",
+        "Response": "True"
+      }
+    ],
+    "plot": "Hér segir frá hinni ungu Asha sem óskar sér og fær beinskeittara svar en hana hafði nokkru sinni órað fyrir þegar óþekk stjarna kemur til hennar beint af himnum ofan."
+  },
+  {
+    "id": 16306,
+    "ids": {
+      "imdb": "23640230",
+      "rotten": "",
+      "tmdb": "1058688"
+    },
+    "title": "Smoke Sauna Sisterhood",
+    "alternativeTitles": "",
+    "year": "2023",
+    "certificateIS": "Öllum leyfð",
+    "durationMinutes": 89,
+    "genres": [
+      {
+        "ID": 39,
+        "Name": "Heimildarmynd",
+        "NameEN\t": "Documentary"
+      }
+    ],
+    "poster": "http://kvikmyndir.is/images/poster/16306_500.jpg",
+    "actors_abridged": [
+      {
+        "name": "Kadi Kivilo"
+      },
+      {
+        "name": "Maria Meresaar"
+      }
+    ],
+    "directors_abridged": [
+      {
+        "name": "Anna Hints"
+      }
+    ],
+    "ratings": {
+      "imdb": "7.8",
+      "rotten_audience": "0",
+      "rotten_critics": "0"
+    },
+    "showtimes": [
+      {
+        "cinema": {
+          "id": 5,
+          "name": "Bíó Paradís"
+        },
+        "schedule": [
+          {
+            "time": "16:50 (1)",
+            "purchase_url": "https://tickets.bioparadis.is/#book/4351"
+          }
+        ]
+      }
+    ],
+    "certificate": {
+      "is": "Öllum leyfð",
+      "color": "green",
+      "number": "L"
+    },
+    "trailers": [
+      {
+        "id": 1058688,
+        "results": [
+          {
+            "iso_639_1": "en",
+            "iso_3166_1": "US",
+            "name": "Official US Trailer [Subtitled]",
+            "key": "u57aVf1-SBk",
+            "site": "YouTube",
+            "size": 1080,
+            "type": "Trailer",
+            "official": true,
+            "published_at": "2023-10-12T15:59:29.000Z",
+            "id": "652c686d358da75b61f8127e",
+            "url": "https://www.youtube.com/embed/u57aVf1-SBk?rel=0"
+          },
+          {
+            "iso_639_1": "en",
+            "iso_3166_1": "US",
+            "name": "SAVVUSANNA SÕSARAD - lühitreiler. Kinodes 24. märtsist.",
+            "key": "8Yq9Fej3xGo",
+            "site": "YouTube",
+            "size": 1080,
+            "type": "Trailer",
+            "official": true,
+            "published_at": "2023-01-20T08:57:23.000Z",
+            "id": "63d8010222df2e00b209f74c",
+            "url": "https://www.youtube.com/embed/8Yq9Fej3xGo?rel=0"
+          }
+        ]
+      }
+    ],
+    "omdb": [
+      {
+        "Title": "Smoke Sauna Sisterhood",
+        "Year": "2023",
+        "Rated": "N/A",
+        "Released": "23 Jan 2024",
+        "Runtime": "89 min",
+        "Genre": "Documentary",
+        "Director": "Anna Hints",
+        "Writer": "Anna Hints",
+        "Actors": "Kadi Kivilo, Maria Meresaar, Elsa Saks",
+        "Plot": "In the darkness of a smoke sauna, women share their innermost secrets and intimate experiences, washing off the shame trapped in their bodies and regaining their strength through a sense of communion.",
+        "Language": "Estonian",
+        "Country": "Estonia, France, Iceland",
+        "Awards": "5 wins & 22 nominations",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMGUxNDA2OTgtYTlkZi00OWVhLTgzZTEtMDMwMzNhZDk1OGUxXkEyXkFqcGdeQXVyOTM5NzYzNTU@._V1_SX300.jpg",
+        "Ratings": [
+          {
+            "Source": "Internet Movie Database",
+            "Value": "7.8/10"
+          }
+        ],
+        "Metascore": "N/A",
+        "imdbRating": "7.8",
+        "imdbVotes": "582",
+        "imdbID": "tt23640230",
+        "Type": "movie",
+        "tomatoMeter": "N/A",
+        "tomatoImage": "N/A",
+        "tomatoRating": "N/A",
+        "tomatoReviews": "N/A",
+        "tomatoFresh": "N/A",
+        "tomatoRotten": "N/A",
+        "tomatoConsensus": "N/A",
+        "tomatoUserMeter": "N/A",
+        "tomatoUserRating": "N/A",
+        "tomatoUserReviews": "N/A",
+        "tomatoURL": "N/A",
+        "DVD": "N/A",
+        "BoxOffice": "N/A",
+        "Production": "N/A",
+        "Website": "N/A",
+        "Response": "True"
+      }
+    ],
+    "plot": "Heimildarmynd þar sem fylgst er með konum sem endurheimta styrk sinn í saunaböðum. Þær tengjast nánum böndum, deila reynslu sinni og leyndarmálum sem áhorfandinn fær að taka þátt í."
+  },
+  {
+    "id": 16169,
+    "ids": {
+      "imdb": "10545296",
+      "rotten": "",
+      "tmdb": "695721"
+    },
+    "title": "The Hunger Games: The Ballad of Songbirds and Snakes",
+    "alternativeTitles": "",
+    "year": "2023",
+    "certificateIS": "12 ára",
+    "durationMinutes": 157,
+    "genres": [
+      {
+        "ID": 1,
+        "Name": "Spenna",
+        "NameEN\t": "Action"
+      },
+      {
+        "ID": 4,
+        "Name": "Drama",
+        "NameEN\t": "Drama"
+      },
+      {
+        "ID": 32,
+        "Name": "Ævintýri",
+        "NameEN\t": "Adventure"
+      }
+    ],
+    "poster": "http://kvikmyndir.is/images/poster/16169_500.jpg",
+    "actors_abridged": [
+      {
+        "name": "Tom Blyth"
+      },
+      {
+        "name": "Rachel Zegler"
+      }
+    ],
+    "directors_abridged": [
+      {
+        "name": "Francis Lawrence"
+      }
+    ],
+    "ratings": {
+      "imdb": "7.2",
+      "rotten_audience": "0",
+      "rotten_critics": "62"
+    },
+    "showtimes": [
+      {
+        "cinema": {
+          "id": 1,
+          "name": "Smárabíó"
+        },
+        "schedule": [
+          {
+            "time": "15.10 (S)",
+            "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=105221&visLang=1"
+          },
+          {
+            "time": "17.10 (4)",
+            "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=105329&visLang=1"
+          },
+          {
+            "time": "18.30 (S)",
+            "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=105535&visLang=1"
+          },
+          {
+            "time": "20.30 (4)",
+            "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=105199&visLang=1"
+          }
+        ]
+      },
+      {
+        "cinema": {
+          "id": 4,
+          "name": "Laugarásbíó"
+        },
+        "schedule": [
+          {
+            "time": "20:00 (B)",
+            "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/794477/"
+          }
+        ]
+      },
+      {
+        "cinema": {
+          "id": 8,
+          "name": "Sambíóin Egilshöll"
+        },
+        "schedule": [
+          {
+            "time": "17:40 (3)",
+            "purchase_url": "http://www.sambio.is/websales/show/371735/"
+          },
+          {
+            "time": "21:00 (3)",
+            "purchase_url": "http://www.sambio.is/websales/show/371736/"
+          }
+        ]
+      }
+    ],
+    "certificate": {
+      "is": "12 ára",
+      "color": "yellow",
+      "number": "12"
+    },
+    "trailers": [
+      {
+        "id": 695721,
+        "results": [
+          {
+            "iso_639_1": "en",
+            "iso_3166_1": "US",
+            "name": "The Hunger Games' Tom Blyth and Josh Andrés Rivera are Team Peeta | BAFTA",
+            "key": "y2nBqLXcg1s",
+            "site": "YouTube",
+            "size": 1080,
+            "type": "Featurette",
+            "official": true,
+            "published_at": "2023-11-17T16:30:22.000Z",
+            "id": "655cbf14f6787a00aece2359",
+            "url": "https://www.youtube.com/embed/y2nBqLXcg1s?rel=0"
+          },
+          {
+            "iso_639_1": "en",
+            "iso_3166_1": "US",
+            "name": "The Hunger Games: The Ballad of Songbirds & Snakes | Official IMAX® Interview",
+            "key": "2nmAEBG9WaQ",
+            "site": "YouTube",
+            "size": 2160,
+            "type": "Featurette",
+            "official": true,
+            "published_at": "2023-11-14T20:00:00.000Z",
+            "id": "655a9997d4fe04011b938608",
+            "url": "https://www.youtube.com/embed/2nmAEBG9WaQ?rel=0"
+          },
+          {
+            "iso_639_1": "en",
+            "iso_3166_1": "US",
+            "name": "Olivia Rodrigo – 'Can’t Catch Me Now'",
+            "key": "Jorxf7TuqAc",
+            "site": "YouTube",
+            "size": 1080,
+            "type": "Teaser",
+            "official": true,
+            "published_at": "2023-11-01T23:30:40.000Z",
+            "id": "6547f0c341a5613368844c3a",
+            "url": "https://www.youtube.com/embed/Jorxf7TuqAc?rel=0"
+          },
+          {
+            "iso_639_1": "en",
+            "iso_3166_1": "US",
+            "name": "Official Clip - ‘Run’",
+            "key": "kqS5HLMZRvo",
+            "site": "YouTube",
+            "size": 1080,
+            "type": "Clip",
+            "official": true,
+            "published_at": "2023-11-01T18:00:02.000Z",
+            "id": "6547eecbd8cc4a00ad23b323",
+            "url": "https://www.youtube.com/embed/kqS5HLMZRvo?rel=0"
+          },
+          {
+            "iso_639_1": "en",
+            "iso_3166_1": "US",
+            "name": "Special Feature - ‘Music’",
+            "key": "0U0d6YhJ7tc",
+            "site": "YouTube",
+            "size": 1080,
+            "type": "Behind the Scenes",
+            "official": true,
+            "published_at": "2023-10-26T15:00:11.000Z",
+            "id": "6547f0f141a56133693af6fd",
+            "url": "https://www.youtube.com/embed/0U0d6YhJ7tc?rel=0"
+          },
+          {
+            "iso_639_1": "en",
+            "iso_3166_1": "US",
+            "name": "Official Clip - ‘A Brand New Role’",
+            "key": "yvNpKZdS12A",
+            "site": "YouTube",
+            "size": 1080,
+            "type": "Clip",
+            "official": true,
+            "published_at": "2023-10-26T01:00:20.000Z",
+            "id": "6547f1021ac2927b2c80cada",
+            "url": "https://www.youtube.com/embed/yvNpKZdS12A?rel=0"
+          },
+          {
+            "iso_639_1": "en",
+            "iso_3166_1": "US",
+            "name": "Special Feature - ‘Welcome Back to Panem’",
+            "key": "usnqA24Vtjs",
+            "site": "YouTube",
+            "size": 1080,
+            "type": "Featurette",
+            "official": true,
+            "published_at": "2023-10-19T16:00:11.000Z",
+            "id": "653234e7481382011c20f567",
+            "url": "https://www.youtube.com/embed/usnqA24Vtjs?rel=0"
+          },
+          {
+            "iso_639_1": "en",
+            "iso_3166_1": "US",
+            "name": "The Hunger Games: The Ballad of Songbirds & Snakes (2023) Flickerman News – The Plinth Prize",
+            "key": "nbbxJ-FLzdc",
+            "site": "YouTube",
+            "size": 1080,
+            "type": "Featurette",
+            "official": true,
+            "published_at": "2023-10-13T19:00:02.000Z",
+            "id": "65353e2ec14fee011de80ee1",
+            "url": "https://www.youtube.com/embed/nbbxJ-FLzdc?rel=0"
+          },
+          {
+            "iso_639_1": "en",
+            "iso_3166_1": "US",
+            "name": "Flickerman News – The Rabies Hoax",
+            "key": "L56P-zfBs3I",
+            "site": "YouTube",
+            "size": 1080,
+            "type": "Featurette",
+            "official": true,
+            "published_at": "2023-10-05T21:07:30.000Z",
+            "id": "65353e3d2b2108011ddfbe9e",
+            "url": "https://www.youtube.com/embed/L56P-zfBs3I?rel=0"
+          },
+          {
+            "iso_639_1": "en",
+            "iso_3166_1": "US",
+            "name": "Remembering the War",
+            "key": "q-4degfNXVY",
+            "site": "YouTube",
+            "size": 1080,
+            "type": "Featurette",
+            "official": true,
+            "published_at": "2023-09-29T02:06:38.000Z",
+            "id": "65353e4aabdafc00acf807fe",
+            "url": "https://www.youtube.com/embed/q-4degfNXVY?rel=0"
+          },
+          {
+            "iso_639_1": "en",
+            "iso_3166_1": "US",
+            "name": "Academy Orientation",
+            "key": "FtY-y7zCYiY",
+            "site": "YouTube",
+            "size": 1080,
+            "type": "Featurette",
+            "official": true,
+            "published_at": "2023-09-29T02:06:30.000Z",
+            "id": "65353dbaabdafc010c2986ce",
+            "url": "https://www.youtube.com/embed/FtY-y7zCYiY?rel=0"
+          },
+          {
+            "iso_639_1": "en",
+            "iso_3166_1": "US",
+            "name": "Official Trailer 2",
+            "key": "NxW_X4kzeus",
+            "site": "YouTube",
+            "size": 1080,
+            "type": "Trailer",
+            "official": true,
+            "published_at": "2023-09-20T12:45:13.000Z",
+            "id": "650b51af6c19ea00adecbdca",
+            "url": "https://www.youtube.com/embed/NxW_X4kzeus?rel=0"
+          },
+          {
+            "iso_639_1": "en",
+            "iso_3166_1": "US",
+            "name": "Page to Screen Trailer",
+            "key": "HNTDUGnG2lg",
+            "site": "YouTube",
+            "size": 1080,
+            "type": "Teaser",
+            "official": false,
+            "published_at": "2023-09-07T13:00:15.000Z",
+            "id": "65353ddfabdafc012da96a04",
+            "url": "https://www.youtube.com/embed/HNTDUGnG2lg?rel=0"
+          },
+          {
+            "iso_639_1": "en",
+            "iso_3166_1": "US",
+            "name": "Official Trailer",
+            "key": "RDE6Uz73A7g",
+            "site": "YouTube",
+            "size": 1080,
+            "type": "Trailer",
+            "official": true,
+            "published_at": "2023-04-27T22:00:03.000Z",
+            "id": "644af1de596a910579576c57",
+            "url": "https://www.youtube.com/embed/RDE6Uz73A7g?rel=0"
+          },
+          {
+            "iso_639_1": "en",
+            "iso_3166_1": "US",
+            "name": "Reveal",
+            "key": "GfGcH2T53XY",
+            "site": "YouTube",
+            "size": 1080,
+            "type": "Teaser",
+            "official": true,
+            "published_at": "2022-06-05T23:26:08.000Z",
+            "id": "629d3c9265e0a2550a278203",
+            "url": "https://www.youtube.com/embed/GfGcH2T53XY?rel=0"
+          }
+        ]
+      }
+    ],
+    "omdb": [
+      {
+        "Title": "The Hunger Games: The Ballad of Songbirds and Snakes",
+        "Year": "2023",
+        "Rated": "PG-13",
+        "Released": "17 Nov 2023",
+        "Runtime": "165 min",
+        "Genre": "Action, Adventure, Drama",
+        "Director": "Francis Lawrence",
+        "Writer": "Michael Lesslie, Michael Arndt, Suzanne Collins",
+        "Actors": "Rachel Zegler, Tom Blyth, Viola Davis",
+        "Plot": "Coriolanus Snow mentors and develops feelings for the female District 12 tribute during the 10th Hunger Games.",
+        "Language": "English",
+        "Country": "United States",
+        "Awards": "1 win",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BOTZmMmY2MzctMjU2Yy00YjJlLTk1NjAtY2U4MmMxOWZkZWY4XkEyXkFqcGdeQXVyMjM4NTM5NDY@._V1_SX300.jpg",
+        "Ratings": [
+          {
+            "Source": "Rotten Tomatoes",
+            "Value": "62%"
+          }
+        ],
+        "Metascore": "N/A",
+        "imdbRating": "N/A",
+        "imdbVotes": "N/A",
+        "imdbID": "tt10545296",
+        "Type": "movie",
+        "tomatoMeter": "N/A",
+        "tomatoImage": "N/A",
+        "tomatoRating": "N/A",
+        "tomatoReviews": "N/A",
+        "tomatoFresh": "N/A",
+        "tomatoRotten": "N/A",
+        "tomatoConsensus": "N/A",
+        "tomatoUserMeter": "N/A",
+        "tomatoUserRating": "N/A",
+        "tomatoUserReviews": "N/A",
+        "tomatoURL": "https://www.rottentomatoes.com/m/the_hunger_games_the_ballad_of_songbirds_and_snakes",
+        "DVD": "N/A",
+        "BoxOffice": "N/A",
+        "Production": "N/A",
+        "Website": "N/A",
+        "Response": "True"
+      }
+    ],
+    "plot": "Myndin segir frá hinum 18 ára gamla Coriolanus Snow, mörgum árum áður en hann varð einræðisherra Panem. Hinn ungi Snow er myndarlegur og heillandi og þó að lífið hafi verið erfitt hjá Snow fjölskyldunni sér hann möguleika á breytingum þegar hann er valinn til að vera leiðbeinandi fyrir tíundu Hungurleikana.  Lærisveinn hans er stúlkan Lucy Gray Baird úr hinu fátæka tólfta hverfi."
+  },
+  {
+    "id": 16139,
+    "ids": {
+      "imdb": "10676048",
+      "rotten": "",
+      "tmdb": "609681"
+    },
+    "title": "The Marvels",
+    "alternativeTitles": "",
+    "year": "2023",
+    "certificateIS": "12 ára",
+    "durationMinutes": 105,
+    "genres": [
+      {
+        "ID": 1,
+        "Name": "Spenna",
+        "NameEN\t": "Action"
+      },
+      {
+        "ID": 32,
+        "Name": "Ævintýri",
+        "NameEN\t": "Adventure"
+      }
+    ],
+    "poster": "http://kvikmyndir.is/images/poster/1704522_500-1698697184.jpg",
+    "actors_abridged": [
+      {
+        "name": "Brie Larson"
+      },
+      {
+        "name": "Teyonah Parris"
+      }
+    ],
+    "directors_abridged": [
+      {
+        "name": "Nia DaCosta"
+      }
+    ],
+    "ratings": {
+      "imdb": "6",
+      "rotten_audience": "0",
+      "rotten_critics": "62"
+    },
+    "showtimes": [
+      {
+        "cinema": {
+          "id": 6,
+          "name": "Álfabakki"
+        },
+        "schedule": [
+          {
+            "time": "16:50 (P)",
+            "purchase_url": "http://www.sambio.is/websales/show/371443/"
+          },
+          {
+            "time": "19:20 (A)",
+            "purchase_url": "http://www.sambio.is/websales/show/371436/"
+          },
+          {
+            "time": "22:20 (3)",
+            "purchase_url": "http://www.sambio.is/websales/show/371437/"
+          }
+        ]
+      }
+    ],
+    "certificate": {
+      "is": "12 ára",
+      "color": "yellow",
+      "number": "12"
+    },
+    "trailers": [
+      {
+        "id": 609681,
+        "results": [
+          {
+            "iso_639_1": "en",
+            "iso_3166_1": "US",
+            "name": "The Meowvels",
+            "key": "6TGg0_xtLoA",
+            "site": "YouTube",
+            "size": 1080,
+            "type": "Teaser",
+            "official": true,
+            "published_at": "2023-11-21T20:00:01.000Z",
+            "id": "6563977e3679a1097529699f",
+            "url": "https://www.youtube.com/embed/6TGg0_xtLoA?rel=0"
+          },
+          {
+            "iso_639_1": "en",
+            "iso_3166_1": "US",
+            "name": "An Epic Score",
+            "key": "ayeO1blP97M",
+            "site": "YouTube",
+            "size": 1080,
+            "type": "Behind the Scenes",
+            "official": true,
+            "published_at": "2023-11-15T19:00:02.000Z",
+            "id": "6557943ed051d900e32a4537",
+            "url": "https://www.youtube.com/embed/ayeO1blP97M?rel=0"
+          },
+          {
+            "iso_639_1": "en",
+            "iso_3166_1": "US",
+            "name": "Park Seo-Jun",
+            "key": "8fTfj5pWU7Y",
+            "site": "YouTube",
+            "size": 1080,
+            "type": "Featurette",
+            "official": true,
+            "published_at": "2023-11-13T00:00:03.000Z",
+            "id": "65579448ea84c710959e9277",
+            "url": "https://www.youtube.com/embed/8fTfj5pWU7Y?rel=0"
+          },
+          {
+            "iso_639_1": "en",
+            "iso_3166_1": "US",
+            "name": "Reunited",
+            "key": "B4JVbM-UD-s",
+            "site": "YouTube",
+            "size": 1080,
+            "type": "Featurette",
+            "official": true,
+            "published_at": "2023-11-11T19:00:05.000Z",
+            "id": "6557945fea84c7109301c3a7",
+            "url": "https://www.youtube.com/embed/B4JVbM-UD-s?rel=0"
+          },
+          {
+            "iso_639_1": "en",
+            "iso_3166_1": "US",
+            "name": "Official IMAX® Interview",
+            "key": "xD5799ubuNI",
+            "site": "YouTube",
+            "size": 1080,
+            "type": "Featurette",
+            "official": true,
+            "published_at": "2023-11-09T23:28:10.000Z",
+            "id": "655cfe7f0816c700fd33d2d5",
+            "url": "https://www.youtube.com/embed/xD5799ubuNI?rel=0"
+          },
+          {
+            "iso_639_1": "en",
+            "iso_3166_1": "US",
+            "name": "The Return of Ms. Marvel",
+            "key": "KwX963X5HWM",
+            "site": "YouTube",
+            "size": 1080,
+            "type": "Teaser",
+            "official": true,
+            "published_at": "2023-11-09T18:30:12.000Z",
+            "id": "6557948eea84c7109228c9bc",
+            "url": "https://www.youtube.com/embed/KwX963X5HWM?rel=0"
+          },
+          {
+            "iso_639_1": "en",
+            "iso_3166_1": "US",
+            "name": "The Return of Captain Rambeau",
+            "key": "SwZELxTf1UU",
+            "site": "YouTube",
+            "size": 1080,
+            "type": "Teaser",
+            "official": true,
+            "published_at": "2023-11-09T18:00:15.000Z",
+            "id": "6557949dd4fe0400ac375a84",
+            "url": "https://www.youtube.com/embed/SwZELxTf1UU?rel=0"
+          },
+          {
+            "iso_639_1": "en",
+            "iso_3166_1": "US",
+            "name": "Final Trailer",
+            "key": "uwmDH12MAA4",
+            "site": "YouTube",
+            "size": 1080,
+            "type": "Trailer",
+            "official": true,
+            "published_at": "2023-11-07T02:54:14.000Z",
+            "id": "6549a8cb391b9c013ba2a36a",
+            "url": "https://www.youtube.com/embed/uwmDH12MAA4?rel=0"
+          },
+          {
+            "iso_639_1": "en",
+            "iso_3166_1": "US",
+            "name": "What Comes Next",
+            "key": "rcUO1OHg0gU",
+            "site": "YouTube",
+            "size": 1080,
+            "type": "Teaser",
+            "official": true,
+            "published_at": "2023-10-31T17:35:00.000Z",
+            "id": "6541ca1a028f140100b740d6",
+            "url": "https://www.youtube.com/embed/rcUO1OHg0gU?rel=0"
+          },
+          {
+            "iso_639_1": "en",
+            "iso_3166_1": "US",
+            "name": "Official Clip - 'Friend of Yours?'",
+            "key": "7-kbe9ucZxI",
+            "site": "YouTube",
+            "size": 1080,
+            "type": "Clip",
+            "official": true,
+            "published_at": "2023-10-31T01:45:00.000Z",
+            "id": "654061b333a533010b2e8325",
+            "url": "https://www.youtube.com/embed/7-kbe9ucZxI?rel=0"
+          },
+          {
+            "iso_639_1": "en",
+            "iso_3166_1": "US",
+            "name": "Beginning",
+            "key": "3tHAKPAb5YE",
+            "site": "YouTube",
+            "size": 1080,
+            "type": "Teaser",
+            "official": true,
+            "published_at": "2023-10-27T17:00:01.000Z",
+            "id": "654061bd63e6fb011e2403ea",
+            "url": "https://www.youtube.com/embed/3tHAKPAb5YE?rel=0"
+          },
+          {
+            "iso_639_1": "en",
+            "iso_3166_1": "US",
+            "name": "Power",
+            "key": "wg5liXvHl_Q",
+            "site": "YouTube",
+            "size": 1080,
+            "type": "Teaser",
+            "official": true,
+            "published_at": "2023-10-26T22:00:38.000Z",
+            "id": "654061c775110d00ffb4a743",
+            "url": "https://www.youtube.com/embed/wg5liXvHl_Q?rel=0"
+          },
+          {
+            "iso_639_1": "en",
+            "iso_3166_1": "US",
+            "name": "Evolution of Captain Marvel",
+            "key": "FCO08MSD-x0",
+            "site": "YouTube",
+            "size": 1080,
+            "type": "Featurette",
+            "official": true,
+            "published_at": "2023-10-25T22:00:07.000Z",
+            "id": "654061d36ca9a0014f0dbd7c",
+            "url": "https://www.youtube.com/embed/FCO08MSD-x0?rel=0"
+          },
+          {
+            "iso_639_1": "en",
+            "iso_3166_1": "US",
+            "name": "Legacy",
+            "key": "mHEhxgx80fk",
+            "site": "YouTube",
+            "size": 1080,
+            "type": "Teaser",
+            "official": true,
+            "published_at": "2023-10-15T16:00:38.000Z",
+            "id": "652c6bbd6611b400e25450a9",
+            "url": "https://www.youtube.com/embed/mHEhxgx80fk?rel=0"
+          },
+          {
+            "iso_639_1": "en",
+            "iso_3166_1": "US",
+            "name": "Introducing The Marvels",
+            "key": "RVaKAYm96WE",
+            "site": "YouTube",
+            "size": 1080,
+            "type": "Featurette",
+            "official": true,
+            "published_at": "2023-10-10T19:00:08.000Z",
+            "id": "652613ad81383101390d664c",
+            "url": "https://www.youtube.com/embed/RVaKAYm96WE?rel=0"
+          },
+          {
+            "iso_639_1": "en",
+            "iso_3166_1": "US",
+            "name": "Prepared",
+            "key": "p0A6GNACpRw",
+            "site": "YouTube",
+            "size": 1080,
+            "type": "Teaser",
+            "official": true,
+            "published_at": "2023-10-10T15:00:42.000Z",
+            "id": "652613cc0cb33516f7453ad6",
+            "url": "https://www.youtube.com/embed/p0A6GNACpRw?rel=0"
+          },
+          {
+            "iso_639_1": "en",
+            "iso_3166_1": "US",
+            "name": "The Return Of Captain Marvel",
+            "key": "OC3lhUTFdZY",
+            "site": "YouTube",
+            "size": 1080,
+            "type": "Teaser",
+            "official": true,
+            "published_at": "2023-10-10T14:00:01.000Z",
+            "id": "652613f381383100fe3cb061",
+            "url": "https://www.youtube.com/embed/OC3lhUTFdZY?rel=0"
+          },
+          {
+            "iso_639_1": "en",
+            "iso_3166_1": "US",
+            "name": "Fight",
+            "key": "_jnMR2-zKoc",
+            "site": "YouTube",
+            "size": 1080,
+            "type": "Teaser",
+            "official": true,
+            "published_at": "2023-10-05T15:00:33.000Z",
+            "id": "651f30275b124000ad6875eb",
+            "url": "https://www.youtube.com/embed/_jnMR2-zKoc?rel=0"
+          },
+          {
+            "iso_639_1": "en",
+            "iso_3166_1": "US",
+            "name": "Experience in IMAX",
+            "key": "ZgBwHWlGAz0",
+            "site": "YouTube",
+            "size": 1080,
+            "type": "Teaser",
+            "official": true,
+            "published_at": "2023-09-12T21:00:28.000Z",
+            "id": "6500f3185545ca011ba67cf6",
+            "url": "https://www.youtube.com/embed/ZgBwHWlGAz0?rel=0"
+          },
+          {
+            "iso_639_1": "en",
+            "iso_3166_1": "US",
+            "name": "Journey To The Marvels",
+            "key": "3sHHCG1JDL8",
+            "site": "YouTube",
+            "size": 1080,
+            "type": "Featurette",
+            "official": true,
+            "published_at": "2023-08-31T16:00:04.000Z",
+            "id": "64f0bb2b77d23b012e89fc3c",
+            "url": "https://www.youtube.com/embed/3sHHCG1JDL8?rel=0"
+          },
+          {
+            "iso_639_1": "en",
+            "iso_3166_1": "US",
+            "name": "Official Trailer",
+            "key": "wS_qbDztgVY",
+            "site": "YouTube",
+            "size": 1080,
+            "type": "Trailer",
+            "official": true,
+            "published_at": "2023-07-21T04:00:38.000Z",
+            "id": "64ba0412efd3c200dfdf810e",
+            "url": "https://www.youtube.com/embed/wS_qbDztgVY?rel=0"
+          },
+          {
+            "iso_639_1": "en",
+            "iso_3166_1": "US",
+            "name": "Teaser Trailer",
+            "key": "Zomcb-LKvgk",
+            "site": "YouTube",
+            "size": 1080,
+            "type": "Teaser",
+            "official": true,
+            "published_at": "2023-04-11T22:00:15.000Z",
+            "id": "6439bb9d29383504a3a9a083",
+            "url": "https://www.youtube.com/embed/Zomcb-LKvgk?rel=0"
+          },
+          {
+            "iso_639_1": "en",
+            "iso_3166_1": "US",
+            "name": "Teaser Trailer",
+            "key": "iuk77TjvfmE",
+            "site": "YouTube",
+            "size": 1080,
+            "type": "Trailer",
+            "official": true,
+            "published_at": "2023-04-11T12:46:57.000Z",
+            "id": "6435613f06f98401108b0a3a",
+            "url": "https://www.youtube.com/embed/iuk77TjvfmE?rel=0"
+          }
+        ]
+      }
+    ],
+    "omdb": [
+      {
+        "Title": "The Marvels",
+        "Year": "2023",
+        "Rated": "PG-13",
+        "Released": "10 Nov 2023",
+        "Runtime": "105 min",
+        "Genre": "Action, Adventure, Fantasy",
+        "Director": "Nia DaCosta",
+        "Writer": "Nia DaCosta, Megan McDonnell, Elissa Karasik",
+        "Actors": "Brie Larson, Teyonah Parris, Iman Vellani",
+        "Plot": "Carol Danvers gets her powers entangled with those of Kamala Khan and Monica Rambeau, forcing them to work together to save the universe.",
+        "Language": "English, Urdu",
+        "Country": "United States",
+        "Awards": "1 win & 1 nomination",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BM2U2YWU5NWMtOGI2Ni00MGMwLWFkNjItMjgyZWMxNjllNTMzXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_SX300.jpg",
+        "Ratings": [
+          {
+            "Source": "Internet Movie Database",
+            "Value": "6.0/10"
+          },
+          {
+            "Source": "Rotten Tomatoes",
+            "Value": "62%"
+          }
+        ],
+        "Metascore": "N/A",
+        "imdbRating": "6.0",
+        "imdbVotes": "45,031",
+        "imdbID": "tt10676048",
+        "Type": "movie",
+        "tomatoMeter": "N/A",
+        "tomatoImage": "N/A",
+        "tomatoRating": "N/A",
+        "tomatoReviews": "N/A",
+        "tomatoFresh": "N/A",
+        "tomatoRotten": "N/A",
+        "tomatoConsensus": "N/A",
+        "tomatoUserMeter": "N/A",
+        "tomatoUserRating": "N/A",
+        "tomatoUserReviews": "N/A",
+        "tomatoURL": "https://www.rottentomatoes.com/m/the_marvels",
+        "DVD": "N/A",
+        "BoxOffice": "$57,624,806",
+        "Production": "N/A",
+        "Website": "N/A",
+        "Response": "True"
+      }
+    ],
+    "plot": "Carol Danvers, eða Captain Marvel, hefur endurheimt stöðu sína frá Kree einræðisvaldinu og hefnt sín á Supreme Intelligence. En afleiðingar af því eru að Carol ber nú ábyrgð á alheimi í ójafnvægi.  Þegar hún þarf að sinna verkefni sem snýr að afbrigðilegum ormagöngum og tengjast Kree uppreisnarhópi, blandast ofurkraftar hennar við Kamala Khan, öðru nafni Ms. Marvel, og frænku Carol, S.A.B.E.R. geimfarann Captain Monica Rambeau. Saman verður þrenningin að vinna að því að bjarga alheiminum."
+  },
+  {
+    "id": 16545,
+    "ids": {
+      "imdb": "17009710",
+      "rotten": "",
+      "tmdb": "915935"
+    },
+    "title": "Anatomy of a Fall",
+    "alternativeTitles": "Anatomie d'une chute",
+    "year": "2023",
+    "certificateIS": "12 ára",
+    "durationMinutes": 151,
+    "genres": [
+      {
+        "ID": 4,
+        "Name": "Drama",
+        "NameEN\t": "Drama"
+      },
+      {
+        "ID": 6,
+        "Name": "Spennutryllir",
+        "NameEN\t": "Thriller"
+      },
+      {
+        "ID": 8,
+        "Name": "Glæpa",
+        "NameEN\t": "Crime"
+      }
+    ],
+    "poster": "http://kvikmyndir.is/images/poster/16545_500.jpg",
+    "actors_abridged": [
+      {
+        "name": "Sandra Hüller"
+      },
+      {
+        "name": "Swann Arlaud"
+      }
+    ],
+    "directors_abridged": [],
+    "ratings": {
+      "imdb": "7.9",
+      "rotten_audience": "0",
+      "rotten_critics": "0"
+    },
+    "showtimes": [
+      {
+        "cinema": {
+          "id": 5,
+          "name": "Bíó Paradís"
+        },
+        "schedule": [
+          {
+            "time": "20:20 (3)",
+            "purchase_url": "https://tickets.bioparadis.is/#book/4360"
+          }
+        ]
+      }
+    ],
+    "certificate": {
+      "is": "12 ára",
+      "color": "yellow",
+      "number": "12"
+    },
+    "trailers": [
+      {
+        "id": 915935,
+        "results": [
+          {
+            "iso_639_1": "en",
+            "iso_3166_1": "US",
+            "name": "Film Independent Presents ANATOMY OF A FALL Q&A with Justine Triet & Arthur Harari",
+            "key": "PvlKmNeRfbU",
+            "site": "YouTube",
+            "size": 1080,
+            "type": "Featurette",
+            "official": true,
+            "published_at": "2023-11-24T15:00:21.000Z",
+            "id": "6568f2a0d05a03012c6ffdf7",
+            "url": "https://www.youtube.com/embed/PvlKmNeRfbU?rel=0"
+          },
+          {
+            "iso_639_1": "en",
+            "iso_3166_1": "US",
+            "name": "UK Trailer #2",
+            "key": "vtNYnjWUFqE",
+            "site": "YouTube",
+            "size": 1080,
+            "type": "Teaser",
+            "official": true,
+            "published_at": "2023-11-10T16:38:13.000Z",
+            "id": "654f4fb829383543f296a993",
+            "url": "https://www.youtube.com/embed/vtNYnjWUFqE?rel=0"
+          },
+          {
+            "iso_639_1": "en",
+            "iso_3166_1": "US",
+            "name": "Sandra Hüller & Justine Triet Interview",
+            "key": "NEtX2WL_tKs",
+            "site": "YouTube",
+            "size": 1080,
+            "type": "Featurette",
+            "official": true,
+            "published_at": "2023-11-09T15:30:18.000Z",
+            "id": "654e1e425a5ed0011e067dd0",
+            "url": "https://www.youtube.com/embed/NEtX2WL_tKs?rel=0"
+          },
+          {
+            "iso_639_1": "en",
+            "iso_3166_1": "US",
+            "name": "Justine Triet Puts Her Own Spin on Crime in ANATOMY OF A FALL | TIFF 2023",
+            "key": "62p90Ta1H-Q",
+            "site": "YouTube",
+            "size": 1080,
+            "type": "Featurette",
+            "official": true,
+            "published_at": "2023-10-16T14:30:04.000Z",
+            "id": "6540dbf535818f00e3923211",
+            "url": "https://www.youtube.com/embed/62p90Ta1H-Q?rel=0"
+          },
+          {
+            "iso_639_1": "en",
+            "iso_3166_1": "US",
+            "name": "Justine Triet, Sandra Hüller & Arthur Harari on Anatomy of a Fall",
+            "key": "IvEhmdPgCgM",
+            "site": "YouTube",
+            "size": 2160,
+            "type": "Featurette",
+            "official": true,
+            "published_at": "2023-10-10T11:20:21.000Z",
+            "id": "6525353eea84c700ca0dde79",
+            "url": "https://www.youtube.com/embed/IvEhmdPgCgM?rel=0"
+          },
+          {
+            "iso_639_1": "en",
+            "iso_3166_1": "US",
+            "name": "Official UK Trailer",
+            "key": "_MdTMA0PetA",
+            "site": "YouTube",
+            "size": 1080,
+            "type": "Trailer",
+            "official": true,
+            "published_at": "2023-09-28T11:37:17.000Z",
+            "id": "651567cbc50ad200ad7f0e8c",
+            "url": "https://www.youtube.com/embed/_MdTMA0PetA?rel=0"
+          },
+          {
+            "iso_639_1": "en",
+            "iso_3166_1": "US",
+            "name": "TIFF 2023 | Intro & Q&A with Justine Triet",
+            "key": "auqWyjYfK7I",
+            "site": "YouTube",
+            "size": 1080,
+            "type": "Featurette",
+            "official": true,
+            "published_at": "2023-09-08T18:00:02.000Z",
+            "id": "6540e233eec5b500aeb28711",
+            "url": "https://www.youtube.com/embed/auqWyjYfK7I?rel=0"
+          },
+          {
+            "iso_639_1": "en",
+            "iso_3166_1": "US",
+            "name": "Official US Trailer",
+            "key": "FUXawkH-ONM",
+            "site": "YouTube",
+            "size": 1080,
+            "type": "Trailer",
+            "official": true,
+            "published_at": "2023-08-17T16:00:09.000Z",
+            "id": "64de469baaec7103f7e2f2fb",
+            "url": "https://www.youtube.com/embed/FUXawkH-ONM?rel=0"
+          },
+          {
+            "iso_639_1": "en",
+            "iso_3166_1": "US",
+            "name": "Official Trailer [Subtitled]",
+            "key": "fTrsp5BMloA",
+            "site": "YouTube",
+            "size": 1080,
+            "type": "Trailer",
+            "official": true,
+            "published_at": "2023-07-13T05:51:45.000Z",
+            "id": "64b2f77be0ca7f014429e120",
+            "url": "https://www.youtube.com/embed/fTrsp5BMloA?rel=0"
+          }
+        ]
+      }
+    ],
+    "omdb": [
+      {
+        "Title": "Anatomy of a Fall",
+        "Year": "2023",
+        "Rated": "R",
+        "Released": "23 Aug 2023",
+        "Runtime": "151 min",
+        "Genre": "Crime, Drama, Thriller",
+        "Director": "Justine Triet",
+        "Writer": "Justine Triet, Arthur Harari",
+        "Actors": "Sandra Hüller, Swann Arlaud, Milo Machado Graner",
+        "Plot": "A woman is suspected of her husband's murder, and their blind son faces a moral dilemma as the main witness.",
+        "Language": "French, English, German",
+        "Country": "France",
+        "Awards": "7 wins & 10 nominations",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMDBiYmRkNjUtYzc4My00NGFiLWE2NWUtMGU1ZDA1NTQ3ZjQwXkEyXkFqcGdeQXVyMTM1NjM2ODg1._V1_SX300.jpg",
+        "Ratings": [
+          {
+            "Source": "Internet Movie Database",
+            "Value": "7.9/10"
+          },
+          {
+            "Source": "Metacritic",
+            "Value": "89/100"
+          }
+        ],
+        "Metascore": "89",
+        "imdbRating": "7.9",
+        "imdbVotes": "16,570",
+        "imdbID": "tt17009710",
+        "Type": "movie",
+        "tomatoMeter": "N/A",
+        "tomatoImage": "N/A",
+        "tomatoRating": "N/A",
+        "tomatoReviews": "N/A",
+        "tomatoFresh": "N/A",
+        "tomatoRotten": "N/A",
+        "tomatoConsensus": "N/A",
+        "tomatoUserMeter": "N/A",
+        "tomatoUserRating": "N/A",
+        "tomatoUserReviews": "N/A",
+        "tomatoURL": "N/A",
+        "DVD": "N/A",
+        "BoxOffice": "$3,366,614",
+        "Production": "N/A",
+        "Website": "N/A",
+        "Response": "True"
+      }
+    ],
+    "plot": "Samuel finnst látinn í snjónum fyrir utan kofann úti í sveit þar sem hann bjó ásamt eiginkonunni Söndru, þýskum rithöfundi, og sjóndöprum ellefu ára syni þeirra Daniel. Dauðinn er úrskurðaður grunsamlegur og Sandra er kærð fyrir morð og leidd fyrir rétt. Daniel lendir mitt á milli og réttarhöldin taka sinn toll af sambandi þeirra mæðgina."
+  },
+  {
+    "id": 16113,
+    "ids": {
+      "imdb": "14362112",
+      "rotten": "",
+      "tmdb": "901362"
+    },
+    "title": "Trolls Band Together",
+    "alternativeTitles": "Tröll 3",
+    "year": "2023",
+    "certificateIS": "6 ára",
+    "durationMinutes": 92,
+    "genres": [
+      {
+        "ID": 2,
+        "Name": "Gaman",
+        "NameEN\t": "Comedy"
+      },
+      {
+        "ID": 32,
+        "Name": "Ævintýri",
+        "NameEN\t": "Adventure"
+      },
+      {
+        "ID": 70,
+        "Name": "Teiknað",
+        "NameEN\t": "Animation"
+      }
+    ],
+    "poster": "http://kvikmyndir.is/images/poster/troll3-poster-1696326924.jpg",
+    "actors_abridged": [
+      {
+        "name": "Anna Kendrick"
+      },
+      {
+        "name": "Justin Timberlake"
+      }
+    ],
+    "directors_abridged": [
+      {
+        "name": "Walt Dohrn"
+      }
+    ],
+    "ratings": {
+      "imdb": "6",
+      "rotten_audience": "0",
+      "rotten_critics": "0"
+    },
+    "showtimes": [
+      {
+        "cinema": {
+          "id": 1,
+          "name": "Smárabíó"
+        },
+        "schedule": [
+          {
+            "time": "15.00 (ÍSL TAL ÍSL TAL 5)",
+            "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=105225&visLang=1"
+          },
+          {
+            "time": "17.10 (ÍSL TAL ÍSL TAL 5)",
+            "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=105224&visLang=1"
+          }
+        ]
+      },
+      {
+        "cinema": {
+          "id": 6,
+          "name": "Álfabakki"
+        },
+        "schedule": [
+          {
+            "time": "17:00 (A)",
+            "purchase_url": "http://www.sambio.is/websales/show/371433/"
+          }
+        ]
+      },
+      {
+        "cinema": {
+          "id": 7,
+          "name": "Kringlubíó"
+        },
+        "schedule": [
+          {
+            "time": "14:20 (3)",
+            "purchase_url": "http://www.sambio.is/websales/show/371566/"
+          }
+        ]
+      }
+    ],
+    "certificate": {
+      "is": "6 ára",
+      "color": "green",
+      "number": "6"
+    },
+    "trailers": [
+      {
+        "id": 901362,
+        "results": [
+          {
+            "iso_639_1": "en",
+            "iso_3166_1": "US",
+            "name": "'Trolls Band Together' with filmmakers | Academy Conversations",
+            "key": "wm0t8yvDTjE",
+            "site": "YouTube",
+            "size": 1080,
+            "type": "Featurette",
+            "official": true,
+            "published_at": "2023-11-17T18:00:09.000Z",
+            "id": "655caea30816c70137ec1e7f",
+            "url": "https://www.youtube.com/embed/wm0t8yvDTjE?rel=0"
+          },
+          {
+            "iso_639_1": "en",
+            "iso_3166_1": "US",
+            "name": "See *NSYNC as trolls",
+            "key": "TRkmq0MuGM0",
+            "site": "YouTube",
+            "size": 1080,
+            "type": "Behind the Scenes",
+            "official": true,
+            "published_at": "2023-11-03T14:00:19.000Z",
+            "id": "6547af50d8cc4a011dc4585b",
+            "url": "https://www.youtube.com/embed/TRkmq0MuGM0?rel=0"
+          },
+          {
+            "iso_639_1": "en",
+            "iso_3166_1": "US",
+            "name": "Music Celebration",
+            "key": "H1mv_0OpcwU",
+            "site": "YouTube",
+            "size": 1080,
+            "type": "Featurette",
+            "official": true,
+            "published_at": "2023-10-17T15:00:11.000Z",
+            "id": "652ea684358da75b5f7a9bf3",
+            "url": "https://www.youtube.com/embed/H1mv_0OpcwU?rel=0"
+          },
+          {
+            "iso_639_1": "en",
+            "iso_3166_1": "US",
+            "name": "A Look Inside",
+            "key": "GsSVFetIgCo",
+            "site": "YouTube",
+            "size": 1080,
+            "type": "Behind the Scenes",
+            "official": true,
+            "published_at": "2023-10-10T16:00:18.000Z",
+            "id": "65261ba5fd630000ffcd57d4",
+            "url": "https://www.youtube.com/embed/GsSVFetIgCo?rel=0"
+          },
+          {
+            "iso_639_1": "en",
+            "iso_3166_1": "US",
+            "name": "\"Tiny\" 30s Kids Spot",
+            "key": "IC0xmmw26Pc",
+            "site": "YouTube",
+            "size": 1080,
+            "type": "Teaser",
+            "official": true,
+            "published_at": "2023-09-21T08:55:33.000Z",
+            "id": "651816339b861600acaf510b",
+            "url": "https://www.youtube.com/embed/IC0xmmw26Pc?rel=0"
+          },
+          {
+            "iso_639_1": "en",
+            "iso_3166_1": "US",
+            "name": "\"Rescue\" - 30s Kids Spot",
+            "key": "ec12DKIzueI",
+            "site": "YouTube",
+            "size": 1080,
+            "type": "Teaser",
+            "official": true,
+            "published_at": "2023-09-21T08:54:26.000Z",
+            "id": "6518161c96e30b0100028ade",
+            "url": "https://www.youtube.com/embed/ec12DKIzueI?rel=0"
+          },
+          {
+            "iso_639_1": "en",
+            "iso_3166_1": "US",
+            "name": "\"Dream Cast\" 30s Kids Spot",
+            "key": "-EW2GWd3qeg",
+            "site": "YouTube",
+            "size": 1080,
+            "type": "Teaser",
+            "official": true,
+            "published_at": "2023-09-21T08:53:06.000Z",
+            "id": "6518160c9b861600acaf5100",
+            "url": "https://www.youtube.com/embed/-EW2GWd3qeg?rel=0"
+          },
+          {
+            "iso_639_1": "en",
+            "iso_3166_1": "US",
+            "name": "\"Sing It\" 30s Kids Spot",
+            "key": "gkIOnBxVNGQ",
+            "site": "YouTube",
+            "size": 1080,
+            "type": "Teaser",
+            "official": true,
+            "published_at": "2023-09-21T08:50:27.000Z",
+            "id": "651815fdc50ad2010bfdabc0",
+            "url": "https://www.youtube.com/embed/gkIOnBxVNGQ?rel=0"
+          },
+          {
+            "iso_639_1": "en",
+            "iso_3166_1": "US",
+            "name": "Official Trailer 2",
+            "key": "ftUpFjGKuY0",
+            "site": "YouTube",
+            "size": 1080,
+            "type": "Trailer",
+            "official": true,
+            "published_at": "2023-09-14T04:00:19.000Z",
+            "id": "650291e85545ca0138d2696e",
+            "url": "https://www.youtube.com/embed/ftUpFjGKuY0?rel=0"
+          },
+          {
+            "iso_639_1": "en",
+            "iso_3166_1": "US",
+            "name": "Official Trailer",
+            "key": "qZ40Z62tcXM",
+            "site": "YouTube",
+            "size": 1080,
+            "type": "Trailer",
+            "official": true,
+            "published_at": "2023-03-28T15:00:08.000Z",
+            "id": "6423057b2dc9dc00bf5a2db1",
+            "url": "https://www.youtube.com/embed/qZ40Z62tcXM?rel=0"
+          }
+        ]
+      }
+    ],
+    "omdb": [
+      {
+        "Title": "Trolls Band Together",
+        "Year": "2023",
+        "Rated": "PG",
+        "Released": "17 Nov 2023",
+        "Runtime": "91 min",
+        "Genre": "Animation, Adventure, Comedy",
+        "Director": "Walt Dohrn, Tim Heitz",
+        "Writer": "Elizabeth Tippet, Thomas Dam, Kim Caramele",
+        "Actors": "Anna Kendrick, Justin Timberlake, Kenan Thompson",
+        "Plot": "Poppy discovers that Branch was once part of the boy band 'BroZone' with his brothers, Floyd, John Dory, Spruce and Clay. When Floyd is kidnapped, Branch and Poppy embark on a journey to reunite his two other brothers and rescue F...",
+        "Language": "English",
+        "Country": "United States",
+        "Awards": "3 wins & 2 nominations",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMTY4MDk2YWUtNWY1My00YjAxLWI4ZGQtMmRhN2FiNDI4NDRjXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_SX300.jpg",
+        "Ratings": [
+          {
+            "Source": "Internet Movie Database",
+            "Value": "6.0/10"
+          }
+        ],
+        "Metascore": "N/A",
+        "imdbRating": "6.0",
+        "imdbVotes": "4,021",
+        "imdbID": "tt14362112",
+        "Type": "movie",
+        "tomatoMeter": "N/A",
+        "tomatoImage": "N/A",
+        "tomatoRating": "N/A",
+        "tomatoReviews": "N/A",
+        "tomatoFresh": "N/A",
+        "tomatoRotten": "N/A",
+        "tomatoConsensus": "N/A",
+        "tomatoUserMeter": "N/A",
+        "tomatoUserRating": "N/A",
+        "tomatoUserReviews": "N/A",
+        "tomatoURL": "N/A",
+        "DVD": "N/A",
+        "BoxOffice": "$39,168,460",
+        "Production": "N/A",
+        "Website": "N/A",
+        "Response": "True"
+      }
+    ],
+    "plot": "Poppy kemst að því að Branch var einu sinni í strákabandinu BroZone, ásamt bræðrum sínum Floyd, John Dory, Spruce og Clay. En þegar Floyd er rænt þá fara Branch og Poppy af stað til að finna Floyd og sameina bræðurna."
+  },
+  {
+    "id": 16544,
+    "ids": {
+      "imdb": "18558306",
+      "rotten": "",
+      "tmdb": "714889"
+    },
+    "title": "The Delinquents",
+    "alternativeTitles": "",
+    "year": "2023",
+    "certificateIS": "12 ára",
+    "durationMinutes": 189,
+    "genres": [
+      {
+        "ID": 2,
+        "Name": "Gaman",
+        "NameEN\t": "Comedy"
+      },
+      {
+        "ID": 4,
+        "Name": "Drama",
+        "NameEN\t": "Drama"
+      },
+      {
+        "ID": 8,
+        "Name": "Glæpa",
+        "NameEN\t": "Crime"
+      }
+    ],
+    "poster": "http://kvikmyndir.is/images/poster/16544_500.jpg",
+    "actors_abridged": [
+      {
+        "name": "Daniel Elías"
+      },
+      {
+        "name": "Esteban Bigliardi"
+      }
+    ],
+    "directors_abridged": [
+      {
+        "name": "Rodrigo Moreno"
+      }
+    ],
+    "ratings": {
+      "imdb": "7",
+      "rotten_audience": "0",
+      "rotten_critics": "0"
+    },
+    "showtimes": [
+      {
+        "cinema": {
+          "id": 5,
+          "name": "Bíó Paradís"
+        },
+        "schedule": [
+          {
+            "time": "16:50 (3)",
+            "purchase_url": "https://tickets.bioparadis.is/#book/4361"
+          }
+        ]
+      }
+    ],
+    "certificate": {
+      "is": "12 ára",
+      "color": "yellow",
+      "number": "12"
+    },
+    "trailers": [
+      {
+        "id": 714889,
+        "results": [
+          {
+            "iso_639_1": "en",
+            "iso_3166_1": "US",
+            "name": "Official Trailer [Subtitled]",
+            "key": "KacoBtvgcT0",
+            "site": "YouTube",
+            "size": 1080,
+            "type": "Trailer",
+            "official": true,
+            "published_at": "2023-09-14T15:38:45.000Z",
+            "id": "650484e8a22d3e0130608ccb",
+            "url": "https://www.youtube.com/embed/KacoBtvgcT0?rel=0"
+          },
+          {
+            "iso_639_1": "en",
+            "iso_3166_1": "US",
+            "name": "Official Clip",
+            "key": "t_WgCBS2Wp0",
+            "site": "YouTube",
+            "size": 1080,
+            "type": "Clip",
+            "official": true,
+            "published_at": "2023-08-16T16:06:23.000Z",
+            "id": "64dd03b3a3b5e600ff4cdfc9",
+            "url": "https://www.youtube.com/embed/t_WgCBS2Wp0?rel=0"
+          }
+        ]
+      }
+    ],
+    "omdb": [
+      {
+        "Title": "The Delinquents",
+        "Year": "2023",
+        "Rated": "Unrated",
+        "Released": "26 Oct 2023",
+        "Runtime": "189 min",
+        "Genre": "Comedy, Crime, Drama",
+        "Director": "Rodrigo Moreno",
+        "Writer": "Rodrigo Moreno",
+        "Actors": "Daniel Elías, Esteban Bigliardi, Margarita Molfino",
+        "Plot": "Bank employee Morán schemes to steal enough money to never work again, then confess and serve prison time while his colleague hides the cash. Soon under investigative pressure, accomplice Román meets a woman who transforms him for...",
+        "Language": "Spanish",
+        "Country": "Argentina, Brazil, Luxembourg, Chile",
+        "Awards": "6 wins & 6 nominations",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BNDQ3YjFmNjYtNWFjZS00M2Y1LThjOTktNmRjZTIyMmUxMTc2XkEyXkFqcGdeQXVyNjgxODk1MTM@._V1_SX300.jpg",
+        "Ratings": [
+          {
+            "Source": "Internet Movie Database",
+            "Value": "7.0/10"
+          },
+          {
+            "Source": "Metacritic",
+            "Value": "92/100"
+          }
+        ],
+        "Metascore": "92",
+        "imdbRating": "7.0",
+        "imdbVotes": "316",
+        "imdbID": "tt18558306",
+        "Type": "movie",
+        "tomatoMeter": "N/A",
+        "tomatoImage": "N/A",
+        "tomatoRating": "N/A",
+        "tomatoReviews": "N/A",
+        "tomatoFresh": "N/A",
+        "tomatoRotten": "N/A",
+        "tomatoConsensus": "N/A",
+        "tomatoUserMeter": "N/A",
+        "tomatoUserRating": "N/A",
+        "tomatoUserReviews": "N/A",
+        "tomatoURL": "N/A",
+        "DVD": "N/A",
+        "BoxOffice": "$22,581",
+        "Production": "N/A",
+        "Website": "N/A",
+        "Response": "True"
+      }
+    ],
+    "plot": "Tveir vinir sem vinna í banka eru hundleiðir á rútínunni og hversdeginum. Þeir ákveða að fremja glæp! Og þá breytist allt ..."
+  },
+  {
+    "id": 16416,
+    "ids": {
+      "imdb": "4589218",
+      "rotten": "",
+      "tmdb": "507089"
+    },
+    "title": "Five Nights at Freddy's",
+    "alternativeTitles": "",
+    "year": "2023",
+    "certificateIS": "16 ára",
+    "durationMinutes": 110,
+    "genres": [
+      {
+        "ID": 5,
+        "Name": "Hrollvekja",
+        "NameEN\t": "Horror"
+      },
+      {
+        "ID": 6,
+        "Name": "Spennutryllir",
+        "NameEN\t": "Thriller"
+      },
+      {
+        "ID": 38,
+        "Name": "Ráðgáta",
+        "NameEN\t": "Mystery"
+      }
+    ],
+    "poster": "http://kvikmyndir.is/images/poster/1712044_500-1693474516.jpg",
+    "actors_abridged": [
+      {
+        "name": "Josh Hutcherson"
+      },
+      {
+        "name": "Piper Rubio"
+      }
+    ],
+    "directors_abridged": [
+      {
+        "name": "Emma Tammi"
+      }
+    ],
+    "ratings": {
+      "imdb": "5.5",
+      "rotten_audience": "0",
+      "rotten_critics": "0"
+    },
+    "showtimes": [
+      {
+        "cinema": {
+          "id": 4,
+          "name": "Laugarásbíó"
+        },
+        "schedule": [
+          {
+            "time": "17:40 (B)",
+            "purchase_url": "http://kvikmyndahusio.azurewebsites.net/websales/show/794476/"
+          }
+        ]
+      }
+    ],
+    "certificate": {
+      "is": "16 ára",
+      "color": "red",
+      "number": "16"
+    },
+    "trailers": [
+      {
+        "id": 507089,
+        "results": [
+          {
+            "iso_639_1": "en",
+            "iso_3166_1": "US",
+            "name": "First 10 Minutes",
+            "key": "MLpP8BMlqiE",
+            "site": "YouTube",
+            "size": 1080,
+            "type": "Clip",
+            "official": true,
+            "published_at": "2023-11-28T17:00:15.000Z",
+            "id": "65681c199affc0014e8ee465",
+            "url": "https://www.youtube.com/embed/MLpP8BMlqiE?rel=0"
+          },
+          {
+            "iso_639_1": "en",
+            "iso_3166_1": "US",
+            "name": "Yours to Own Promo",
+            "key": "GfYnJ2-E7Is",
+            "site": "YouTube",
+            "size": 1080,
+            "type": "Teaser",
+            "official": true,
+            "published_at": "2023-11-21T15:42:38.000Z",
+            "id": "65681c2a7d41aa00ae1eb04d",
+            "url": "https://www.youtube.com/embed/GfYnJ2-E7Is?rel=0"
+          },
+          {
+            "iso_639_1": "en",
+            "iso_3166_1": "US",
+            "name": "My Universal Story: Emily Poulliard",
+            "key": "GYOQBfT8UU4",
+            "site": "YouTube",
+            "size": 1080,
+            "type": "Featurette",
+            "official": true,
+            "published_at": "2023-10-27T22:04:15.000Z",
+            "id": "65428c2ce1ad79012c90bfd9",
+            "url": "https://www.youtube.com/embed/GYOQBfT8UU4?rel=0"
+          },
+          {
+            "iso_639_1": "en",
+            "iso_3166_1": "US",
+            "name": "For the Fans",
+            "key": "xxDmNyY5f4k",
+            "site": "YouTube",
+            "size": 1080,
+            "type": "Behind the Scenes",
+            "official": true,
+            "published_at": "2023-10-24T16:02:18.000Z",
+            "id": "65387139ae3668010b9c24d8",
+            "url": "https://www.youtube.com/embed/xxDmNyY5f4k?rel=0"
+          },
+          {
+            "iso_639_1": "en",
+            "iso_3166_1": "US",
+            "name": "FNAF is...",
+            "key": "3voi3nf45_4",
+            "site": "YouTube",
+            "size": 1080,
+            "type": "Teaser",
+            "official": true,
+            "published_at": "2023-10-20T16:08:19.000Z",
+            "id": "6533085b0929f601389dc732",
+            "url": "https://www.youtube.com/embed/3voi3nf45_4?rel=0"
+          },
+          {
+            "iso_639_1": "en",
+            "iso_3166_1": "US",
+            "name": "A Look Inside",
+            "key": "AuP9krMmXrM",
+            "site": "YouTube",
+            "size": 1080,
+            "type": "Behind the Scenes",
+            "official": true,
+            "published_at": "2023-10-16T16:03:04.000Z",
+            "id": "652de564ea84c700ca120daf",
+            "url": "https://www.youtube.com/embed/AuP9krMmXrM?rel=0"
+          },
+          {
+            "iso_639_1": "en",
+            "iso_3166_1": "US",
+            "name": "Final Trailer",
+            "key": "X4d_v-HyR4o",
+            "site": "YouTube",
+            "size": 1080,
+            "type": "Trailer",
+            "official": true,
+            "published_at": "2023-08-30T19:00:10.000Z",
+            "id": "64ef92d0caa50800ab716a20",
+            "url": "https://www.youtube.com/embed/X4d_v-HyR4o?rel=0"
+          },
+          {
+            "iso_639_1": "en",
+            "iso_3166_1": "US",
+            "name": "Official Trailer",
+            "key": "9fJtM5z0g7M",
+            "site": "YouTube",
+            "size": 1080,
+            "type": "Trailer",
+            "official": true,
+            "published_at": "2023-06-27T14:52:13.000Z",
+            "id": "649af8b8d35dea014dce7143",
+            "url": "https://www.youtube.com/embed/9fJtM5z0g7M?rel=0"
+          },
+          {
+            "iso_639_1": "en",
+            "iso_3166_1": "US",
+            "name": "Official Teaser",
+            "key": "f-zqS2CiZqw",
+            "site": "YouTube",
+            "size": 1080,
+            "type": "Teaser",
+            "official": true,
+            "published_at": "2023-05-17T00:57:27.000Z",
+            "id": "646429c476eecf00e31f9293",
+            "url": "https://www.youtube.com/embed/f-zqS2CiZqw?rel=0"
+          }
+        ]
+      }
+    ],
+    "omdb": [
+      {
+        "Title": "Five Nights at Freddy's",
+        "Year": "2023",
+        "Rated": "PG-13",
+        "Released": "27 Oct 2023",
+        "Runtime": "109 min",
+        "Genre": "Horror, Mystery, Thriller",
+        "Director": "Emma Tammi",
+        "Writer": "Scott Cawthon, Seth Cuddeback, Emma Tammi",
+        "Actors": "Josh Hutcherson, Piper Rubio, Elizabeth Lail",
+        "Plot": "A troubled security guard begins working at Freddy Fazbear's Pizza. During his first night on the job, he realizes that the night shift won't be so easy to get through. Pretty soon he will unveil what actually happened at Freddy's.",
+        "Language": "English",
+        "Country": "United States",
+        "Awards": "N/A",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BYTI0ZmI4NDItZGFlZC00M2E4LWIyZWEtMTFhMjQwYmU4MGNlXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_SX300.jpg",
+        "Ratings": [
+          {
+            "Source": "Internet Movie Database",
+            "Value": "5.5/10"
+          }
+        ],
+        "Metascore": "N/A",
+        "imdbRating": "5.5",
+        "imdbVotes": "61,825",
+        "imdbID": "tt4589218",
+        "Type": "movie",
+        "tomatoMeter": "N/A",
+        "tomatoImage": "N/A",
+        "tomatoRating": "N/A",
+        "tomatoReviews": "N/A",
+        "tomatoFresh": "N/A",
+        "tomatoRotten": "N/A",
+        "tomatoConsensus": "N/A",
+        "tomatoUserMeter": "N/A",
+        "tomatoUserRating": "N/A",
+        "tomatoUserReviews": "N/A",
+        "tomatoURL": "N/A",
+        "DVD": "N/A",
+        "BoxOffice": "$127,205,300",
+        "Production": "N/A",
+        "Website": "N/A",
+        "Response": "True"
+      }
+    ],
+    "plot": "Mike Schmidt, sem er nýbyrjaður sem næturvörður á matstofu bæjarins, Freddy Fazbar´s Pizza, kemst að því á sinni fyrstu vakt að nóttin á ekki eftir að verða jafn auðveld og hann hélt. Svo virðist sem leikmunirnir á staðnum séu ekki bara vélmenni. Þeir eru lifandi. Mun honum takast að lifa af fyrstu fimm vaktirnar?"
+  },
+  {
+    "id": 16302,
+    "ids": {
+      "imdb": "10651230",
+      "rotten": "",
+      "tmdb": "734002"
+    },
+    "title": "The Peasants",
+    "alternativeTitles": "",
+    "year": "2023",
+    "certificateIS": "12 ára",
+    "durationMinutes": 114,
+    "genres": [
+      {
+        "ID": 4,
+        "Name": "Drama",
+        "NameEN\t": "Drama"
+      },
+      {
+        "ID": 40,
+        "Name": "Söguleg",
+        "NameEN\t": "History"
+      },
+      {
+        "ID": 70,
+        "Name": "Teiknað",
+        "NameEN\t": "Animation"
+      }
+    ],
+    "poster": "http://kvikmyndir.is/images/poster/16302_500.jpg",
+    "actors_abridged": [
+      {
+        "name": "Kamila Urzedowska"
+      },
+      {
+        "name": "Robert Gulaczyk"
+      }
+    ],
+    "directors_abridged": [
+      {
+        "name": "Dorota Kobiela"
+      },
+      {
+        "name": "Hugh Welchman"
+      }
+    ],
+    "ratings": {
+      "imdb": "8.2",
+      "rotten_audience": "0",
+      "rotten_critics": "0"
+    },
+    "showtimes": [
+      {
+        "cinema": {
+          "id": 5,
+          "name": "Bíó Paradís"
+        },
+        "schedule": [
+          {
+            "time": "19:00 (2)",
+            "purchase_url": "https://tickets.bioparadis.is/#book/4362"
+          }
+        ]
+      }
+    ],
+    "certificate": {
+      "is": "12 ára",
+      "color": "yellow",
+      "number": "12"
+    },
+    "trailers": [
+      {
+        "id": 734002,
+        "results": [
+          {
+            "iso_639_1": "en",
+            "iso_3166_1": "US",
+            "name": "Dance Scene",
+            "key": "ogq85DmIDwc",
+            "site": "YouTube",
+            "size": 1080,
+            "type": "Clip",
+            "official": true,
+            "published_at": "2023-11-15T17:10:49.000Z",
+            "id": "655c8cc6b5400214cf3ba52d",
+            "url": "https://www.youtube.com/embed/ogq85DmIDwc?rel=0"
+          },
+          {
+            "iso_639_1": "en",
+            "iso_3166_1": "US",
+            "name": "Turning Vincent",
+            "key": "jOmsN9VLM64",
+            "site": "YouTube",
+            "size": 1080,
+            "type": "Teaser",
+            "official": true,
+            "published_at": "2023-11-15T16:39:53.000Z",
+            "id": "655c8cebea84c710922b3602",
+            "url": "https://www.youtube.com/embed/jOmsN9VLM64?rel=0"
+          },
+          {
+            "iso_639_1": "en",
+            "iso_3166_1": "US",
+            "name": "International Trailer [Subtitled]",
+            "key": "W0KCi_AI6lM",
+            "site": "YouTube",
+            "size": 1080,
+            "type": "Trailer",
+            "official": true,
+            "published_at": "2023-11-03T12:19:54.000Z",
+            "id": "6544e6f51ac292013b61dcab",
+            "url": "https://www.youtube.com/embed/W0KCi_AI6lM?rel=0"
+          },
+          {
+            "iso_639_1": "en",
+            "iso_3166_1": "US",
+            "name": "Official Trailer [Subtitled]",
+            "key": "RfsoP--5_NM",
+            "site": "YouTube",
+            "size": 1080,
+            "type": "Trailer",
+            "official": true,
+            "published_at": "2023-06-29T08:11:04.000Z",
+            "id": "64a338028289a000ebe43e47",
+            "url": "https://www.youtube.com/embed/RfsoP--5_NM?rel=0"
+          },
+          {
+            "iso_639_1": "en",
+            "iso_3166_1": "US",
+            "name": "Concept Trailer [Subtitled]",
+            "key": "rcYfCa8vE9s",
+            "site": "YouTube",
+            "size": 2160,
+            "type": "Teaser",
+            "official": true,
+            "published_at": "2020-08-25T09:42:12.000Z",
+            "id": "5f457e8fcee4810037aa97de",
+            "url": "https://www.youtube.com/embed/rcYfCa8vE9s?rel=0"
+          }
+        ]
+      }
+    ],
+    "omdb": [
+      {
+        "Title": "The Peasants",
+        "Year": "2023",
+        "Rated": "N/A",
+        "Released": "13 Oct 2023",
+        "Runtime": "114 min",
+        "Genre": "Animation, Drama, History",
+        "Director": "DK Welchman, Hugh Welchman",
+        "Writer": "Wladyslaw Stanislaw Reymont, DK Welchman, Hugh Welchman",
+        "Actors": "Kamila Urzedowska, Robert Gulaczyk, Miroslaw Baka",
+        "Plot": "Adaptation of a Nobel-Prize winning novel about a late 19th century Polish peasant woman who creates havoc by marrying an older rich man.",
+        "Language": "Polish, Latin",
+        "Country": "Poland, Serbia, Lithuania",
+        "Awards": "4 wins & 6 nominations",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMTYxMDEzYTItN2M0Zi00MjU1LWIxYjQtYjg2MDk2YmQzYWY4XkEyXkFqcGdeQXVyNTQ0NzY4Mzc@._V1_SX300.jpg",
+        "Ratings": [
+          {
+            "Source": "Internet Movie Database",
+            "Value": "8.2/10"
+          }
+        ],
+        "Metascore": "N/A",
+        "imdbRating": "8.2",
+        "imdbVotes": "1,928",
+        "imdbID": "tt10651230",
+        "Type": "movie",
+        "tomatoMeter": "N/A",
+        "tomatoImage": "N/A",
+        "tomatoRating": "N/A",
+        "tomatoReviews": "N/A",
+        "tomatoFresh": "N/A",
+        "tomatoRotten": "N/A",
+        "tomatoConsensus": "N/A",
+        "tomatoUserMeter": "N/A",
+        "tomatoUserRating": "N/A",
+        "tomatoUserReviews": "N/A",
+        "tomatoURL": "N/A",
+        "DVD": "N/A",
+        "BoxOffice": "N/A",
+        "Production": "N/A",
+        "Website": "N/A",
+        "Response": "True"
+      }
+    ],
+    "plot": "Við fylgjumst með ungri sveitastúlku sem giftist ríkum manni sem er mikið eldri en hún. Stórmynd, þar sem hver rammi er handmálaður, saga sem byggð er bók sem hlaut Nóbelsverðlaunin."
+  },
+  {
+    "id": 16118,
+    "ids": {
+      "imdb": "5537002",
+      "rotten": "",
+      "tmdb": "466420"
+    },
+    "title": "Killers of the Flower Moon",
+    "alternativeTitles": "",
+    "year": "2023",
+    "certificateIS": "16 ára",
+    "durationMinutes": 206,
+    "genres": [
+      {
+        "ID": 4,
+        "Name": "Drama",
+        "NameEN\t": "Drama"
+      },
+      {
+        "ID": 8,
+        "Name": "Glæpa",
+        "NameEN\t": "Crime"
+      },
+      {
+        "ID": 40,
+        "Name": "Söguleg",
+        "NameEN\t": "History"
+      }
+    ],
+    "poster": "http://kvikmyndir.is/images/poster/16118_500.jpg",
+    "actors_abridged": [
+      {
+        "name": "Leonardo DiCaprio"
+      },
+      {
+        "name": "Lily Gladstone"
+      }
+    ],
+    "directors_abridged": [
+      {
+        "name": "Martin Scorsese"
+      }
+    ],
+    "ratings": {
+      "imdb": "8",
+      "rotten_audience": "0",
+      "rotten_critics": "92"
+    },
+    "showtimes": [
+      {
+        "cinema": {
+          "id": 7,
+          "name": "Kringlubíó"
+        },
+        "schedule": [
+          {
+            "time": "20:10 (2)",
+            "purchase_url": "http://www.sambio.is/websales/show/371554/"
+          }
+        ]
+      }
+    ],
+    "certificate": {
+      "is": "16 ára",
+      "color": "red",
+      "number": "16"
+    },
+    "trailers": [
+      {
+        "id": 466420,
+        "results": [
+          {
+            "iso_639_1": "en",
+            "iso_3166_1": "US",
+            "name": "Directed by Martin Scorsese: Part One",
+            "key": "1EYY8PL-ffM",
+            "site": "YouTube",
+            "size": 1080,
+            "type": "Behind the Scenes",
+            "official": true,
+            "published_at": "2023-11-29T22:37:25.000Z",
+            "id": "6569c830a313b8011bb33b05",
+            "url": "https://www.youtube.com/embed/1EYY8PL-ffM?rel=0"
+          },
+          {
+            "iso_639_1": "en",
+            "iso_3166_1": "US",
+            "name": "Lily Gladstone's Wrap Speech",
+            "key": "HLWUK5Y7N5U",
+            "site": "YouTube",
+            "size": 1080,
+            "type": "Behind the Scenes",
+            "official": true,
+            "published_at": "2023-11-21T18:59:59.000Z",
+            "id": "655dded8629b2c00ad71527f",
+            "url": "https://www.youtube.com/embed/HLWUK5Y7N5U?rel=0"
+          },
+          {
+            "iso_639_1": "en",
+            "iso_3166_1": "US",
+            "name": "Academy Conversations - 'Killers of the Flower Moon' w/ Leonardo DiCaprio & more filmmakers",
+            "key": "k6EjoZd-EgQ",
+            "site": "YouTube",
+            "size": 1080,
+            "type": "Featurette",
+            "official": true,
+            "published_at": "2023-11-16T18:00:09.000Z",
+            "id": "655caec20816c700e01cc839",
+            "url": "https://www.youtube.com/embed/k6EjoZd-EgQ?rel=0"
+          },
+          {
+            "iso_639_1": "en",
+            "iso_3166_1": "US",
+            "name": "Martin Scorsese on the films that inspired Killers of the Flower Moon",
+            "key": "tb1CygmjwNQ",
+            "site": "YouTube",
+            "size": 1080,
+            "type": "Featurette",
+            "official": true,
+            "published_at": "2023-10-31T19:14:56.000Z",
+            "id": "654156bbc613ce00c4d3e830",
+            "url": "https://www.youtube.com/embed/tb1CygmjwNQ?rel=0"
+          },
+          {
+            "iso_639_1": "en",
+            "iso_3166_1": "US",
+            "name": "Lily Gladstone Feeds a Horse On Set",
+            "key": "6W9R46Rl2FE",
+            "site": "YouTube",
+            "size": 1080,
+            "type": "Behind the Scenes",
+            "official": true,
+            "published_at": "2023-10-27T18:59:47.000Z",
+            "id": "6547ffa62866fa011bcfda4a",
+            "url": "https://www.youtube.com/embed/6W9R46Rl2FE?rel=0"
+          },
+          {
+            "iso_639_1": "en",
+            "iso_3166_1": "US",
+            "name": "Lily Gladstone Behind the Scenes",
+            "key": "qnklV7uamA8",
+            "site": "YouTube",
+            "size": 1080,
+            "type": "Behind the Scenes",
+            "official": true,
+            "published_at": "2023-10-27T18:00:03.000Z",
+            "id": "653e93ff50733c00ff4ab94b",
+            "url": "https://www.youtube.com/embed/qnklV7uamA8?rel=0"
+          },
+          {
+            "iso_639_1": "en",
+            "iso_3166_1": "US",
+            "name": "Family Bonds Featurette",
+            "key": "5wWt8UHAff4",
+            "site": "YouTube",
+            "size": 1080,
+            "type": "Featurette",
+            "official": true,
+            "published_at": "2023-10-24T19:03:45.000Z",
+            "id": "653876eee93e950101383c7b",
+            "url": "https://www.youtube.com/embed/5wWt8UHAff4?rel=0"
+          },
+          {
+            "iso_639_1": "en",
+            "iso_3166_1": "US",
+            "name": "If you’re going to make trouble, make it big",
+            "key": "Lm73h0l1W2M",
+            "site": "YouTube",
+            "size": 1080,
+            "type": "Teaser",
+            "official": true,
+            "published_at": "2023-10-22T00:15:00.000Z",
+            "id": "65346e7f8cfcc7012b3f9bfc",
+            "url": "https://www.youtube.com/embed/Lm73h0l1W2M?rel=0"
+          },
+          {
+            "iso_639_1": "en",
+            "iso_3166_1": "US",
+            "name": "\"Just Be Still\" Clip",
+            "key": "sTha2f-1Ivk",
+            "site": "YouTube",
+            "size": 1080,
+            "type": "Clip",
+            "official": true,
+            "published_at": "2023-10-20T13:59:53.000Z",
+            "id": "653288756f8d95014d6ab21c",
+            "url": "https://www.youtube.com/embed/sTha2f-1Ivk?rel=0"
+          },
+          {
+            "iso_639_1": "en",
+            "iso_3166_1": "US",
+            "name": "Follow the money",
+            "key": "K-GBmleYQPw",
+            "site": "YouTube",
+            "size": 1080,
+            "type": "Teaser",
+            "official": true,
+            "published_at": "2023-10-19T23:00:09.000Z",
+            "id": "65322fda6f8d95010bbcef44",
+            "url": "https://www.youtube.com/embed/K-GBmleYQPw?rel=0"
+          },
+          {
+            "iso_639_1": "en",
+            "iso_3166_1": "US",
+            "name": "Official IMAX® Interview",
+            "key": "3N1ZHtOMDMY",
+            "site": "YouTube",
+            "size": 1080,
+            "type": "Featurette",
+            "official": true,
+            "published_at": "2023-10-19T16:04:44.000Z",
+            "id": "655cfebc7f054018d344f9ed",
+            "url": "https://www.youtube.com/embed/3N1ZHtOMDMY?rel=0"
+          },
+          {
+            "iso_639_1": "en",
+            "iso_3166_1": "US",
+            "name": "Uncover the truth",
+            "key": "LqqAGyBGIo4",
+            "site": "YouTube",
+            "size": 1080,
+            "type": "Teaser",
+            "official": true,
+            "published_at": "2023-10-18T00:00:07.000Z",
+            "id": "652f2e41caef2d00ff53e76c",
+            "url": "https://www.youtube.com/embed/LqqAGyBGIo4?rel=0"
+          },
+          {
+            "iso_639_1": "en",
+            "iso_3166_1": "US",
+            "name": "Final Trailer",
+            "key": "1oZUCkJEuvo",
+            "site": "YouTube",
+            "size": 1080,
+            "type": "Trailer",
+            "official": true,
+            "published_at": "2023-10-17T12:59:53.000Z",
+            "id": "652e85afea84c700aef45629",
+            "url": "https://www.youtube.com/embed/1oZUCkJEuvo?rel=0"
+          },
+          {
+            "iso_639_1": "en",
+            "iso_3166_1": "US",
+            "name": "“Head Rights” Clip",
+            "key": "fAikmFIx19s",
+            "site": "YouTube",
+            "size": 1080,
+            "type": "Clip",
+            "official": true,
+            "published_at": "2023-10-16T17:59:47.000Z",
+            "id": "652de810ea84c700eba30f55",
+            "url": "https://www.youtube.com/embed/fAikmFIx19s?rel=0"
+          },
+          {
+            "iso_639_1": "en",
+            "iso_3166_1": "US",
+            "name": "From Martin Scorsese, get tickets now and experience it in cinemas",
+            "key": "E1ybbfRpgG8",
+            "site": "YouTube",
+            "size": 1080,
+            "type": "Teaser",
+            "official": true,
+            "published_at": "2023-10-16T01:15:00.000Z",
+            "id": "652ca6b10cb33516fd4a488f",
+            "url": "https://www.youtube.com/embed/E1ybbfRpgG8?rel=0"
+          },
+          {
+            "iso_639_1": "en",
+            "iso_3166_1": "US",
+            "name": "Experience it in cinemas",
+            "key": "zEpokHwyYIg",
+            "site": "YouTube",
+            "size": 1080,
+            "type": "Teaser",
+            "official": true,
+            "published_at": "2023-10-14T03:30:31.000Z",
+            "id": "652b04231511aa0100668647",
+            "url": "https://www.youtube.com/embed/zEpokHwyYIg?rel=0"
+          },
+          {
+            "iso_639_1": "en",
+            "iso_3166_1": "US",
+            "name": "3 legends reunited on the big screen",
+            "key": "dFhMUo_X7cg",
+            "site": "YouTube",
+            "size": 1080,
+            "type": "Teaser",
+            "official": true,
+            "published_at": "2023-10-12T18:09:55.000Z",
+            "id": "652b2930358da700ad34e82d",
+            "url": "https://www.youtube.com/embed/dFhMUo_X7cg?rel=0"
+          },
+          {
+            "iso_639_1": "en",
+            "iso_3166_1": "US",
+            "name": "Don't miss “Scorsese’s best movie in decades!”",
+            "key": "cQBuZX1ourg",
+            "site": "YouTube",
+            "size": 1080,
+            "type": "Teaser",
+            "official": true,
+            "published_at": "2023-10-12T00:30:13.000Z",
+            "id": "65276ad1ea84c7012d6e6011",
+            "url": "https://www.youtube.com/embed/cQBuZX1ourg?rel=0"
+          },
+          {
+            "iso_639_1": "en",
+            "iso_3166_1": "US",
+            "name": "\"Coyote\" Clip [Subtitled]",
+            "key": "WAMzPTM2DTs",
+            "site": "YouTube",
+            "size": 1080,
+            "type": "Clip",
+            "official": true,
+            "published_at": "2023-10-11T15:59:49.000Z",
+            "id": "65274b4e0cb33516f745de99",
+            "url": "https://www.youtube.com/embed/WAMzPTM2DTs?rel=0"
+          },
+          {
+            "iso_639_1": "en",
+            "iso_3166_1": "US",
+            "name": "The best performance of Leonardo DiCaprio’s entire career",
+            "key": "4GLbQyvT6-s",
+            "site": "YouTube",
+            "size": 1080,
+            "type": "Teaser",
+            "official": true,
+            "published_at": "2023-10-10T03:30:02.000Z",
+            "id": "6524d33f07216645b8bf5598",
+            "url": "https://www.youtube.com/embed/4GLbQyvT6-s?rel=0"
+          },
+          {
+            "iso_639_1": "en",
+            "iso_3166_1": "US",
+            "name": "True Voices",
+            "key": "qKwHFiwvl1o",
+            "site": "YouTube",
+            "size": 1080,
+            "type": "Featurette",
+            "official": true,
+            "published_at": "2023-10-09T15:59:57.000Z",
+            "id": "65248f0974507d00e213e71d",
+            "url": "https://www.youtube.com/embed/qKwHFiwvl1o?rel=0"
+          },
+          {
+            "iso_639_1": "en",
+            "iso_3166_1": "US",
+            "name": "A Shared Vision",
+            "key": "wIdbg6jD5B0",
+            "site": "YouTube",
+            "size": 1080,
+            "type": "Featurette",
+            "official": true,
+            "published_at": "2023-10-09T14:59:50.000Z",
+            "id": "65248ef2fd630000e2019248",
+            "url": "https://www.youtube.com/embed/wIdbg6jD5B0?rel=0"
+          },
+          {
+            "iso_639_1": "en",
+            "iso_3166_1": "US",
+            "name": "Martin Scorsese arrives for Killers of the Flower Moon at the BFI London Film Festival 2023",
+            "key": "twP1tH9hfww",
+            "site": "YouTube",
+            "size": 1080,
+            "type": "Featurette",
+            "official": true,
+            "published_at": "2023-10-09T08:00:23.000Z",
+            "id": "6523deeb74507d00ff9b71cb",
+            "url": "https://www.youtube.com/embed/twP1tH9hfww?rel=0"
+          },
+          {
+            "iso_639_1": "en",
+            "iso_3166_1": "US",
+            "name": "There's nowhere to turn",
+            "key": "5tw1ctpDVg8",
+            "site": "YouTube",
+            "size": 1080,
+            "type": "Teaser",
+            "official": true,
+            "published_at": "2023-10-08T03:00:03.000Z",
+            "id": "65223756c50ad200ad850d3c",
+            "url": "https://www.youtube.com/embed/5tw1ctpDVg8?rel=0"
+          },
+          {
+            "iso_639_1": "en",
+            "iso_3166_1": "US",
+            "name": "Every twist, every turn is only the beginning",
+            "key": "Dmqmva4L4rw",
+            "site": "YouTube",
+            "size": 1080,
+            "type": "Teaser",
+            "official": true,
+            "published_at": "2023-10-06T03:00:05.000Z",
+            "id": "65211877c50ad200c91f7a10",
+            "url": "https://www.youtube.com/embed/Dmqmva4L4rw?rel=0"
+          },
+          {
+            "iso_639_1": "en",
+            "iso_3166_1": "US",
+            "name": "\"Front of the Head\" Clip",
+            "key": "PVYVb7wqSZo",
+            "site": "YouTube",
+            "size": 1080,
+            "type": "Clip",
+            "official": true,
+            "published_at": "2023-10-05T15:00:16.000Z",
+            "id": "651f3056967cc734295f7c81",
+            "url": "https://www.youtube.com/embed/PVYVb7wqSZo?rel=0"
+          },
+          {
+            "iso_639_1": "en",
+            "iso_3166_1": "US",
+            "name": "Robert De Niro as William King Hale",
+            "key": "KSEmgcXoMW4",
+            "site": "YouTube",
+            "size": 1080,
+            "type": "Featurette",
+            "official": true,
+            "published_at": "2023-10-04T12:59:54.000Z",
+            "id": "651d721b5b124000c604bf6f",
+            "url": "https://www.youtube.com/embed/KSEmgcXoMW4?rel=0"
+          },
+          {
+            "iso_639_1": "en",
+            "iso_3166_1": "US",
+            "name": "Lily Gladstone as Mollie Burkhart",
+            "key": "ehVqG84cYzo",
+            "site": "YouTube",
+            "size": 1080,
+            "type": "Featurette",
+            "official": true,
+            "published_at": "2023-10-03T12:59:57.000Z",
+            "id": "651cac5d8c22c00103642d1b",
+            "url": "https://www.youtube.com/embed/ehVqG84cYzo?rel=0"
+          },
+          {
+            "iso_639_1": "en",
+            "iso_3166_1": "US",
+            "name": "Leonardo DiCaprio as Ernest Burkhart",
+            "key": "vqTF_cdtu7I",
+            "site": "YouTube",
+            "size": 1080,
+            "type": "Featurette",
+            "official": true,
+            "published_at": "2023-10-02T12:59:48.000Z",
+            "id": "651ac0ae74507d00ff964e80",
+            "url": "https://www.youtube.com/embed/vqTF_cdtu7I?rel=0"
+          },
+          {
+            "iso_639_1": "en",
+            "iso_3166_1": "US",
+            "name": "\"Handsome Devil\" Clip",
+            "key": "Yb4mgjfs3Rs",
+            "site": "YouTube",
+            "size": 1080,
+            "type": "Clip",
+            "official": true,
+            "published_at": "2023-09-28T14:59:55.000Z",
+            "id": "6515a03a9b8616011c47da0d",
+            "url": "https://www.youtube.com/embed/Yb4mgjfs3Rs?rel=0"
+          },
+          {
+            "iso_639_1": "en",
+            "iso_3166_1": "US",
+            "name": "Greed. Power. Betrayal.",
+            "key": "n_zN0KKl7yI",
+            "site": "YouTube",
+            "size": 1080,
+            "type": "Teaser",
+            "official": true,
+            "published_at": "2023-09-27T12:30:47.000Z",
+            "id": "6514803693bd6900acc53ccd",
+            "url": "https://www.youtube.com/embed/n_zN0KKl7yI?rel=0"
+          },
+          {
+            "iso_639_1": "en",
+            "iso_3166_1": "US",
+            "name": "An Inside Look",
+            "key": "3YuLJXRSn2k",
+            "site": "YouTube",
+            "size": 1080,
+            "type": "Behind the Scenes",
+            "official": true,
+            "published_at": "2023-09-25T13:59:56.000Z",
+            "id": "6511ea21e1faed00e3f72343",
+            "url": "https://www.youtube.com/embed/3YuLJXRSn2k?rel=0"
+          },
+          {
+            "iso_639_1": "en",
+            "iso_3166_1": "US",
+            "name": "Scorsese. DiCaprio. De Niro. Gladstone.",
+            "key": "myGT3mocWE0",
+            "site": "YouTube",
+            "size": 1080,
+            "type": "Teaser",
+            "official": true,
+            "published_at": "2023-09-25T12:00:41.000Z",
+            "id": "651b38a9c50ad2012c1a1922",
+            "url": "https://www.youtube.com/embed/myGT3mocWE0?rel=0"
+          },
+          {
+            "iso_639_1": "en",
+            "iso_3166_1": "US",
+            "name": "The deeper you go, the darker it gets.",
+            "key": "4-Y3kBiq8qE",
+            "site": "YouTube",
+            "size": 1080,
+            "type": "Teaser",
+            "official": true,
+            "published_at": "2023-09-24T03:30:01.000Z",
+            "id": "651b38b6c50ad200eabf4644",
+            "url": "https://www.youtube.com/embed/4-Y3kBiq8qE?rel=0"
+          },
+          {
+            "iso_639_1": "en",
+            "iso_3166_1": "US",
+            "name": "DiCaprio’s best role yet!",
+            "key": "Or5vYmBzJsk",
+            "site": "YouTube",
+            "size": 1080,
+            "type": "Teaser",
+            "official": true,
+            "published_at": "2023-09-22T12:00:22.000Z",
+            "id": "650df73d2b531d013b7fc4c9",
+            "url": "https://www.youtube.com/embed/Or5vYmBzJsk?rel=0"
+          },
+          {
+            "iso_639_1": "en",
+            "iso_3166_1": "US",
+            "name": "Scorsese’s most innovative and best movie in decades",
+            "key": "hemfPXxEfPY",
+            "site": "YouTube",
+            "size": 1080,
+            "type": "Teaser",
+            "official": true,
+            "published_at": "2023-09-20T06:53:27.000Z",
+            "id": "650b538dcadb6b00e11fc062",
+            "url": "https://www.youtube.com/embed/hemfPXxEfPY?rel=0"
+          },
+          {
+            "iso_639_1": "en",
+            "iso_3166_1": "US",
+            "name": "Scorsese’s best movie in decades",
+            "key": "DgWcqzBdmiQ",
+            "site": "YouTube",
+            "size": 1080,
+            "type": "Teaser",
+            "official": true,
+            "published_at": "2023-09-13T21:48:59.000Z",
+            "id": "652b290ef28838029f3249a2",
+            "url": "https://www.youtube.com/embed/DgWcqzBdmiQ?rel=0"
+          },
+          {
+            "iso_639_1": "en",
+            "iso_3166_1": "US",
+            "name": "Official Trailer 2",
+            "key": "f1oqFhyjebw",
+            "site": "YouTube",
+            "size": 1080,
+            "type": "Trailer",
+            "official": true,
+            "published_at": "2023-09-13T12:59:57.000Z",
+            "id": "6501c3436a222700e0f2da7d",
+            "url": "https://www.youtube.com/embed/f1oqFhyjebw?rel=0"
+          },
+          {
+            "iso_639_1": "en",
+            "iso_3166_1": "US",
+            "name": "Official Trailer",
+            "key": "EP34Yoxs3FQ",
+            "site": "YouTube",
+            "size": 1080,
+            "type": "Trailer",
+            "official": true,
+            "published_at": "2023-07-05T12:59:51.000Z",
+            "id": "64a56f96a0be28014fa6fb65",
+            "url": "https://www.youtube.com/embed/EP34Yoxs3FQ?rel=0"
+          },
+          {
+            "iso_639_1": "en",
+            "iso_3166_1": "US",
+            "name": "Official Teaser Trailer",
+            "key": "EG0si5bSd6I",
+            "site": "YouTube",
+            "size": 1080,
+            "type": "Trailer",
+            "official": true,
+            "published_at": "2023-05-18T13:14:58.000Z",
+            "id": "646626e3c3514c0100fce1aa",
+            "url": "https://www.youtube.com/embed/EG0si5bSd6I?rel=0"
+          }
+        ]
+      }
+    ],
+    "omdb": [
+      {
+        "Title": "Killers of the Flower Moon",
+        "Year": "2023",
+        "Rated": "R",
+        "Released": "20 Oct 2023",
+        "Runtime": "206 min",
+        "Genre": "Crime, Drama, History",
+        "Director": "Martin Scorsese",
+        "Writer": "Eric Roth, Martin Scorsese, David Grann",
+        "Actors": "Leonardo DiCaprio, Robert De Niro, Lily Gladstone",
+        "Plot": "When oil is discovered in 1920s Oklahoma under Osage Nation land, the Osage people are murdered one by one - until the FBI steps in to unravel the mystery.",
+        "Language": "English, Sioux, Latin, French",
+        "Country": "United States",
+        "Awards": "6 wins & 3 nominations",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMjE4ZTZlNDAtM2Q3YS00YjFhLThjN2UtODg2ZGNlN2E2MWU2XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_SX300.jpg",
+        "Ratings": [
+          {
+            "Source": "Internet Movie Database",
+            "Value": "8.0/10"
+          },
+          {
+            "Source": "Rotten Tomatoes",
+            "Value": "92%"
+          },
+          {
+            "Source": "Metacritic",
+            "Value": "89/100"
+          }
+        ],
+        "Metascore": "89",
+        "imdbRating": "8.0",
+        "imdbVotes": "98,762",
+        "imdbID": "tt5537002",
+        "Type": "movie",
+        "tomatoMeter": "N/A",
+        "tomatoImage": "N/A",
+        "tomatoRating": "N/A",
+        "tomatoReviews": "N/A",
+        "tomatoFresh": "N/A",
+        "tomatoRotten": "N/A",
+        "tomatoConsensus": "N/A",
+        "tomatoUserMeter": "N/A",
+        "tomatoUserRating": "N/A",
+        "tomatoUserReviews": "N/A",
+        "tomatoURL": "https://www.rottentomatoes.com/m/killers_of_the_flower_moon",
+        "DVD": "N/A",
+        "BoxOffice": "$66,513,005",
+        "Production": "N/A",
+        "Website": "N/A",
+        "Response": "True"
+      }
+    ],
+    "plot": "Þegar olía finnst á þriðja áratug tuttugustu aldarinnar í Oklohoma í Bandaríkjunum í landi Osaga þjóðarinnar, þá er Osaga fólkið myrt eitt af öðru á dularfullan hátt þar til alríkislögreglan FBI, þar á meðal forstjóri stofnunarinnar J. Edgar Hoover, kemur til skjalanna til að leysa gátuna."
+  },
+  {
+    "id": 16337,
+    "ids": {
+      "imdb": "15837338",
+      "rotten": "",
+      "tmdb": "893723"
+    },
+    "title": "PAW Patrol: The Mighty Movie",
+    "alternativeTitles": "Hvolpasveitin: Ofurmyndin",
+    "year": "2023",
+    "certificateIS": "Öllum leyfð",
+    "durationMinutes": 90,
+    "genres": [
+      {
+        "ID": 1,
+        "Name": "Spenna",
+        "NameEN\t": "Action"
+      },
+      {
+        "ID": 32,
+        "Name": "Ævintýri",
+        "NameEN\t": "Adventure"
+      },
+      {
+        "ID": 70,
+        "Name": "Teiknað",
+        "NameEN\t": "Animation"
+      }
+    ],
+    "poster": "http://kvikmyndir.is/images/poster/16337_500.jpg",
+    "actors_abridged": [
+      {
+        "name": "Mckenna Grace"
+      },
+      {
+        "name": "Christian Convery"
+      }
+    ],
+    "directors_abridged": [
+      {
+        "name": "Cal Brunker"
+      }
+    ],
+    "ratings": {
+      "imdb": "6",
+      "rotten_audience": "0",
+      "rotten_critics": "0"
+    },
+    "showtimes": [
+      {
+        "cinema": {
+          "id": 1,
+          "name": "Smárabíó"
+        },
+        "schedule": [
+          {
+            "time": "15.00 (ÍSL TAL ÍSL TAL 2)",
+            "purchase_url": "https://sala.smarabio.is/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=105466&visLang=1"
+          }
+        ]
+      }
+    ],
+    "certificate": {
+      "is": "Öllum leyfð",
+      "color": "green",
+      "number": "L"
+    },
+    "trailers": [
+      {
+        "id": 893723,
+        "results": [
+          {
+            "iso_639_1": "en",
+            "iso_3166_1": "US",
+            "name": "\"PAW Patrol Gains Superpowers!\" Clip",
+            "key": "_Qkfp27YkQE",
+            "site": "YouTube",
+            "size": 1080,
+            "type": "Clip",
+            "official": true,
+            "published_at": "2023-10-31T16:00:08.000Z",
+            "id": "6547fa221ac2927b2c80cd25",
+            "url": "https://www.youtube.com/embed/_Qkfp27YkQE?rel=0"
+          },
+          {
+            "iso_639_1": "en",
+            "iso_3166_1": "US",
+            "name": "Now showing in cinemas!",
+            "key": "GxfoQlmduvc",
+            "site": "YouTube",
+            "size": 1080,
+            "type": "Teaser",
+            "official": true,
+            "published_at": "2023-10-15T00:00:07.000Z",
+            "id": "652b66a6ea84c700ca10ced8",
+            "url": "https://www.youtube.com/embed/GxfoQlmduvc?rel=0"
+          },
+          {
+            "iso_639_1": "en",
+            "iso_3166_1": "US",
+            "name": "Get tickets to see the movie, now showing in cinemas",
+            "key": "c-vL9z-L3-Y",
+            "site": "YouTube",
+            "size": 1080,
+            "type": "Teaser",
+            "official": true,
+            "published_at": "2023-10-12T23:15:00.000Z",
+            "id": "65288562629b2c00ffeeef2e",
+            "url": "https://www.youtube.com/embed/c-vL9z-L3-Y?rel=0"
+          },
+          {
+            "iso_639_1": "en",
+            "iso_3166_1": "US",
+            "name": "PAW Patrol Movie is \"hilarious\" and \"fun for the whole family!\"",
+            "key": "qyq5Q2tiVOM",
+            "site": "YouTube",
+            "size": 1080,
+            "type": "Teaser",
+            "official": true,
+            "published_at": "2023-10-10T23:15:01.000Z",
+            "id": "652616cbcedac4013fab580a",
+            "url": "https://www.youtube.com/embed/qyq5Q2tiVOM?rel=0"
+          },
+          {
+            "iso_639_1": "en",
+            "iso_3166_1": "US",
+            "name": "You’re in for a MIGHTY good time!",
+            "key": "gQT57u8T6XQ",
+            "site": "YouTube",
+            "size": 1080,
+            "type": "Teaser",
+            "official": true,
+            "published_at": "2023-10-07T00:30:18.000Z",
+            "id": "6520b9c8c1ffbd00c48b71f3",
+            "url": "https://www.youtube.com/embed/gQT57u8T6XQ?rel=0"
+          },
+          {
+            "iso_639_1": "en",
+            "iso_3166_1": "US",
+            "name": "Get your tickets NOW",
+            "key": "oGmq3-muObM",
+            "site": "YouTube",
+            "size": 1080,
+            "type": "Teaser",
+            "official": true,
+            "published_at": "2023-10-03T00:30:33.000Z",
+            "id": "651b78cd9d592c00e5f0c0fa",
+            "url": "https://www.youtube.com/embed/oGmq3-muObM?rel=0"
+          },
+          {
+            "iso_639_1": "en",
+            "iso_3166_1": "US",
+            "name": "Join their new adventure!",
+            "key": "eGb9RTGYoKg",
+            "site": "YouTube",
+            "size": 1080,
+            "type": "Teaser",
+            "official": true,
+            "published_at": "2023-10-01T23:30:12.000Z",
+            "id": "651b38726728a8011ea73a59",
+            "url": "https://www.youtube.com/embed/eGb9RTGYoKg?rel=0"
+          },
+          {
+            "iso_639_1": "en",
+            "iso_3166_1": "US",
+            "name": "The pups are back (and mighty!)",
+            "key": "8tFR65VzmlA",
+            "site": "YouTube",
+            "size": 1080,
+            "type": "Teaser",
+            "official": true,
+            "published_at": "2023-09-30T23:00:04.000Z",
+            "id": "651b387d93bd690138feb75e",
+            "url": "https://www.youtube.com/embed/8tFR65VzmlA?rel=0"
+          },
+          {
+            "iso_639_1": "en",
+            "iso_3166_1": "US",
+            "name": "\"Behind the Voices\" Cast Featurette",
+            "key": "JVpCIseqcwA",
+            "site": "YouTube",
+            "size": 1080,
+            "type": "Behind the Scenes",
+            "official": true,
+            "published_at": "2023-09-26T15:00:25.000Z",
+            "id": "65136003924ce500ad4ff8c6",
+            "url": "https://www.youtube.com/embed/JVpCIseqcwA?rel=0"
+          },
+          {
+            "iso_639_1": "en",
+            "iso_3166_1": "US",
+            "name": "Guinness World Records Title for Most Dogs Attending a Film Screening",
+            "key": "4ZoYQX85wo4",
+            "site": "YouTube",
+            "size": 1080,
+            "type": "Featurette",
+            "official": true,
+            "published_at": "2023-09-25T06:30:29.000Z",
+            "id": "651b388d967cc73425f12f31",
+            "url": "https://www.youtube.com/embed/4ZoYQX85wo4?rel=0"
+          },
+          {
+            "iso_639_1": "en",
+            "iso_3166_1": "US",
+            "name": "Do you have what it takes to be a hero?",
+            "key": "I3qFaEcffig",
+            "site": "YouTube",
+            "size": 1080,
+            "type": "Teaser",
+            "official": true,
+            "published_at": "2023-09-24T01:00:08.000Z",
+            "id": "651b38c2072166011c023601",
+            "url": "https://www.youtube.com/embed/I3qFaEcffig?rel=0"
+          },
+          {
+            "iso_639_1": "en",
+            "iso_3166_1": "US",
+            "name": "\"Meet the Junior Patrollers\" Exclusive Clip",
+            "key": "-gOGZj68ZjU",
+            "site": "YouTube",
+            "size": 1080,
+            "type": "Clip",
+            "official": true,
+            "published_at": "2023-09-22T14:06:49.000Z",
+            "id": "650df6f111c06601397735e1",
+            "url": "https://www.youtube.com/embed/-gOGZj68ZjU?rel=0"
+          },
+          {
+            "iso_639_1": "en",
+            "iso_3166_1": "US",
+            "name": "With this team, anything is PAWsible",
+            "key": "5FH0HMCiRBI",
+            "site": "YouTube",
+            "size": 1080,
+            "type": "Teaser",
+            "official": true,
+            "published_at": "2023-09-22T00:00:05.000Z",
+            "id": "650ce338b5bc21012cca1dde",
+            "url": "https://www.youtube.com/embed/5FH0HMCiRBI?rel=0"
+          },
+          {
+            "iso_639_1": "en",
+            "iso_3166_1": "US",
+            "name": "\"Full Powers\" Clip",
+            "key": "ldJteu0pE28",
+            "site": "YouTube",
+            "size": 1080,
+            "type": "Clip",
+            "official": true,
+            "published_at": "2023-09-20T22:50:00.000Z",
+            "id": "652b35e6358da700c6f1340d",
+            "url": "https://www.youtube.com/embed/ldJteu0pE28?rel=0"
+          },
+          {
+            "iso_639_1": "en",
+            "iso_3166_1": "US",
+            "name": "Taraji P. Henson as Victoria Vance",
+            "key": "UhjcNb3Ld9k",
+            "site": "YouTube",
+            "size": 1080,
+            "type": "Behind the Scenes",
+            "official": true,
+            "published_at": "2023-09-20T17:37:24.000Z",
+            "id": "650b3b2f501cf200c6bbc1fc",
+            "url": "https://www.youtube.com/embed/UhjcNb3Ld9k?rel=0"
+          },
+          {
+            "iso_639_1": "en",
+            "iso_3166_1": "US",
+            "name": "The pups just got super-powered",
+            "key": "FR52Z8jQ_aw",
+            "site": "YouTube",
+            "size": 1080,
+            "type": "Teaser",
+            "official": true,
+            "published_at": "2023-09-19T22:00:07.000Z",
+            "id": "650b3b530d5d8500e0524e22",
+            "url": "https://www.youtube.com/embed/FR52Z8jQ_aw?rel=0"
+          },
+          {
+            "iso_639_1": "en",
+            "iso_3166_1": "US",
+            "name": "A super-powered pup adventure!",
+            "key": "ynoLrKiV5ec",
+            "site": "YouTube",
+            "size": 1080,
+            "type": "Teaser",
+            "official": true,
+            "published_at": "2023-09-19T01:51:15.000Z",
+            "id": "650b3b486c19ea00ca46e1cc",
+            "url": "https://www.youtube.com/embed/ynoLrKiV5ec?rel=0"
+          },
+          {
+            "iso_639_1": "en",
+            "iso_3166_1": "US",
+            "name": "Meet The Junior Patrollers",
+            "key": "7ypt1X9Py2U",
+            "site": "YouTube",
+            "size": 1080,
+            "type": "Featurette",
+            "official": true,
+            "published_at": "2023-09-13T18:00:06.000Z",
+            "id": "650b3b1781c7be013af1940b",
+            "url": "https://www.youtube.com/embed/7ypt1X9Py2U?rel=0"
+          },
+          {
+            "iso_639_1": "en",
+            "iso_3166_1": "US",
+            "name": "Junior Patrollers Training Clip",
+            "key": "i-upmjVBtLo",
+            "site": "YouTube",
+            "size": 1080,
+            "type": "Clip",
+            "official": true,
+            "published_at": "2023-09-13T16:00:29.000Z",
+            "id": "6501e106d7dcd2011c610d67",
+            "url": "https://www.youtube.com/embed/i-upmjVBtLo?rel=0"
+          },
+          {
+            "iso_639_1": "en",
+            "iso_3166_1": "US",
+            "name": "Super Powers Featurette",
+            "key": "0QMSyTkTo_Y",
+            "site": "YouTube",
+            "size": 1080,
+            "type": "Featurette",
+            "official": true,
+            "published_at": "2023-09-12T16:00:00.000Z",
+            "id": "6501f0fe6a222701372de7f1",
+            "url": "https://www.youtube.com/embed/0QMSyTkTo_Y?rel=0"
+          },
+          {
+            "iso_639_1": "en",
+            "iso_3166_1": "US",
+            "name": "How many su-PAW-stars can you fit in PAW Patrol Movie",
+            "key": "8vPjzGSnVEI",
+            "site": "YouTube",
+            "size": 1080,
+            "type": "Teaser",
+            "official": true,
+            "published_at": "2023-09-11T03:04:28.000Z",
+            "id": "64fff88bd7dcd200acb0147a",
+            "url": "https://www.youtube.com/embed/8vPjzGSnVEI?rel=0"
+          },
+          {
+            "iso_639_1": "en",
+            "iso_3166_1": "US",
+            "name": "Mighty Vehicles Clip",
+            "key": "JNlR5isrvvQ",
+            "site": "YouTube",
+            "size": 1080,
+            "type": "Clip",
+            "official": true,
+            "published_at": "2023-09-07T16:00:12.000Z",
+            "id": "64fff8faefea7a00e035282a",
+            "url": "https://www.youtube.com/embed/JNlR5isrvvQ?rel=0"
+          },
+          {
+            "iso_639_1": "en",
+            "iso_3166_1": "US",
+            "name": "What's New Featurette",
+            "key": "mYUnrx-_vfs",
+            "site": "YouTube",
+            "size": 1080,
+            "type": "Featurette",
+            "official": true,
+            "published_at": "2023-09-06T15:00:59.000Z",
+            "id": "64fff8ed6a222700aba8796e",
+            "url": "https://www.youtube.com/embed/mYUnrx-_vfs?rel=0"
+          },
+          {
+            "iso_639_1": "en",
+            "iso_3166_1": "US",
+            "name": "Unleash your powers",
+            "key": "N2UanJB-ZjU",
+            "site": "YouTube",
+            "size": 1080,
+            "type": "Teaser",
+            "official": true,
+            "published_at": "2023-09-02T08:00:11.000Z",
+            "id": "64fff8b8efea7a00aad74d90",
+            "url": "https://www.youtube.com/embed/N2UanJB-ZjU?rel=0"
+          },
+          {
+            "iso_639_1": "en",
+            "iso_3166_1": "US",
+            "name": "Back to School Piece",
+            "key": "1afR6VQDJI0",
+            "site": "YouTube",
+            "size": 1080,
+            "type": "Featurette",
+            "official": true,
+            "published_at": "2023-08-31T01:52:47.000Z",
+            "id": "64fff8d0d7dcd200ffeb63b6",
+            "url": "https://www.youtube.com/embed/1afR6VQDJI0?rel=0"
+          },
+          {
+            "iso_639_1": "en",
+            "iso_3166_1": "US",
+            "name": "Ninja Patrol",
+            "key": "4FrXEbQXT5w",
+            "site": "YouTube",
+            "size": 1080,
+            "type": "Teaser",
+            "official": true,
+            "published_at": "2023-08-25T22:00:02.000Z",
+            "id": "64e9338a1feac100fe5cc3ad",
+            "url": "https://www.youtube.com/embed/4FrXEbQXT5w?rel=0"
+          },
+          {
+            "iso_639_1": "en",
+            "iso_3166_1": "US",
+            "name": "\"Pups Get Their Powers\" Clip",
+            "key": "ZW0DgP-csMI",
+            "site": "YouTube",
+            "size": 1080,
+            "type": "Clip",
+            "official": true,
+            "published_at": "2023-08-22T15:01:10.000Z",
+            "id": "64e4ef8e06f98400ca538c52",
+            "url": "https://www.youtube.com/embed/ZW0DgP-csMI?rel=0"
+          },
+          {
+            "iso_639_1": "en",
+            "iso_3166_1": "US",
+            "name": "Official Trailer",
+            "key": "UDgjJ9XzgHk",
+            "site": "YouTube",
+            "size": 1080,
+            "type": "Trailer",
+            "official": true,
+            "published_at": "2023-06-12T13:00:04.000Z",
+            "id": "64872b44e2726000c931a9b3",
+            "url": "https://www.youtube.com/embed/UDgjJ9XzgHk?rel=0"
+          }
+        ]
+      }
+    ],
+    "omdb": [
+      {
+        "Title": "PAW Patrol: The Mighty Movie",
+        "Year": "2023",
+        "Rated": "PG",
+        "Released": "29 Sep 2023",
+        "Runtime": "88 min",
+        "Genre": "Animation, Action, Adventure",
+        "Director": "Cal Brunker",
+        "Writer": "Cal Brunker, Bob Barlen, Shane Morris",
+        "Actors": "Dan Duran, Kristen Bell, James Marsden",
+        "Plot": "A magical meteor crash lands in Adventure City and gives the PAW Patrol pups superpowers, transforming them into The Mighty Pups",
+        "Language": "English",
+        "Country": "United States, Canada",
+        "Awards": "1 win & 1 nomination",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMGI4NTNlODItMGJlZi00OTIwLTlkM2ItMWFkZjJhZDIzMDc3XkEyXkFqcGdeQXVyMTEyNzQ1MTk0._V1_SX300.jpg",
+        "Ratings": [
+          {
+            "Source": "Internet Movie Database",
+            "Value": "6.0/10"
+          }
+        ],
+        "Metascore": "N/A",
+        "imdbRating": "6.0",
+        "imdbVotes": "3,517",
+        "imdbID": "tt15837338",
+        "Type": "movie",
+        "tomatoMeter": "N/A",
+        "tomatoImage": "N/A",
+        "tomatoRating": "N/A",
+        "tomatoReviews": "N/A",
+        "tomatoFresh": "N/A",
+        "tomatoRotten": "N/A",
+        "tomatoConsensus": "N/A",
+        "tomatoUserMeter": "N/A",
+        "tomatoUserRating": "N/A",
+        "tomatoUserReviews": "N/A",
+        "tomatoURL": "N/A",
+        "DVD": "N/A",
+        "BoxOffice": "$65,097,305",
+        "Production": "N/A",
+        "Website": "N/A",
+        "Response": "True"
+      }
+    ],
+    "plot": "Töfraloftsteinn fellur til jarðar í Ævintýraborg og gefur Hvolpasveitinni ofurkrafta. Fyrir Skye, yngsta meðlim sveitarinnar, eru kraftarnir draumur sem rætist. En hlutirnir taka óvænta stefnu þegar Humdinger sleppur úr fangelsi og gengur til liðs við brjálaðan vísindamann sem vill stela ofurkröftunum. Nú eru örlög Ævintýraborgar í höndum Hvolpasveitarinnar sem þarf að stöðva óþokkana áður en það verður um seinan."
+  },
+  {
+    "id": 15051,
+    "ids": {
+      "imdb": "",
+      "rotten": null,
+      "tmdb": "0"
+    },
+    "title": "Jólamóðir",
+    "alternativeTitles": "",
+    "year": "2022",
+    "certificateIS": "Öllum leyfð",
+    "durationMinutes": 97,
+    "genres": [
+      32,
+      75
+    ],
+    "poster": "http://kvikmyndir.is/images/poster/jolamdddddid-1671110630.jpg",
+    "actors_abridged": [
+      {
+        "name": "Andrea Ösp Karlsdóttir"
+      },
+      {
+        "name": "Anna Bergljót Thorarensen"
+      }
+    ],
+    "directors_abridged": [
+      {
+        "name": "Jakob Hákonarson"
+      }
+    ],
+    "ratings": {
+      "imdb": null,
+      "rotten_audience": null,
+      "rotten_critics": null
+    },
+    "showtimes": [
+      {
+        "cinema": "6",
+        "schedule": [
+          {
+            "time": "17:00 (3)",
+            "purchase_url": "http://www.sambio.is/websales/show/371543/"
+          }
+        ]
+      },
+      {
+        "cinema": "7",
+        "schedule": [
+          {
+            "time": "14:00 (2)",
+            "purchase_url": "http://www.sambio.is/websales/show/371698/"
+          },
+          {
+            "time": "16:10 (2)",
+            "purchase_url": "http://www.sambio.is/websales/show/371699/"
+          }
+        ]
+      }
+    ],
+    "certificate": {
+      "is": "Öllum leyfð",
+      "color": "green",
+      "number": "L"
+    },
+    "trailers": [],
+    "omdb": []
+  },
+  {
+    "id": 16301,
+    "ids": {
+      "imdb": "23736044",
+      "rotten": "",
+      "tmdb": "1050035"
+    },
+    "title": "Monster",
+    "alternativeTitles": "Kaibutsu",
+    "year": "2023",
+    "certificateIS": "12 ára",
+    "durationMinutes": 126,
+    "genres": [
+      {
+        "ID": 4,
+        "Name": "Drama",
+        "NameEN\t": "Drama"
+      },
+      {
+        "ID": 6,
+        "Name": "Spennutryllir",
+        "NameEN\t": "Thriller"
+      }
+    ],
+    "poster": "http://kvikmyndir.is/images/poster/16301_500.jpg",
+    "actors_abridged": [
+      {
+        "name": "Sakura Ando"
+      },
+      {
+        "name": "Eita Nagayama"
+      }
+    ],
+    "directors_abridged": [
+      {
+        "name": "Kore-eda Hirokazu"
+      }
+    ],
+    "ratings": {
+      "imdb": "8.1",
+      "rotten_audience": "0",
+      "rotten_critics": "0"
+    },
+    "showtimes": [
+      {
+        "cinema": {
+          "id": 5,
+          "name": "Bíó Paradís"
+        },
+        "schedule": [
+          {
+            "time": "21:00 (1)",
+            "purchase_url": "https://tickets.bioparadis.is/#book/4355"
+          }
+        ]
+      }
+    ],
+    "certificate": {
+      "is": "12 ára",
+      "color": "yellow",
+      "number": "12"
+    },
+    "trailers": [
+      {
+        "id": 1050035,
+        "results": [
+          {
+            "iso_639_1": "en",
+            "iso_3166_1": "US",
+            "name": "Official US Trailer [Subtitled]",
+            "key": "xoviKDGaLao",
+            "site": "YouTube",
+            "size": 1080,
+            "type": "Trailer",
+            "official": true,
+            "published_at": "2023-10-04T17:34:03.000Z",
+            "id": "651da5e874507d01395bd6ca",
+            "url": "https://www.youtube.com/embed/xoviKDGaLao?rel=0"
+          },
+          {
+            "iso_639_1": "en",
+            "iso_3166_1": "US",
+            "name": "Official Trailer [Subtitled]",
+            "key": "lA9ADgHQ3yk",
+            "site": "YouTube",
+            "size": 1080,
+            "type": "Trailer",
+            "official": true,
+            "published_at": "2023-04-20T06:04:21.000Z",
+            "id": "64d0f22685090f0125bd9263",
+            "url": "https://www.youtube.com/embed/lA9ADgHQ3yk?rel=0"
+          },
+          {
+            "iso_639_1": "en",
+            "iso_3166_1": "US",
+            "name": "Teaser Trailer [Subtitled]",
+            "key": "FQ368klY0nI",
+            "site": "YouTube",
+            "size": 1080,
+            "type": "Teaser",
+            "official": true,
+            "published_at": "2023-02-03T00:37:44.000Z",
+            "id": "651046cd344a8e011c6f2f0c",
+            "url": "https://www.youtube.com/embed/FQ368klY0nI?rel=0"
+          }
+        ]
+      }
+    ],
+    "omdb": [
+      {
+        "Title": "Monster",
+        "Year": "2023",
+        "Rated": "PG-13",
+        "Released": "02 Jun 2023",
+        "Runtime": "126 min",
+        "Genre": "Drama, Thriller",
+        "Director": "Hirokazu Koreeda",
+        "Writer": "Yûji Sakamoto",
+        "Actors": "Sakura Ando, Eita Nagayama, Soya Kurokawa",
+        "Plot": "A mother demands answers from teacher when her son begins acting strangely.",
+        "Language": "Japanese, English",
+        "Country": "Japan",
+        "Awards": "4 wins & 4 nominations",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BNDA3NTQ1YWItZDg4Ny00ZDYxLWJmZDYtODY4MTcwYWFlMDYwXkEyXkFqcGdeQXVyMDc5ODIzMw@@._V1_SX300.jpg",
+        "Ratings": [
+          {
+            "Source": "Internet Movie Database",
+            "Value": "8.1/10"
+          },
+          {
+            "Source": "Metacritic",
+            "Value": "80/100"
+          }
+        ],
+        "Metascore": "80",
+        "imdbRating": "8.1",
+        "imdbVotes": "2,778",
+        "imdbID": "tt23736044",
+        "Type": "movie",
+        "tomatoMeter": "N/A",
+        "tomatoImage": "N/A",
+        "tomatoRating": "N/A",
+        "tomatoReviews": "N/A",
+        "tomatoFresh": "N/A",
+        "tomatoRotten": "N/A",
+        "tomatoConsensus": "N/A",
+        "tomatoUserMeter": "N/A",
+        "tomatoUserRating": "N/A",
+        "tomatoUserReviews": "N/A",
+        "tomatoURL": "N/A",
+        "DVD": "N/A",
+        "BoxOffice": "N/A",
+        "Production": "N/A",
+        "Website": "N/A",
+        "Response": "True"
+      }
+    ],
+    "plot": "Móðir ungs drengs krefst svara frá skólayfirvöldum þegar sonur hennar fer skyndilega að hegða sér undarlega."
+  }
+]

@@ -1,0 +1,2104 @@
+[
+  {
+    "id": 17987,
+    "ids": {
+      "imdb": "0400688",
+      "rotten": "",
+      "tmdb": "143240"
+    },
+    "title": "Never in My Life!",
+    "alternativeTitles": "Nigdy w zyciu!",
+    "year": "2003",
+    "certificateIS": "",
+    "certificateImg": "questionmark.png",
+    "durationMinutes": 102,
+    "genres": [
+      {
+        "ID": 2,
+        "Name": "Gaman",
+        "NameEN\t": "Comedy"
+      },
+      {
+        "ID": 3,
+        "Name": "Rómantík",
+        "NameEN\t": "Romance"
+      },
+      {
+        "ID": 4,
+        "Name": "Drama",
+        "NameEN\t": "Drama"
+      }
+    ],
+    "poster": "http://kvikmyndir.is/images/poster/17987_500.jpg",
+    "actors_abridged": [
+      {
+        "name": "Danuta Stenka"
+      },
+      {
+        "name": "Joanna Brodzik"
+      }
+    ],
+    "directors_abridged": [
+      {
+        "name": "Ryszard Zatorski"
+      }
+    ],
+    "ratings": {
+      "imdb": "5.6",
+      "rotten_audience": "0",
+      "rotten_critics": "0"
+    },
+    "showtimes": [
+      {
+        "cinema": {
+          "id": 5,
+          "name": "Bíó Paradís"
+        },
+        "cinema_name": "Bíó Paradís",
+        "schedule": [
+          {
+            "time": "21:00 (1)",
+            "purchase_url": "https://tickets.bioparadis.is/#/book/11648",
+            "info": "PL"
+          }
+        ]
+      }
+    ],
+    "trailers": [],
+    "omdb": []
+  },
+  {
+    "id": 17946,
+    "ids": {
+      "imdb": "38121182",
+      "rotten": "",
+      "tmdb": "1539104"
+    },
+    "title": "Jujutsu Kaisen: Execution - Shibuya Incident x The Culling Game Begins",
+    "alternativeTitles": "Gekijô-ban Jujutsu Kaisen Shibuya Jihen Tokubetsu Henshû-ban × Shimetsu Kaiyû Senkô Jôei",
+    "year": "2025",
+    "certificateIS": "12 ára",
+    "certificateImg": "http://kvikmyndir.is/wp-content/themes/kvikmyndir/images/frisk/12.png",
+    "durationMinutes": 90,
+    "genres": [
+      {
+        "ID": 1,
+        "Name": "Spenna",
+        "NameEN\t": "Action"
+      },
+      {
+        "ID": 32,
+        "Name": "Ævintýri",
+        "NameEN\t": "Adventure"
+      },
+      {
+        "ID": 70,
+        "Name": "Teiknað",
+        "NameEN\t": "Animation"
+      }
+    ],
+    "poster": "http://kvikmyndir.is/images/poster/17946_500.jpg",
+    "actors_abridged": [
+      {
+        "name": "Junya Enoki"
+      },
+      {
+        "name": "Subaru Kimura"
+      }
+    ],
+    "directors_abridged": [
+      {
+        "name": "Shota Goshozono"
+      }
+    ],
+    "ratings": {
+      "imdb": "7.4",
+      "rotten_audience": "0",
+      "rotten_critics": "0"
+    },
+    "showtimes": [
+      {
+        "cinema": {
+          "id": 1,
+          "name": "Smárabíó"
+        },
+        "cinema_name": "Smárabíó",
+        "schedule": [
+          {
+            "time": "15.00 (4)",
+            "purchase_url": "https://eu.internet-ticketing.com/sales/SMAICE/book?perfcode=6800",
+            "info": ""
+          },
+          {
+            "time": "17.55 (X)",
+            "purchase_url": "https://eu.internet-ticketing.com/sales/SMAICE/book?perfcode=5546",
+            "info": ""
+          },
+          {
+            "time": "18.50 (s)",
+            "purchase_url": "https://eu.internet-ticketing.com/sales/SMAICE/book?perfcode=5832",
+            "info": ""
+          },
+          {
+            "time": "21.00 (2)",
+            "purchase_url": "https://eu.internet-ticketing.com/sales/SMAICE/book?perfcode=7559",
+            "info": ""
+          },
+          {
+            "time": "22.20 (4)",
+            "purchase_url": "https://eu.internet-ticketing.com/sales/SMAICE/book?perfcode=5566",
+            "info": ""
+          }
+        ]
+      },
+      {
+        "cinema": {
+          "id": 8,
+          "name": "Sambíóin Egilshöll"
+        },
+        "cinema_name": "Smárabíó",
+        "schedule": [
+          {
+            "time": "17:30 (1)",
+            "purchase_url": "http://www.sambio.is/websales/show/413662/",
+            "info": "japanskt tal"
+          },
+          {
+            "time": "20:20 (2)",
+            "purchase_url": "http://www.sambio.is/websales/show/413669/",
+            "info": "japanskt tal"
+          },
+          {
+            "time": "22:20 (1)",
+            "purchase_url": "http://www.sambio.is/websales/show/414181/",
+            "info": "japanskt tal"
+          }
+        ]
+      },
+      {
+        "cinema": {
+          "id": 9,
+          "name": "Sambíóin, Akureyri"
+        },
+        "cinema_name": "Smárabíó",
+        "schedule": [
+          {
+            "time": "20:20 (1)",
+            "purchase_url": "http://www.sambio.is/websales/show/414609/",
+            "info": "japanskt tal"
+          }
+        ]
+      }
+    ],
+    "certificate": {
+      "is": "12 ára",
+      "color": "yellow",
+      "number": "12"
+    },
+    "trailers": [],
+    "omdb": []
+  },
+  {
+    "id": 17735,
+    "ids": {
+      "imdb": "32332404",
+      "rotten": "",
+      "tmdb": "1288072"
+    },
+    "title": "Keeper",
+    "alternativeTitles": "",
+    "year": "2025",
+    "certificateIS": "16 ára",
+    "certificateImg": "http://kvikmyndir.is/wp-content/themes/kvikmyndir/images/frisk/16.png",
+    "durationMinutes": 99,
+    "genres": [
+      {
+        "ID": 5,
+        "Name": "Hrollvekja",
+        "NameEN\t": "Horror"
+      }
+    ],
+    "poster": "http://kvikmyndir.is/images/poster/1870997_500-1760872120.jpg",
+    "actors_abridged": [
+      {
+        "name": "Tatiana Maslany"
+      },
+      {
+        "name": "Rossif Sutherland"
+      }
+    ],
+    "directors_abridged": [
+      {
+        "name": "Osgood Perkins"
+      }
+    ],
+    "ratings": {
+      "imdb": "6",
+      "rotten_audience": "0",
+      "rotten_critics": "0"
+    },
+    "showtimes": [
+      {
+        "cinema": {
+          "id": 6,
+          "name": "Álfabakki"
+        },
+        "cinema_name": "Sambíóin Álfabakka",
+        "schedule": [
+          {
+            "time": "21:10 (3)",
+            "purchase_url": "http://www.sambio.is/websales/show/414644/",
+            "info": ""
+          }
+        ]
+      },
+      {
+        "cinema": {
+          "id": 8,
+          "name": "Sambíóin Egilshöll"
+        },
+        "cinema_name": "Sambíóin Álfabakka",
+        "schedule": [
+          {
+            "time": "19:50 (3)",
+            "purchase_url": "http://www.sambio.is/websales/show/414755/",
+            "info": ""
+          },
+          {
+            "time": "22:20 (2)",
+            "purchase_url": "http://www.sambio.is/websales/show/414183/",
+            "info": ""
+          }
+        ]
+      }
+    ],
+    "certificate": {
+      "is": "16 ára",
+      "color": "red",
+      "number": "16"
+    },
+    "trailers": [],
+    "omdb": []
+  },
+  {
+    "id": 17720,
+    "ids": {
+      "imdb": "19847976",
+      "rotten": "",
+      "tmdb": "967941"
+    },
+    "title": "Wicked: For Good",
+    "alternativeTitles": "Wicked 2",
+    "year": "2025",
+    "certificateIS": "9 ára",
+    "certificateImg": "http://kvikmyndir.is/wp-content/themes/kvikmyndir/images/frisk/9.png",
+    "durationMinutes": 138,
+    "genres": [
+      {
+        "ID": 32,
+        "Name": "Ævintýri",
+        "NameEN\t": "Adventure"
+      },
+      {
+        "ID": 34,
+        "Name": "Fjölskylda",
+        "NameEN\t": "Family"
+      },
+      {
+        "ID": 35,
+        "Name": "Söngleikur",
+        "NameEN\t": "Musical"
+      }
+    ],
+    "poster": "http://kvikmyndir.is/images/poster/1871823_500-1761949393.jpg",
+    "actors_abridged": [
+      {
+        "name": "Cynthia Erivo"
+      },
+      {
+        "name": "Ariana Grande"
+      }
+    ],
+    "directors_abridged": [
+      {
+        "name": "Jon M. Chu"
+      }
+    ],
+    "ratings": {
+      "imdb": "",
+      "rotten_audience": "0",
+      "rotten_critics": "0"
+    },
+    "showtimes": [
+      {
+        "cinema": {
+          "id": 1,
+          "name": "Smárabíó"
+        },
+        "cinema_name": "Smárabíó",
+        "schedule": [
+          {
+            "time": "15.00 (X)",
+            "purchase_url": "https://eu.internet-ticketing.com/sales/SMAICE/book?perfcode=5550",
+            "info": ""
+          },
+          {
+            "time": "15.00 (2)",
+            "purchase_url": "https://eu.internet-ticketing.com/sales/SMAICE/book?perfcode=5555",
+            "info": "Íslenska"
+          },
+          {
+            "time": "15.50 (s)",
+            "purchase_url": "https://eu.internet-ticketing.com/sales/SMAICE/book?perfcode=5558",
+            "info": ""
+          },
+          {
+            "time": "18.00 (2)",
+            "purchase_url": "https://eu.internet-ticketing.com/sales/SMAICE/book?perfcode=5551",
+            "info": ""
+          },
+          {
+            "time": "20.00 (X)",
+            "purchase_url": "https://eu.internet-ticketing.com/sales/SMAICE/book?perfcode=5552",
+            "info": ""
+          },
+          {
+            "time": "21.00 (s)",
+            "purchase_url": "https://eu.internet-ticketing.com/sales/SMAICE/book?perfcode=5565",
+            "info": ""
+          }
+        ]
+      },
+      {
+        "cinema": {
+          "id": 4,
+          "name": "Laugarásbíó"
+        },
+        "cinema_name": "Smárabíó",
+        "schedule": [
+          {
+            "time": "14:00 (EN TAL L)",
+            "purchase_url": "https://bokun.laugarasbio.is/#/book/11699",
+            "info": ""
+          },
+          {
+            "time": "14:00 (ÍSL TAL r)",
+            "purchase_url": "https://bokun.laugarasbio.is/#/book/11700",
+            "info": "Íslenska"
+          },
+          {
+            "time": "17:00 (EN TAL L)",
+            "purchase_url": "https://bokun.laugarasbio.is/#/book/11701",
+            "info": ""
+          },
+          {
+            "time": "17:00 (ÍSL TAL r)",
+            "purchase_url": "https://bokun.laugarasbio.is/#/book/11702",
+            "info": "Íslenska"
+          },
+          {
+            "time": "20:00 (EN TAL L)",
+            "purchase_url": "https://bokun.laugarasbio.is/#/book/11703",
+            "info": ""
+          }
+        ]
+      },
+      {
+        "cinema": {
+          "id": 6,
+          "name": "Álfabakki"
+        },
+        "cinema_name": "Smárabíó",
+        "schedule": [
+          {
+            "time": "16:40 (P)",
+            "purchase_url": "http://www.sambio.is/websales/show/413714/",
+            "info": "- Enskt tal"
+          },
+          {
+            "time": "16:40 (2)",
+            "purchase_url": "http://www.sambio.is/websales/show/414642/",
+            "info": "Íslenska"
+          },
+          {
+            "time": "17:20 (1)",
+            "purchase_url": "http://www.sambio.is/websales/show/413701/",
+            "info": ""
+          },
+          {
+            "time": "19:20 (P)",
+            "purchase_url": "http://www.sambio.is/websales/show/414683/",
+            "info": "- Enskt tal"
+          },
+          {
+            "time": "20:10 (1)",
+            "purchase_url": "http://www.sambio.is/websales/show/413702/",
+            "info": ""
+          }
+        ]
+      },
+      {
+        "cinema": {
+          "id": 7,
+          "name": "Kringlubíó"
+        },
+        "cinema_name": "Smárabíó",
+        "schedule": [
+          {
+            "time": "15:10 (g)",
+            "purchase_url": "http://www.sambio.is/websales/show/413745/",
+            "info": "- Enskt tal"
+          },
+          {
+            "time": "15:10 (3)",
+            "purchase_url": "http://www.sambio.is/websales/show/413731/",
+            "info": "Íslenska"
+          },
+          {
+            "time": "15:30 (1)",
+            "purchase_url": "http://www.sambio.is/websales/show/413722/",
+            "info": ""
+          },
+          {
+            "time": "18:00 (3)",
+            "purchase_url": "http://www.sambio.is/websales/show/413732/",
+            "info": "Íslenska"
+          },
+          {
+            "time": "18:00 (g)",
+            "purchase_url": "http://www.sambio.is/websales/show/413746/",
+            "info": "- Enskt tal"
+          },
+          {
+            "time": "18:20 (1)",
+            "purchase_url": "http://www.sambio.is/websales/show/413723/",
+            "info": ""
+          },
+          {
+            "time": "21:00 (g)",
+            "purchase_url": "http://www.sambio.is/websales/show/414837/",
+            "info": "- Enskt tal"
+          },
+          {
+            "time": "21:00 (3)",
+            "purchase_url": "http://www.sambio.is/websales/show/413733/",
+            "info": ""
+          }
+        ]
+      },
+      {
+        "cinema": {
+          "id": 8,
+          "name": "Sambíóin Egilshöll"
+        },
+        "cinema_name": "Smárabíó",
+        "schedule": [
+          {
+            "time": "17:30 (2)",
+            "purchase_url": "http://www.sambio.is/websales/show/413668/",
+            "info": ""
+          },
+          {
+            "time": "19:30 (1)",
+            "purchase_url": "http://www.sambio.is/websales/show/413660/",
+            "info": ""
+          },
+          {
+            "time": "22:00 (3)",
+            "purchase_url": "http://www.sambio.is/websales/show/413759/",
+            "info": ""
+          }
+        ]
+      },
+      {
+        "cinema": {
+          "id": 9,
+          "name": "Sambíóin, Akureyri"
+        },
+        "cinema_name": "Smárabíó",
+        "schedule": [
+          {
+            "time": "17:30 (1)",
+            "purchase_url": "http://www.sambio.is/websales/show/414607/",
+            "info": ""
+          },
+          {
+            "time": "19:30 (2)",
+            "purchase_url": "http://www.sambio.is/websales/show/414619/",
+            "info": ""
+          }
+        ]
+      }
+    ],
+    "certificate": {
+      "is": "9 ára",
+      "color": "orange",
+      "number": "9"
+    },
+    "trailers": [],
+    "omdb": []
+  },
+  {
+    "id": 17967,
+    "ids": {
+      "imdb": "32246406",
+      "rotten": "",
+      "tmdb": "1035047"
+    },
+    "title": "Dom dobry",
+    "alternativeTitles": "Home Sweet Home",
+    "year": "2025",
+    "certificateIS": "16 ára",
+    "certificateImg": "http://kvikmyndir.is/wp-content/themes/kvikmyndir/images/frisk/16.png",
+    "durationMinutes": 107,
+    "genres": [
+      {
+        "ID": 4,
+        "Name": "Drama",
+        "NameEN\t": "Drama"
+      }
+    ],
+    "poster": "http://kvikmyndir.is/images/poster/screenshot_2025-10-24_143736-1761316665.jpg",
+    "actors_abridged": [
+      {
+        "name": "Agata Turkot"
+      },
+      {
+        "name": "Tomasz Schuchardt"
+      }
+    ],
+    "directors_abridged": [
+      {
+        "name": "Wojciech Smarzowski"
+      }
+    ],
+    "ratings": {
+      "imdb": "7.5",
+      "rotten_audience": "0",
+      "rotten_critics": "0"
+    },
+    "showtimes": [
+      {
+        "cinema": {
+          "id": 5,
+          "name": "Bíó Paradís"
+        },
+        "cinema_name": "Bíó Paradís",
+        "schedule": [
+          {
+            "time": "18:50 (1)",
+            "purchase_url": "https://tickets.bioparadis.is/#/book/12063",
+            "info": "PL"
+          }
+        ]
+      },
+      {
+        "cinema": {
+          "id": 6,
+          "name": "Álfabakki"
+        },
+        "cinema_name": "Bíó Paradís",
+        "schedule": [
+          {
+            "time": "19:30 (2)",
+            "purchase_url": "http://www.sambio.is/websales/show/414854/",
+            "info": "pólskt tal"
+          }
+        ]
+      }
+    ],
+    "certificate": {
+      "is": "16 ára",
+      "color": "red",
+      "number": "16"
+    },
+    "trailers": [],
+    "omdb": []
+  },
+  {
+    "id": 17738,
+    "ids": {
+      "imdb": "4712810",
+      "rotten": "",
+      "tmdb": "425274"
+    },
+    "title": "Now You See Me: Now You Don't",
+    "alternativeTitles": "Now You See Me 3",
+    "year": "2025",
+    "certificateIS": "12 ára",
+    "certificateImg": "http://kvikmyndir.is/wp-content/themes/kvikmyndir/images/frisk/12.png",
+    "durationMinutes": 112,
+    "genres": [
+      {
+        "ID": 6,
+        "Name": "Spennutryllir",
+        "NameEN\t": "Thriller"
+      },
+      {
+        "ID": 8,
+        "Name": "Glæpa",
+        "NameEN\t": "Crime"
+      }
+    ],
+    "poster": "http://kvikmyndir.is/images/poster/1865640_500-1761388189.jpg",
+    "actors_abridged": [
+      {
+        "name": "Jesse Eisenberg"
+      },
+      {
+        "name": "Woody Harrelson"
+      }
+    ],
+    "directors_abridged": [
+      {
+        "name": "Ruben Fleischer"
+      }
+    ],
+    "ratings": {
+      "imdb": "6.2",
+      "rotten_audience": "0",
+      "rotten_critics": "0"
+    },
+    "showtimes": [
+      {
+        "cinema": {
+          "id": 1,
+          "name": "Smárabíó"
+        },
+        "cinema_name": "Smárabíó",
+        "schedule": [
+          {
+            "time": "17.00 (5)",
+            "purchase_url": "https://eu.internet-ticketing.com/sales/SMAICE/book?perfcode=5561",
+            "info": ""
+          },
+          {
+            "time": "19.30 (5)",
+            "purchase_url": "https://eu.internet-ticketing.com/sales/SMAICE/book?perfcode=5559",
+            "info": ""
+          }
+        ]
+      },
+      {
+        "cinema": {
+          "id": 4,
+          "name": "Laugarásbíó"
+        },
+        "cinema_name": "Smárabíó",
+        "schedule": [
+          {
+            "time": "19:50 (r)",
+            "purchase_url": "https://bokun.laugarasbio.is/#/book/12120",
+            "info": ""
+          },
+          {
+            "time": "22:15 (r)",
+            "purchase_url": "https://bokun.laugarasbio.is/#/book/12122",
+            "info": ""
+          }
+        ]
+      },
+      {
+        "cinema": {
+          "id": 8,
+          "name": "Sambíóin Egilshöll"
+        },
+        "cinema_name": "Smárabíó",
+        "schedule": [
+          {
+            "time": "17:30 (3)",
+            "purchase_url": "http://www.sambio.is/websales/show/414754/",
+            "info": ""
+          }
+        ]
+      },
+      {
+        "cinema": {
+          "id": 9,
+          "name": "Sambíóin, Akureyri"
+        },
+        "cinema_name": "Smárabíó",
+        "schedule": [
+          {
+            "time": "22:20 (2)",
+            "purchase_url": "http://www.sambio.is/websales/show/414620/",
+            "info": ""
+          }
+        ]
+      }
+    ],
+    "certificate": {
+      "is": "12 ára",
+      "color": "yellow",
+      "number": "12"
+    },
+    "trailers": [],
+    "omdb": []
+  },
+  {
+    "id": 17727,
+    "ids": {
+      "imdb": "14107334",
+      "rotten": "",
+      "tmdb": "798645"
+    },
+    "title": "The Running Man",
+    "alternativeTitles": "",
+    "year": "2025",
+    "certificateIS": "16 ára",
+    "certificateImg": "http://kvikmyndir.is/wp-content/themes/kvikmyndir/images/frisk/16.png",
+    "durationMinutes": 133,
+    "genres": [
+      {
+        "ID": 1,
+        "Name": "Spenna",
+        "NameEN\t": "Action"
+      },
+      {
+        "ID": 31,
+        "Name": "Vísindaskáldskapur",
+        "NameEN\t": "Sci-Fi"
+      },
+      {
+        "ID": 32,
+        "Name": "Ævintýri",
+        "NameEN\t": "Adventure"
+      }
+    ],
+    "poster": "http://kvikmyndir.is/images/poster/1869934_500-1761388043.jpg",
+    "actors_abridged": [
+      {
+        "name": "Glen Powell"
+      },
+      {
+        "name": "Josh Brolin"
+      }
+    ],
+    "directors_abridged": [
+      {
+        "name": "Edgar Wright"
+      }
+    ],
+    "ratings": {
+      "imdb": "6.8",
+      "rotten_audience": "0",
+      "rotten_critics": "0"
+    },
+    "showtimes": [
+      {
+        "cinema": {
+          "id": 1,
+          "name": "Smárabíó"
+        },
+        "cinema_name": "Smárabíó",
+        "schedule": [
+          {
+            "time": "19.30 (4)",
+            "purchase_url": "https://eu.internet-ticketing.com/sales/SMAICE/book?perfcode=5556",
+            "info": ""
+          },
+          {
+            "time": "22.00 (5)",
+            "purchase_url": "https://eu.internet-ticketing.com/sales/SMAICE/book?perfcode=5557",
+            "info": ""
+          }
+        ]
+      },
+      {
+        "cinema": {
+          "id": 6,
+          "name": "Álfabakki"
+        },
+        "cinema_name": "Smárabíó",
+        "schedule": [
+          {
+            "time": "21:50 (2)",
+            "purchase_url": "http://www.sambio.is/websales/show/414663/",
+            "info": ""
+          }
+        ]
+      },
+      {
+        "cinema": {
+          "id": 7,
+          "name": "Kringlubíó"
+        },
+        "cinema_name": "Smárabíó",
+        "schedule": [
+          {
+            "time": "21:15 (1)",
+            "purchase_url": "http://www.sambio.is/websales/show/414798/",
+            "info": ""
+          }
+        ]
+      },
+      {
+        "cinema": {
+          "id": 8,
+          "name": "Sambíóin Egilshöll"
+        },
+        "cinema_name": "Smárabíó",
+        "schedule": [
+          {
+            "time": "19:30 (4)",
+            "purchase_url": "http://www.sambio.is/websales/show/414775/",
+            "info": ""
+          }
+        ]
+      }
+    ],
+    "certificate": {
+      "is": "16 ára",
+      "color": "red",
+      "number": "16"
+    },
+    "trailers": [],
+    "omdb": []
+  },
+  {
+    "id": 17965,
+    "ids": {
+      "imdb": "32909489",
+      "rotten": "",
+      "tmdb": "1242015"
+    },
+    "title": "Young Mothers",
+    "alternativeTitles": "Jeunes mères",
+    "year": "2025",
+    "certificateIS": "9 ára",
+    "certificateImg": "http://kvikmyndir.is/wp-content/themes/kvikmyndir/images/frisk/9.png",
+    "durationMinutes": 105,
+    "genres": [
+      {
+        "ID": 4,
+        "Name": "Drama",
+        "NameEN\t": "Drama"
+      }
+    ],
+    "poster": "http://kvikmyndir.is/images/poster/17965_500.jpg",
+    "actors_abridged": [
+      {
+        "name": "Lucie Laruelle"
+      },
+      {
+        "name": "Babette Verbeek"
+      }
+    ],
+    "directors_abridged": [
+      {
+        "name": "Jean-Pierre Dardenne"
+      },
+      {
+        "name": "Luc Dardenne"
+      }
+    ],
+    "ratings": {
+      "imdb": "7",
+      "rotten_audience": "0",
+      "rotten_critics": "95"
+    },
+    "showtimes": [
+      {
+        "cinema": {
+          "id": 5,
+          "name": "Bíó Paradís"
+        },
+        "cinema_name": "Bíó Paradís",
+        "schedule": [
+          {
+            "time": "16:30 (2)",
+            "purchase_url": "https://tickets.bioparadis.is/#/book/12153",
+            "info": "FR"
+          }
+        ]
+      }
+    ],
+    "certificate": {
+      "is": "9 ára",
+      "color": "orange",
+      "number": "9"
+    },
+    "trailers": [],
+    "omdb": []
+  },
+  {
+    "id": 17607,
+    "ids": {
+      "imdb": "31227572",
+      "rotten": "",
+      "tmdb": "1242898"
+    },
+    "title": "Predator: Badlands",
+    "alternativeTitles": "",
+    "year": "2025",
+    "certificateIS": "12 ára",
+    "certificateImg": "http://kvikmyndir.is/wp-content/themes/kvikmyndir/images/frisk/12.png",
+    "durationMinutes": 107,
+    "genres": [
+      {
+        "ID": 1,
+        "Name": "Spenna",
+        "NameEN\t": "Action"
+      },
+      {
+        "ID": 31,
+        "Name": "Vísindaskáldskapur",
+        "NameEN\t": "Sci-Fi"
+      },
+      {
+        "ID": 32,
+        "Name": "Ævintýri",
+        "NameEN\t": "Adventure"
+      }
+    ],
+    "poster": "http://kvikmyndir.is/images/poster/1869274_500-1761559203.jpg",
+    "actors_abridged": [
+      {
+        "name": "Elle Fanning"
+      },
+      {
+        "name": "Dimitrius Schuster-Koloamatangi"
+      }
+    ],
+    "directors_abridged": [
+      {
+        "name": "Dan Trachtenberg"
+      }
+    ],
+    "ratings": {
+      "imdb": "7.5",
+      "rotten_audience": "0",
+      "rotten_critics": "0"
+    },
+    "showtimes": [
+      {
+        "cinema": {
+          "id": 4,
+          "name": "Laugarásbíó"
+        },
+        "cinema_name": "Laugarásbíó",
+        "schedule": [
+          {
+            "time": "19:50 (r)",
+            "purchase_url": "https://bokun.laugarasbio.is/#/book/12121",
+            "info": ""
+          },
+          {
+            "time": "22:15 (r)",
+            "purchase_url": "https://bokun.laugarasbio.is/#/book/12123",
+            "info": ""
+          }
+        ]
+      },
+      {
+        "cinema": {
+          "id": 6,
+          "name": "Álfabakki"
+        },
+        "cinema_name": "Laugarásbíó",
+        "schedule": [
+          {
+            "time": "19:00 (3)",
+            "purchase_url": "http://www.sambio.is/websales/show/414664/",
+            "info": ""
+          },
+          {
+            "time": "22:00 (P)",
+            "purchase_url": "http://www.sambio.is/websales/show/414684/",
+            "info": ""
+          }
+        ]
+      },
+      {
+        "cinema": {
+          "id": 7,
+          "name": "Kringlubíó"
+        },
+        "cinema_name": "Laugarásbíó",
+        "schedule": [
+          {
+            "time": "16:40 (2)",
+            "purchase_url": "http://www.sambio.is/websales/show/414727/",
+            "info": ""
+          }
+        ]
+      },
+      {
+        "cinema": {
+          "id": 8,
+          "name": "Sambíóin Egilshöll"
+        },
+        "cinema_name": "Laugarásbíó",
+        "schedule": [
+          {
+            "time": "22:10 (4)",
+            "purchase_url": "http://www.sambio.is/websales/show/414777/",
+            "info": ""
+          }
+        ]
+      },
+      {
+        "cinema": {
+          "id": 9,
+          "name": "Sambíóin, Akureyri"
+        },
+        "cinema_name": "Laugarásbíó",
+        "schedule": [
+          {
+            "time": "22:20 (1)",
+            "purchase_url": "http://www.sambio.is/websales/show/414608/",
+            "info": ""
+          }
+        ]
+      }
+    ],
+    "certificate": {
+      "is": "12 ára",
+      "color": "yellow",
+      "number": "12"
+    },
+    "trailers": [],
+    "omdb": []
+  },
+  {
+    "id": 17871,
+    "ids": {
+      "imdb": "32654722",
+      "rotten": "",
+      "tmdb": "1340497"
+    },
+    "title": "The Extraordinary Miss Flower",
+    "alternativeTitles": "",
+    "year": "2024",
+    "certificateIS": "",
+    "certificateImg": "questionmark.png",
+    "durationMinutes": 73,
+    "genres": [
+      {
+        "ID": 4,
+        "Name": "Drama",
+        "NameEN\t": "Drama"
+      },
+      {
+        "ID": 37,
+        "Name": "Tónlist",
+        "NameEN\t": "Music"
+      },
+      {
+        "ID": 39,
+        "Name": "Heimildarmynd",
+        "NameEN\t": "Documentary"
+      }
+    ],
+    "poster": "http://kvikmyndir.is/images/poster/exo-1757625910.jpg",
+    "actors_abridged": [
+      {
+        "name": "Emilíana Torrini"
+      },
+      {
+        "name": "Caroline Catz"
+      }
+    ],
+    "directors_abridged": [
+      {
+        "name": "Iain Forsyth"
+      },
+      {
+        "name": "Jane Pollard"
+      }
+    ],
+    "ratings": {
+      "imdb": "6.8",
+      "rotten_audience": "0",
+      "rotten_critics": "0"
+    },
+    "showtimes": [
+      {
+        "cinema": {
+          "id": 5,
+          "name": "Bíó Paradís"
+        },
+        "cinema_name": "Bíó Paradís",
+        "schedule": [
+          {
+            "time": "18:10 (3)",
+            "purchase_url": "https://tickets.bioparadis.is/#/book/12157",
+            "info": "EN"
+          }
+        ]
+      }
+    ],
+    "trailers": [],
+    "omdb": []
+  },
+  {
+    "id": 17945,
+    "ids": {
+      "imdb": "35786902",
+      "rotten": "",
+      "tmdb": "0"
+    },
+    "title": "Tulipop Vetrarsaga",
+    "alternativeTitles": "Tulipop: A Midwinter Tale",
+    "year": "2025",
+    "certificateIS": "Öllum leyfð",
+    "certificateImg": "http://kvikmyndir.is/wp-content/themes/kvikmyndir/images/frisk/l.png",
+    "durationMinutes": 33,
+    "genres": [
+      {
+        "ID": 33,
+        "Name": "Barna",
+        "NameEN\t": "Children"
+      },
+      {
+        "ID": 70,
+        "Name": "Teiknað",
+        "NameEN\t": "Animation"
+      },
+      {
+        "ID": 75,
+        "Name": "Íslensk mynd",
+        "NameEN\t": "Icelandic movie"
+      }
+    ],
+    "poster": "http://kvikmyndir.is/images/poster/screenshot_2025-10-18_170333-1760807028.jpg",
+    "actors_abridged": [
+      {
+        "name": "Álfrún Helga Örnólfsdóttir"
+      },
+      {
+        "name": "Egill Vilhjálmson"
+      }
+    ],
+    "directors_abridged": [
+      {
+        "name": "Sigvaldi J. Kárason"
+      }
+    ],
+    "ratings": {
+      "imdb": "",
+      "rotten_audience": "0",
+      "rotten_critics": "0"
+    },
+    "showtimes": [
+      {
+        "cinema": {
+          "id": 7,
+          "name": "Kringlubíó"
+        },
+        "cinema_name": "Sambíóin Kringlunni",
+        "schedule": [
+          {
+            "time": "14:30 (1)",
+            "purchase_url": "http://www.sambio.is/websales/show/414709/",
+            "info": "Íslenska"
+          }
+        ]
+      }
+    ],
+    "certificate": {
+      "is": "Öllum leyfð",
+      "color": "green",
+      "number": "L"
+    },
+    "trailers": [],
+    "omdb": []
+  },
+  {
+    "id": 17696,
+    "ids": {
+      "imdb": "12300742",
+      "rotten": "",
+      "tmdb": "701387"
+    },
+    "title": "Bugonia",
+    "alternativeTitles": "",
+    "year": "2025",
+    "certificateIS": "16 ára",
+    "certificateImg": "http://kvikmyndir.is/wp-content/themes/kvikmyndir/images/frisk/16.png",
+    "durationMinutes": 120,
+    "genres": [
+      {
+        "ID": 2,
+        "Name": "Gaman",
+        "NameEN\t": "Comedy"
+      },
+      {
+        "ID": 8,
+        "Name": "Glæpa",
+        "NameEN\t": "Crime"
+      },
+      {
+        "ID": 31,
+        "Name": "Vísindaskáldskapur",
+        "NameEN\t": "Sci-Fi"
+      }
+    ],
+    "poster": "http://kvikmyndir.is/images/poster/bugonia_xlg-1758017625.jpg",
+    "actors_abridged": [
+      {
+        "name": "Emma Stone"
+      },
+      {
+        "name": "Jesse Plemons"
+      }
+    ],
+    "directors_abridged": [
+      {
+        "name": "Yorgos Lanthimos"
+      }
+    ],
+    "ratings": {
+      "imdb": "7.7",
+      "rotten_audience": "0",
+      "rotten_critics": "86"
+    },
+    "showtimes": [
+      {
+        "cinema": {
+          "id": 4,
+          "name": "Laugarásbíó"
+        },
+        "cinema_name": "Laugarásbíó",
+        "schedule": [
+          {
+            "time": "17:20 (r)",
+            "purchase_url": "https://bokun.laugarasbio.is/#/book/12119",
+            "info": ""
+          }
+        ]
+      },
+      {
+        "cinema": {
+          "id": 5,
+          "name": "Bíó Paradís"
+        },
+        "cinema_name": "Laugarásbíó",
+        "schedule": [
+          {
+            "time": "21:00 (2)",
+            "purchase_url": "https://tickets.bioparadis.is/#/book/12155",
+            "info": "EN"
+          }
+        ]
+      }
+    ],
+    "certificate": {
+      "is": "16 ára",
+      "color": "red",
+      "number": "16"
+    },
+    "trailers": [],
+    "omdb": []
+  },
+  {
+    "id": 17869,
+    "ids": {
+      "imdb": "36491653",
+      "rotten": "",
+      "tmdb": "1456349"
+    },
+    "title": "It Was Just an Accident",
+    "alternativeTitles": "Yek tasadef sadeh",
+    "year": "2025",
+    "certificateIS": "12 ára",
+    "certificateImg": "http://kvikmyndir.is/wp-content/themes/kvikmyndir/images/frisk/12.png",
+    "durationMinutes": 105,
+    "genres": [
+      {
+        "ID": 1,
+        "Name": "Spenna",
+        "NameEN\t": "Action"
+      },
+      {
+        "ID": 8,
+        "Name": "Glæpa",
+        "NameEN\t": "Crime"
+      },
+      {
+        "ID": 32,
+        "Name": "Ævintýri",
+        "NameEN\t": "Adventure"
+      }
+    ],
+    "poster": "http://kvikmyndir.is/images/poster/17869_500.jpg",
+    "actors_abridged": [
+      {
+        "name": "Vahid Mobasseri"
+      },
+      {
+        "name": "Mariam Afshari"
+      }
+    ],
+    "directors_abridged": [
+      {
+        "name": "Jafar Panahi"
+      }
+    ],
+    "ratings": {
+      "imdb": "7.7",
+      "rotten_audience": "0",
+      "rotten_critics": "97"
+    },
+    "showtimes": [
+      {
+        "cinema": {
+          "id": 5,
+          "name": "Bíó Paradís"
+        },
+        "cinema_name": "Bíó Paradís",
+        "schedule": [
+          {
+            "time": "16:45 (1)",
+            "purchase_url": "https://tickets.bioparadis.is/#/book/12152",
+            "info": "FA"
+          }
+        ]
+      }
+    ],
+    "certificate": {
+      "is": "12 ára",
+      "color": "yellow",
+      "number": "12"
+    },
+    "trailers": [],
+    "omdb": []
+  },
+  {
+    "id": 17784,
+    "ids": {
+      "imdb": "26720001",
+      "rotten": "",
+      "tmdb": "1214130"
+    },
+    "title": "Skrímslasveitin",
+    "alternativeTitles": "Stitch Head",
+    "year": "2025",
+    "certificateIS": "Öllum leyfð",
+    "certificateImg": "http://kvikmyndir.is/wp-content/themes/kvikmyndir/images/frisk/l.png",
+    "durationMinutes": 89,
+    "genres": [
+      {
+        "ID": 2,
+        "Name": "Gaman",
+        "NameEN\t": "Comedy"
+      },
+      {
+        "ID": 34,
+        "Name": "Fjölskylda",
+        "NameEN\t": "Family"
+      },
+      {
+        "ID": 70,
+        "Name": "Teiknað",
+        "NameEN\t": "Animation"
+      }
+    ],
+    "poster": "http://kvikmyndir.is/images/poster/skrimslasveitin-vefposter-1758302285.jpg",
+    "actors_abridged": [
+      {
+        "name": "Asa Butterfield"
+      },
+      {
+        "name": "Joel Fry"
+      }
+    ],
+    "directors_abridged": [
+      {
+        "name": "Toby Genkel"
+      },
+      {
+        "name": "Steve Hudson"
+      }
+    ],
+    "ratings": {
+      "imdb": "5.9",
+      "rotten_audience": "0",
+      "rotten_critics": "0"
+    },
+    "showtimes": [
+      {
+        "cinema": {
+          "id": 1,
+          "name": "Smárabíó"
+        },
+        "cinema_name": "Smárabíó",
+        "schedule": [
+          {
+            "time": "14.50 (5)",
+            "purchase_url": "https://eu.internet-ticketing.com/sales/SMAICE/book?perfcode=5562",
+            "info": ""
+          }
+        ]
+      },
+      {
+        "cinema": {
+          "id": 4,
+          "name": "Laugarásbíó"
+        },
+        "cinema_name": "Smárabíó",
+        "schedule": [
+          {
+            "time": "15:20 (r)",
+            "purchase_url": "https://bokun.laugarasbio.is/#/book/12118",
+            "info": "Íslenska"
+          }
+        ]
+      },
+      {
+        "cinema": {
+          "id": 8,
+          "name": "Sambíóin Egilshöll"
+        },
+        "cinema_name": "Smárabíó",
+        "schedule": [
+          {
+            "time": "17:30 (4)",
+            "purchase_url": "http://www.sambio.is/websales/show/414776/",
+            "info": "Íslenska"
+          }
+        ]
+      },
+      {
+        "cinema": {
+          "id": 9,
+          "name": "Sambíóin, Akureyri"
+        },
+        "cinema_name": "Smárabíó",
+        "schedule": [
+          {
+            "time": "17:30 (2)",
+            "purchase_url": "http://www.sambio.is/websales/show/414621/",
+            "info": "Íslenska"
+          }
+        ]
+      }
+    ],
+    "certificate": {
+      "is": "Öllum leyfð",
+      "color": "green",
+      "number": "L"
+    },
+    "trailers": [],
+    "omdb": []
+  },
+  {
+    "id": 17929,
+    "ids": {
+      "imdb": "29011016",
+      "rotten": "",
+      "tmdb": "0"
+    },
+    "title": "The Home",
+    "alternativeTitles": "Hemmet",
+    "year": "2025",
+    "certificateIS": "16 ára",
+    "certificateImg": "http://kvikmyndir.is/wp-content/themes/kvikmyndir/images/frisk/16.png",
+    "durationMinutes": 87,
+    "genres": [
+      {
+        "ID": 5,
+        "Name": "Hrollvekja",
+        "NameEN\t": "Horror"
+      }
+    ],
+    "poster": "http://kvikmyndir.is/images/poster/17929_500.jpg",
+    "actors_abridged": [
+      {
+        "name": "Malin Levanon"
+      },
+      {
+        "name": "Ayan Ahmed"
+      }
+    ],
+    "directors_abridged": [
+      {
+        "name": "Mattias Johansson Skoglund"
+      }
+    ],
+    "ratings": {
+      "imdb": "6.2",
+      "rotten_audience": "0",
+      "rotten_critics": "0"
+    },
+    "showtimes": [
+      {
+        "cinema": {
+          "id": 5,
+          "name": "Bíó Paradís"
+        },
+        "cinema_name": "Bíó Paradís",
+        "schedule": [
+          {
+            "time": "22:00 (3)",
+            "purchase_url": "https://tickets.bioparadis.is/#/book/12160",
+            "info": "SV"
+          }
+        ]
+      }
+    ],
+    "certificate": {
+      "is": "16 ára",
+      "color": "red",
+      "number": "16"
+    },
+    "trailers": [],
+    "omdb": []
+  },
+  {
+    "id": 17783,
+    "ids": {
+      "imdb": "27817389",
+      "rotten": "",
+      "tmdb": "1295400"
+    },
+    "title": "The Last Viking",
+    "alternativeTitles": "Den sidste viking",
+    "year": "2025",
+    "certificateIS": "16 ára",
+    "certificateImg": "http://kvikmyndir.is/wp-content/themes/kvikmyndir/images/frisk/16.png",
+    "durationMinutes": 116,
+    "genres": [
+      {
+        "ID": 2,
+        "Name": "Gaman",
+        "NameEN\t": "Comedy"
+      },
+      {
+        "ID": 4,
+        "Name": "Drama",
+        "NameEN\t": "Drama"
+      },
+      {
+        "ID": 8,
+        "Name": "Glæpa",
+        "NameEN\t": "Crime"
+      }
+    ],
+    "poster": "http://kvikmyndir.is/images/poster/sidst-1754220582.jpg",
+    "actors_abridged": [
+      {
+        "name": "Mads Mikkelsen"
+      },
+      {
+        "name": "Nikolaj Lie Kaas"
+      }
+    ],
+    "directors_abridged": [
+      {
+        "name": "Anders Thomas Jensen"
+      }
+    ],
+    "ratings": {
+      "imdb": "7.4",
+      "rotten_audience": "0",
+      "rotten_critics": "0"
+    },
+    "showtimes": [
+      {
+        "cinema": {
+          "id": 5,
+          "name": "Bíó Paradís"
+        },
+        "cinema_name": "Bíó Paradís",
+        "schedule": [
+          {
+            "time": "19:45 (3)",
+            "purchase_url": "https://tickets.bioparadis.is/#/book/12158",
+            "info": "DK"
+          }
+        ]
+      }
+    ],
+    "certificate": {
+      "is": "16 ára",
+      "color": "red",
+      "number": "16"
+    },
+    "trailers": [],
+    "omdb": []
+  },
+  {
+    "id": 17903,
+    "ids": {
+      "imdb": "35308819",
+      "rotten": "",
+      "tmdb": "0"
+    },
+    "title": "Víkin",
+    "alternativeTitles": "Cold Echoes",
+    "year": "2025",
+    "certificateIS": "12 ára",
+    "certificateImg": "http://kvikmyndir.is/wp-content/themes/kvikmyndir/images/frisk/12.png",
+    "durationMinutes": 107,
+    "genres": [
+      {
+        "ID": 6,
+        "Name": "Spennutryllir",
+        "NameEN\t": "Thriller"
+      },
+      {
+        "ID": 75,
+        "Name": "Íslensk mynd",
+        "NameEN\t": "Icelandic movie"
+      }
+    ],
+    "poster": "http://kvikmyndir.is/images/poster/baraminni-1761513369.jpg",
+    "actors_abridged": [
+      {
+        "name": "Örn Árnason"
+      },
+      {
+        "name": "Margrét Ákadóttir"
+      }
+    ],
+    "directors_abridged": [
+      {
+        "name": "Bragi Þór Hinriksson"
+      }
+    ],
+    "ratings": {
+      "imdb": "",
+      "rotten_audience": "0",
+      "rotten_critics": "0"
+    },
+    "showtimes": [
+      {
+        "cinema": {
+          "id": 6,
+          "name": "Álfabakki"
+        },
+        "cinema_name": "Sambíóin Álfabakka",
+        "schedule": [
+          {
+            "time": "17:00 (3)",
+            "purchase_url": "http://www.sambio.is/websales/show/414665/",
+            "info": ""
+          }
+        ]
+      },
+      {
+        "cinema": {
+          "id": 7,
+          "name": "Kringlubíó"
+        },
+        "cinema_name": "Sambíóin Álfabakka",
+        "schedule": [
+          {
+            "time": "19:00 (2)",
+            "purchase_url": "http://www.sambio.is/websales/show/414822/",
+            "info": ""
+          }
+        ]
+      }
+    ],
+    "certificate": {
+      "is": "12 ára",
+      "color": "yellow",
+      "number": "12"
+    },
+    "trailers": [],
+    "omdb": []
+  },
+  {
+    "id": 17786,
+    "ids": {
+      "imdb": "33088452",
+      "rotten": "",
+      "tmdb": "1327862"
+    },
+    "title": "Regretting You",
+    "alternativeTitles": "",
+    "year": "2025",
+    "certificateIS": "12 ára",
+    "certificateImg": "http://kvikmyndir.is/wp-content/themes/kvikmyndir/images/frisk/12.png",
+    "durationMinutes": 117,
+    "genres": [
+      {
+        "ID": 3,
+        "Name": "Rómantík",
+        "NameEN\t": "Romance"
+      },
+      {
+        "ID": 4,
+        "Name": "Drama",
+        "NameEN\t": "Drama"
+      }
+    ],
+    "poster": "http://kvikmyndir.is/images/poster/17786_500.jpg",
+    "actors_abridged": [
+      {
+        "name": "Mckenna Grace"
+      },
+      {
+        "name": "Allison Williams"
+      }
+    ],
+    "directors_abridged": [
+      {
+        "name": "Josh Boone"
+      }
+    ],
+    "ratings": {
+      "imdb": "6.2",
+      "rotten_audience": "0",
+      "rotten_critics": "30"
+    },
+    "showtimes": [
+      {
+        "cinema": {
+          "id": 7,
+          "name": "Kringlubíó"
+        },
+        "cinema_name": "Sambíóin Kringlunni",
+        "schedule": [
+          {
+            "time": "21:00 (2)",
+            "purchase_url": "http://www.sambio.is/websales/show/414821/",
+            "info": ""
+          }
+        ]
+      }
+    ],
+    "certificate": {
+      "is": "12 ára",
+      "color": "yellow",
+      "number": "12"
+    },
+    "trailers": [],
+    "omdb": []
+  },
+  {
+    "id": 17812,
+    "ids": {
+      "imdb": "27714581",
+      "rotten": "",
+      "tmdb": "1124566"
+    },
+    "title": "Sentimental Value",
+    "alternativeTitles": "Affeksjonsverdi",
+    "year": "2025",
+    "certificateIS": "9 ára",
+    "certificateImg": "http://kvikmyndir.is/wp-content/themes/kvikmyndir/images/frisk/9.png",
+    "durationMinutes": 133,
+    "genres": [
+      {
+        "ID": 4,
+        "Name": "Drama",
+        "NameEN\t": "Drama"
+      }
+    ],
+    "poster": "http://kvikmyndir.is/images/poster/17812_500.jpg",
+    "actors_abridged": [
+      {
+        "name": "Renate Reinsve"
+      },
+      {
+        "name": "Stellan Skarsgård"
+      }
+    ],
+    "directors_abridged": [
+      {
+        "name": "Joachim Trier"
+      }
+    ],
+    "ratings": {
+      "imdb": "7.9",
+      "rotten_audience": "0",
+      "rotten_critics": "96"
+    },
+    "showtimes": [
+      {
+        "cinema": {
+          "id": 5,
+          "name": "Bíó Paradís"
+        },
+        "cinema_name": "Bíó Paradís",
+        "schedule": [
+          {
+            "time": "18:30 (2)",
+            "purchase_url": "https://tickets.bioparadis.is/#/book/12154",
+            "info": "NO"
+          }
+        ]
+      }
+    ],
+    "certificate": {
+      "is": "9 ára",
+      "color": "orange",
+      "number": "9"
+    },
+    "trailers": [],
+    "omdb": []
+  },
+  {
+    "id": 17926,
+    "ids": {
+      "imdb": "35933132",
+      "rotten": "",
+      "tmdb": "1436906"
+    },
+    "title": "Jörðin undir fótum okkar",
+    "alternativeTitles": "The Ground Beneath Our Feet",
+    "year": "2025",
+    "certificateIS": "Öllum leyfð",
+    "certificateImg": "http://kvikmyndir.is/wp-content/themes/kvikmyndir/images/frisk/l.png",
+    "durationMinutes": 82,
+    "genres": [
+      {
+        "ID": 39,
+        "Name": "Heimildarmynd",
+        "NameEN\t": "Documentary"
+      },
+      {
+        "ID": 75,
+        "Name": "Íslensk mynd",
+        "NameEN\t": "Icelandic movie"
+      }
+    ],
+    "poster": "http://kvikmyndir.is/images/poster/screenshot_2025-10-09_095229-1760003559.jpg",
+    "actors_abridged": [],
+    "directors_abridged": [
+      {
+        "name": "Yrsa Roca Fannberg"
+      }
+    ],
+    "ratings": {
+      "imdb": "7.3",
+      "rotten_audience": "0",
+      "rotten_critics": "0"
+    },
+    "showtimes": [
+      {
+        "cinema": {
+          "id": 5,
+          "name": "Bíó Paradís"
+        },
+        "cinema_name": "Bíó Paradís",
+        "schedule": [
+          {
+            "time": "16:30 (3)",
+            "purchase_url": "https://tickets.bioparadis.is/#/book/12156",
+            "info": "ICE"
+          }
+        ]
+      }
+    ],
+    "certificate": {
+      "is": "Öllum leyfð",
+      "color": "green",
+      "number": "L"
+    },
+    "trailers": [],
+    "omdb": []
+  },
+  {
+    "id": 17726,
+    "ids": {
+      "imdb": "31888477",
+      "rotten": "",
+      "tmdb": "1289936"
+    },
+    "title": "Downton Abbey: The Grand Finale",
+    "alternativeTitles": "",
+    "year": "2025",
+    "certificateIS": "12 ára",
+    "certificateImg": "http://kvikmyndir.is/wp-content/themes/kvikmyndir/images/frisk/12.png",
+    "durationMinutes": 123,
+    "genres": [
+      {
+        "ID": 3,
+        "Name": "Rómantík",
+        "NameEN\t": "Romance"
+      },
+      {
+        "ID": 4,
+        "Name": "Drama",
+        "NameEN\t": "Drama"
+      },
+      {
+        "ID": 40,
+        "Name": "Söguleg",
+        "NameEN\t": "History"
+      }
+    ],
+    "poster": "http://kvikmyndir.is/images/poster/17726_500.jpg",
+    "actors_abridged": [
+      {
+        "name": "Michelle Dockery"
+      },
+      {
+        "name": "Hugh Bonneville"
+      }
+    ],
+    "directors_abridged": [
+      {
+        "name": "Simon Curtis"
+      }
+    ],
+    "ratings": {
+      "imdb": "7.4",
+      "rotten_audience": "0",
+      "rotten_critics": "91"
+    },
+    "showtimes": [
+      {
+        "cinema": {
+          "id": 7,
+          "name": "Kringlubíó"
+        },
+        "cinema_name": "Sambíóin Kringlunni",
+        "schedule": [
+          {
+            "time": "14:20 (2)",
+            "purchase_url": "http://www.sambio.is/websales/show/414726/",
+            "info": ""
+          }
+        ]
+      }
+    ],
+    "certificate": {
+      "is": "12 ára",
+      "color": "yellow",
+      "number": "12"
+    },
+    "trailers": [],
+    "omdb": []
+  },
+  {
+    "id": 17656,
+    "ids": {
+      "imdb": "31272500",
+      "rotten": "",
+      "tmdb": "0"
+    },
+    "title": "Eldarnir",
+    "alternativeTitles": "The Fires",
+    "year": "2025",
+    "certificateIS": "12 ára",
+    "certificateImg": "http://kvikmyndir.is/wp-content/themes/kvikmyndir/images/frisk/12.png",
+    "durationMinutes": 107,
+    "genres": [
+      {
+        "ID": 3,
+        "Name": "Rómantík",
+        "NameEN\t": "Romance"
+      },
+      {
+        "ID": 6,
+        "Name": "Spennutryllir",
+        "NameEN\t": "Thriller"
+      },
+      {
+        "ID": 75,
+        "Name": "Íslensk mynd",
+        "NameEN\t": "Icelandic movie"
+      }
+    ],
+    "poster": "http://kvikmyndir.is/images/poster/119-1755768210.jpg",
+    "actors_abridged": [
+      {
+        "name": "Vigdís Hrefna Pálsdóttir"
+      },
+      {
+        "name": "Pilou Asbæk"
+      }
+    ],
+    "directors_abridged": [
+      {
+        "name": "Ugla Hauksdóttir"
+      }
+    ],
+    "ratings": {
+      "imdb": "8",
+      "rotten_audience": "0",
+      "rotten_critics": "0"
+    },
+    "showtimes": [
+      {
+        "cinema": {
+          "id": 1,
+          "name": "Smárabíó"
+        },
+        "cinema_name": "Smárabíó",
+        "schedule": [
+          {
+            "time": "17.00 (4)",
+            "purchase_url": "https://eu.internet-ticketing.com/sales/SMAICE/book?perfcode=7472",
+            "info": ""
+          }
+        ]
+      }
+    ],
+    "certificate": {
+      "is": "12 ára",
+      "color": "yellow",
+      "number": "12"
+    },
+    "trailers": [],
+    "omdb": []
+  },
+  {
+    "id": 18032,
+    "ids": {
+      "imdb": "32365707",
+      "rotten": "",
+      "tmdb": "1320499"
+    },
+    "title": "O",
+    "alternativeTitles": "O (Hringur)",
+    "year": "2024",
+    "certificateIS": "",
+    "certificateImg": "questionmark.png",
+    "durationMinutes": 20,
+    "genres": [
+      {
+        "ID": 41,
+        "Name": "Stuttmynd",
+        "NameEN\t": "Short"
+      },
+      {
+        "ID": 75,
+        "Name": "Íslensk mynd",
+        "NameEN\t": "Icelandic movie"
+      }
+    ],
+    "poster": "http://kvikmyndir.is/images/poster/screenshot_2025-11-13_095922-1763027975.jpg",
+    "actors_abridged": [
+      {
+        "name": "Ingvar E. Sigurðsson"
+      },
+      {
+        "name": "Edda Arnljótsdóttir"
+      }
+    ],
+    "directors_abridged": [
+      {
+        "name": "Rúnar Rúnarsson"
+      }
+    ],
+    "ratings": {
+      "imdb": "8",
+      "rotten_audience": "0",
+      "rotten_critics": "0"
+    },
+    "showtimes": [
+      {
+        "cinema": {
+          "id": 7,
+          "name": "Kringlubíó"
+        },
+        "cinema_name": "Sambíóin Kringlunni",
+        "schedule": [
+          {
+            "time": "14:20 (3)",
+            "purchase_url": "http://www.sambio.is/websales/show/414716/",
+            "info": ""
+          }
+        ]
+      }
+    ],
+    "trailers": [],
+    "omdb": []
+  }
+]
