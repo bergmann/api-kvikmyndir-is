@@ -60,7 +60,12 @@ var sessionOptions = {
     secret: "DarthVader",
     resave: false,
     saveUninitialized: true,
-    cookie: { maxAge: 8640000 }, //24 Hours
+    cookie: {
+        maxAge: 8640000, //24 Hours
+        secure: false, // Set to false to allow cookies over HTTP (for development)
+        httpOnly: true,
+        sameSite: 'lax'
+    },
     store: MongoStore.create({
         mongoUrl: isDevelopment
             ? dbConfig.MongoDBUrlDev

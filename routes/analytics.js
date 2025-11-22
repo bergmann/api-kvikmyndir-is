@@ -10,7 +10,7 @@ module.exports = function(passport) {
     var router = express.Router();
     
     // Route for domain/analytics
-    router.get('/analytics', isLoggedIn, function(req, res) {
+    router.get('/', isLoggedIn, function(req, res) {
         // Get time period from query params (default: all time)
         var period = req.query.period || 'all';
         var startDate, endDate;

@@ -46,8 +46,8 @@ function logApiRequest(logData, callback) {
 
     console.log("[API USAGE] Inserting log document:", logDocument);
 
-    // Insert into database
-    DBService.insertDocument(logDocument, "api_usage", function(err, result) {
+    // Insert into database (use insertAny for single document)
+    DBService.insertAny(logDocument, "api_usage", function(err, result) {
         if (err) {
             console.log("[API USAGE] Error inserting:", err);
             logger.databaseError().info("Error logging API usage: " + err);

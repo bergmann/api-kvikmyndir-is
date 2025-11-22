@@ -43,11 +43,23 @@ module.exports = function (passport) {
         req.flash("postParams", postParams);
         res.redirect("/login");
       } else {
-        passport.authenticate("local-login", {
-          successRedirect: "/", // redirect to the secure profile section
-          successReturnToOrRedirect: "/",
-          failureRedirect: "/login", // redirect back to the signup page if there is an error
-          failureFlash: true, // allow flash messages
+        passport.authenticate("local-login", function(err, user, info) {
+          if (err) {
+            return next(err);
+          }
+          if (!user) {
+            req.flash("errors", info.message || "Login failed");
+            return res.redirect("/login");
+          }
+          req.logIn(user, function(err) {
+            if (err) {
+              return next(err);
+            }
+            // Check if there's a returnTo URL in the session
+            var returnTo = req.session.returnTo || "/";
+            delete req.session.returnTo; // Clear it after use
+            return res.redirect(returnTo);
+          });
         })(req, res, next);
       }
     });
