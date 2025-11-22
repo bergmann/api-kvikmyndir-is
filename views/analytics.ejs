@@ -1,0 +1,313 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Icelandic movie api - Analytics</title>
+    <meta name="description" content="Icelandic movie API is a free REST service for movies showing in Icelandic theaters.">
+    <meta name="viewport" content="width=device-width,initial-scale=1, maximum-scale=1, user-scalable=no">
+    <meta name="theme-color" content="#2a2b30">
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    
+    <meta property="og:title" content="Icelandic movie API" />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://api.kvikmyndir.is/" />
+    <meta property="og:description" content="Icelandic movie API is a free REST service for movies showing in Icelandic theaters." />
+    <meta property="og:image" content="https://api.kvikmyndir.is/images/icelandicmovieapi.png" />
+    
+    <!-- favicon all devices -->
+    <link rel="apple-touch-icon" sizes="57x57" href="/favicon/apple-touch-icon-57x57.png">
+    <link rel="apple-touch-icon" sizes="60x60" href="/favicon/apple-touch-icon-60x60.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="/favicon/apple-touch-icon-72x72.png">
+    <link rel="apple-touch-icon" sizes="76x76" href="/favicon/apple-touch-icon-76x76.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="/favicon/apple-touch-icon-114x114.png">
+    <link rel="apple-touch-icon" sizes="120x120" href="/favicon/apple-touch-icon-120x120.png">
+    <link rel="apple-touch-icon" sizes="144x144" href="/favicon/apple-touch-icon-144x144.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="/favicon/apple-touch-icon-152x152.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="/favicon/apple-touch-icon-180x180.png">
+    <link rel="icon" type="image/png" href="/favicon/favicon-32x32.png" sizes="32x32">
+    <link rel="icon" type="image/png" href="/favicon/favicon-194x194.png" sizes="194x194">
+    <link rel="icon" type="image/png" href="/favicon/favicon-96x96.png" sizes="96x96">
+    <link rel="icon" type="image/png" href="/favicon/android-chrome-192x192.png" sizes="192x192">
+    <link rel="icon" type="image/png" href="/favicon/favicon-16x16.png" sizes="16x16">
+    <link rel="manifest" href="/favicon/manifest.json">
+    <link rel="mask-icon" href="/favicon/safari-pinned-tab.svg" color="#f38902">
+    <meta name="msapplication-TileColor" content="#da532c">
+    <meta name="msapplication-TileImage" content="/mstile-144x144.png">
+    <meta name="theme-color" content="#ffffff">
+
+    <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+    <link href='https://fonts.googleapis.com/css?family=Roboto:400,300,900,700' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" href="/css/prism.css">
+    <link rel="stylesheet" href="/css/menu-component.css">
+    <link rel="stylesheet" href="/css/animate.css">
+    <link rel="stylesheet" href="/css/material.orange-amber.min.css">
+    <link rel="stylesheet" href="/css/bootstrap.min.css">
+    <link rel="stylesheet" href="/css/style.css">
+    <style>
+        .analytics-container {
+            padding: 40px 20px;
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+        .stats-card {
+            background: white;
+            border-radius: 4px;
+            padding: 20px;
+            margin-bottom: 20px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+        .stats-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 20px;
+        }
+        .period-filter {
+            display: flex;
+            gap: 10px;
+        }
+        .period-btn {
+            padding: 8px 16px;
+            border: 1px solid #ddd;
+            background: white;
+            cursor: pointer;
+            border-radius: 4px;
+        }
+        .period-btn.active {
+            background: #ff9800;
+            color: white;
+            border-color: #ff9800;
+        }
+        .summary-stats {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 20px;
+            margin-bottom: 30px;
+        }
+        .summary-card {
+            background: #f5f5f5;
+            padding: 20px;
+            border-radius: 4px;
+            text-align: center;
+        }
+        .summary-card h3 {
+            margin: 0;
+            font-size: 36px;
+            color: #ff9800;
+        }
+        .summary-card p {
+            margin: 5px 0 0 0;
+            color: #666;
+        }
+        .data-table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+        .data-table th {
+            background: #f5f5f5;
+            padding: 12px;
+            text-align: left;
+            font-weight: 600;
+            border-bottom: 2px solid #ddd;
+        }
+        .data-table td {
+            padding: 12px;
+            border-bottom: 1px solid #eee;
+        }
+        .data-table tr:hover {
+            background: #fafafa;
+        }
+        .badge {
+            display: inline-block;
+            padding: 4px 8px;
+            border-radius: 3px;
+            font-size: 12px;
+            font-weight: 600;
+        }
+        .badge-success {
+            background: #4caf50;
+            color: white;
+        }
+        .badge-error {
+            background: #f44336;
+            color: white;
+        }
+        .badge-warning {
+            background: #ff9800;
+            color: white;
+        }
+    </style>
+</head>
+
+<body>
+    <%- include template_svg.ejs %>
+    <%- include template_navigation.ejs %>
+    <div class="push_content">
+        <%- include template_header.ejs %>
+        <div class="background_image_container">
+            <div class="background_overlay"></div>
+            <div class="animated fadeInUp background_heading_container">
+                <h1 class="main_heading">API Usage Analytics</h1>
+            </div>
+        </div>
+        
+        <div class="analytics-container">
+
+            <!-- Time Period Filter -->
+            <div class="stats-header">
+                <h2>Usage Statistics</h2>
+                <div class="period-filter">
+                    <a href="/analytics?period=24h" class="period-btn <%= period === '24h' ? 'active' : '' %>">Last 24 Hours</a>
+                    <a href="/analytics?period=7d" class="period-btn <%= period === '7d' ? 'active' : '' %>">Last 7 Days</a>
+                    <a href="/analytics?period=30d" class="period-btn <%= period === '30d' ? 'active' : '' %>">Last 30 Days</a>
+                    <a href="/analytics?period=all" class="period-btn <%= period === 'all' ? 'active' : '' %>">All Time</a>
+                </div>
+            </div>
+
+            <!-- Summary Statistics -->
+            <div class="summary-stats">
+                <div class="summary-card">
+                    <h3><%= totalCalls %></h3>
+                    <p>Total API Calls</p>
+                </div>
+                <div class="summary-card">
+                    <h3><%= totalUsers %></h3>
+                    <p>Active Users</p>
+                </div>
+                <div class="summary-card">
+                    <h3><%= totalEndpoints %></h3>
+                    <p>Endpoints Used</p>
+                </div>
+            </div>
+
+            <!-- User Statistics -->
+            <div class="stats-card">
+                <h3>Most Active Users</h3>
+                <% if (userStats && userStats.length > 0) { %>
+                    <table class="data-table">
+                        <thead>
+                            <tr>
+                                <th>Rank</th>
+                                <th>Username</th>
+                                <th>Total Calls</th>
+                                <th>Last Activity</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <% userStats.forEach(function(user, index) { %>
+                                <tr>
+                                    <td><strong>#<%= index + 1 %></strong></td>
+                                    <td><%= user._id %></td>
+                                    <td><span class="badge badge-success"><%= user.totalCalls %></span></td>
+                                    <td><%= moment(user.lastCall).format('YYYY-MM-DD HH:mm:ss') %></td>
+                                </tr>
+                            <% }); %>
+                        </tbody>
+                    </table>
+                <% } else { %>
+                    <p>No user data available for this period.</p>
+                <% } %>
+            </div>
+
+            <!-- Endpoint Statistics -->
+            <div class="stats-card">
+                <h3>Most Popular Endpoints</h3>
+                <% if (endpointStats && endpointStats.length > 0) { %>
+                    <table class="data-table">
+                        <thead>
+                            <tr>
+                                <th>Rank</th>
+                                <th>Endpoint</th>
+                                <th>Total Calls</th>
+                                <th>Last Used</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <% endpointStats.forEach(function(endpoint, index) { %>
+                                <tr>
+                                    <td><strong>#<%= index + 1 %></strong></td>
+                                    <td><code><%= endpoint._id %></code></td>
+                                    <td><span class="badge badge-warning"><%= endpoint.totalCalls %></span></td>
+                                    <td><%= moment(endpoint.lastCall).format('YYYY-MM-DD HH:mm:ss') %></td>
+                                </tr>
+                            <% }); %>
+                        </tbody>
+                    </table>
+                <% } else { %>
+                    <p>No endpoint data available for this period.</p>
+                <% } %>
+            </div>
+
+            <!-- Recent Activity Log -->
+            <div class="stats-card">
+                <h3>Recent API Calls (Last 50)</h3>
+                <% if (recentLogs && recentLogs.length > 0) { %>
+                    <table class="data-table">
+                        <thead>
+                            <tr>
+                                <th>Timestamp</th>
+                                <th>User</th>
+                                <th>Endpoint</th>
+                                <th>Method</th>
+                                <th>Status</th>
+                                <th>Query Params</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <% recentLogs.forEach(function(log) { %>
+                                <tr>
+                                    <td><%= moment(log.timestamp).format('YYYY-MM-DD HH:mm:ss') %></td>
+                                    <td><%= log.username %></td>
+                                    <td><code><%= log.endpoint %></code></td>
+                                    <td><%= log.method %></td>
+                                    <td>
+                                        <% if (log.statusCode >= 200 && log.statusCode < 300) { %>
+                                            <span class="badge badge-success"><%= log.statusCode %></span>
+                                        <% } else if (log.statusCode >= 400) { %>
+                                            <span class="badge badge-error"><%= log.statusCode %></span>
+                                        <% } else { %>
+                                            <span class="badge badge-warning"><%= log.statusCode %></span>
+                                        <% } %>
+                                    </td>
+                                    <td>
+                                        <% if (log.queryParams && Object.keys(log.queryParams).length > 0) { %>
+                                            <small><%= JSON.stringify(log.queryParams) %></small>
+                                        <% } else { %>
+                                            <small>-</small>
+                                        <% } %>
+                                    </td>
+                                </tr>
+                            <% }); %>
+                        </tbody>
+                    </table>
+                <% } else { %>
+                    <p>No recent activity logs available.</p>
+                <% } %>
+            </div>
+
+            <% if (errors && errors.length > 0) { %>
+                <div class="stats-card" style="background: #ffebee;">
+                    <h3>Errors</h3>
+                    <ul>
+                        <% errors.forEach(function(error) { %>
+                            <li><%= error %></li>
+                        <% }); %>
+                    </ul>
+                </div>
+            <% } %>
+
+        </div>
+    </div>
+
+    <!-- SCRIPTS -->
+    <script src="/js/lib/jquery-2.2.2.min.js"></script>
+    <script src="/js/lib/material.min.js"></script>
+    <script src="/js/lib/prism.js"></script>
+    <script src="/js/lib/classie.js"></script>
+    <script src="/js/lib/underscore.js"></script>
+    <script src="/js/menu-component.js"></script>
+    <script src="/js/script.js"></script>
+</body>
+
+</html>
+
