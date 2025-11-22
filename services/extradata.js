@@ -114,7 +114,8 @@ var getExtraFromServices = function(films, filepath, callback) {
             config.themoviedbkey
         )
           .then(function(data) {
-            var trailers = JSON.parse(data);
+            // Handle both string and object responses
+            var trailers = typeof data === 'string' ? JSON.parse(data) : data;
             if (trailers.results && trailers.results.length > 0) {
               for (var t = 0; t < trailers.results.length; t++) {
                 trailers.results[t].url =
@@ -136,7 +137,8 @@ var getExtraFromServices = function(films, filepath, callback) {
           config.kvikmyndirimdbid + imdbid + '&key=' + config.kvikmyndirkey
         )
           .then(function(data) {
-            var result = JSON.parse(data);
+            // Handle both string and object responses
+            var result = typeof data === 'string' ? JSON.parse(data) : data;
             if (result.plot) {
               film.plot = result.plot;
             }
@@ -154,7 +156,7 @@ var getExtraFromServices = function(films, filepath, callback) {
                   config.kvikmyndirimdbid +
                   imdbid +
                   ', ErrorMessage : ' +
-                  err
+                  err.message
               );
           })
       );
@@ -171,7 +173,26 @@ var getExtraFromServices = function(films, filepath, callback) {
             config.omdbApiKey
         )
           .then(function(data) {
-            var result = JSON.parse(data);
+            // Handle both string and object responses
+            var result;
+            if (typeof data === 'string') {
+              try {
+                result = JSON.parse(data);
+              } catch (parseErr) {
+                // If parsing fails, it's likely an HTML error page
+                logger
+                  .error()
+                  .info(
+                    'Error parsing OMDB response for ' +
+                      film.title +
+                      ' (likely rate limited or error page)'
+                  );
+                return;
+              }
+            } else {
+              result = data;
+            }
+
             if (Boolean(result.Response) === true) {
               film.omdb.push(result);
 
@@ -187,7 +208,7 @@ var getExtraFromServices = function(films, filepath, callback) {
                 'Error getting ' +
                   film.title +
                   ' from omdb, ErrorMessage : ' +
-                  err
+                  err.message
               );
           })
       );
