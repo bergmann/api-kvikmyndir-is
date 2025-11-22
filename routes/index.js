@@ -13,6 +13,7 @@ var flash = require("connect-flash");
 var logger = require("../services/logservice");
 var userModel = require("../models/user");
 var jwt = require("jsonwebtoken");
+var apiUsageService = require("../services/apiusageservice");
 
 // =====================================
 // INDEX AND WEB API RESPONSES =========
@@ -225,6 +226,20 @@ module.exports = function (passport) {
         // genres
         .get("/genres", tokenAuthentication, function (req, res, next) {
             queryMovies(req, res, next, "genres", config.genresfilepath);
+        })
+
+        // search - search across all movie collections
+        .get("/search", tokenAuthentication, function (req, res, next) {
+            var query = req.query.q || req.query.query;
+
+            if (!query || query.trim() === "") {
+                return res.status(400).json({
+                    success: false,
+                    message: "Search query parameter 'q' is required"
+                });
+            }
+
+            searchMovies(query, req, res, next);
         });
     return router;
 };
@@ -262,6 +277,10 @@ function tokenAuthentication(req, res, next) {
                     if (decoded.admin) {
                         // if everything is good, save to request for use in other routes
                         req.decoded = decoded;
+
+                        // Log API usage
+                        logApiUsage(req, res, decoded);
+
                         next();
                     } else {
                         // return an error
@@ -273,6 +292,10 @@ function tokenAuthentication(req, res, next) {
                 } else {
                     // if everything is good, save to request for use in other routes
                     req.decoded = decoded;
+
+                    // Log API usage
+                    logApiUsage(req, res, decoded);
+
                     next();
                 }
             }
@@ -285,6 +308,61 @@ function tokenAuthentication(req, res, next) {
             message: "No token provided.",
         });
     }
+}
+
+/**
+ * Log API usage for analytics
+ * Wraps the response to capture status code
+ */
+function logApiUsage(req, res, decoded) {
+    var requestTimestamp = new Date();
+    var originalJson = res.json;
+    var originalSend = res.send;
+    var logged = false;
+
+    // Helper function to perform the logging
+    var performLog = function(statusCode) {
+        if (logged) return; // Prevent duplicate logging
+        logged = true;
+
+        // Extract query parameters (excluding token for security)
+        var queryParams = {};
+        for (var key in req.query) {
+            if (key !== 'token') {
+                queryParams[key] = req.query[key];
+            }
+        }
+
+        var logData = {
+            endpoint: req.path,
+            username: decoded.username || decoded.email || 'unknown',
+            userId: decoded._id || null,
+            statusCode: statusCode || res.statusCode || 200,
+            queryParams: queryParams,
+            method: req.method,
+            timestamp: requestTimestamp
+        };
+
+        // Log asynchronously (don't wait for completion)
+        apiUsageService.logApiRequest(logData, function(err) {
+            if (err) {
+                // Silently fail - don't impact API performance
+                logger.error().info('Failed to log API usage: ' + err);
+            }
+        });
+    };
+
+    // Wrap res.json to capture status code
+    res.json = function(data) {
+        performLog(res.statusCode);
+        return originalJson.call(this, data);
+    };
+
+    // Wrap res.send to capture status code
+    res.send = function(data) {
+        performLog(res.statusCode);
+        return originalSend.call(this, data);
+    };
 }
 
 // ====================================================================================================
@@ -589,6 +667,98 @@ var queryImages = function (req, res, next, collection, filePath) {
         });
     }
 };
+
+/**
+ * Search movies across all collections (movies0-4 and upcoming)
+ * Searches in: title, alternativeTitles, actors, directors, genres
+ * @param {query} search query string
+ * @param {req} request object
+ * @param {res} response object
+ * @param {next} next middleware
+ * @author : Sindri Bergmann
+ * */
+function searchMovies(query, req, res, next) {
+    var searchRegex = new RegExp(query, 'i'); // Case-insensitive search
+    var collections = ['movies0', 'movies1', 'movies2', 'movies3', 'movies4', 'upcoming'];
+    var allResults = [];
+    var completedSearches = 0;
+
+    // Search across multiple fields
+    var searchQuery = {
+        $or: [
+            { title: searchRegex },
+            { alternativeTitles: searchRegex },
+            { 'actors_abridged.name': searchRegex },
+            { 'directors_abridged.name': searchRegex },
+            { 'genres.Name': searchRegex },
+            { 'genres.NameEN': searchRegex }
+        ]
+    };
+
+    // Search each collection
+    collections.forEach(function(collection) {
+        DBService.findDocuments(searchQuery, collection, function(err, docs) {
+            if (!err && docs && docs.length > 0) {
+                // Add collection info to each result
+                docs.forEach(function(doc) {
+                    doc._collection = collection;
+                });
+                allResults = allResults.concat(docs);
+            }
+
+            completedSearches++;
+
+            // When all searches are complete, return results
+            if (completedSearches === collections.length) {
+                // Remove duplicates based on movie id
+                var uniqueResults = [];
+                var seenIds = {};
+
+                allResults.forEach(function(movie) {
+                    if (!seenIds[movie.id]) {
+                        seenIds[movie.id] = true;
+                        uniqueResults.push(movie);
+                    }
+                });
+
+                // Sort by relevance (title matches first, then by rating)
+                uniqueResults.sort(function(a, b) {
+                    var aTitle = a.title.toLowerCase();
+                    var bTitle = b.title.toLowerCase();
+                    var queryLower = query.toLowerCase();
+
+                    // Exact matches first
+                    if (aTitle === queryLower && bTitle !== queryLower) return -1;
+                    if (bTitle === queryLower && aTitle !== queryLower) return 1;
+
+                    // Starts with query
+                    if (aTitle.indexOf(queryLower) === 0 && bTitle.indexOf(queryLower) !== 0) return -1;
+                    if (bTitle.indexOf(queryLower) === 0 && aTitle.indexOf(queryLower) !== 0) return 1;
+
+                    // Sort by IMDB rating
+                    var aRating = parseFloat(a.ratings && a.ratings.imdb ? a.ratings.imdb : 0);
+                    var bRating = parseFloat(b.ratings && b.ratings.imdb ? b.ratings.imdb : 0);
+                    return bRating - aRating;
+                });
+
+                res.setHeader("Access-Control-Allow-Credentials", true);
+                res.setHeader("Cache-Control", "public, max-age=3600"); // Cache for 1 hour
+                res.setHeader("Content-Type", "application/json");
+
+                // Limit results to 20 max
+                var limitedResults = uniqueResults.slice(0, 20);
+
+                res.json({
+                    success: true,
+                    query: query,
+                    count: uniqueResults.length,
+                    returned: limitedResults.length,
+                    results: limitedResults
+                });
+            }
+        });
+    });
+}
 
 /**
  * Renders json from file to page and filters it by query param

@@ -268,6 +268,50 @@
             </button>
         </div>
         <hr/>
-        
+
+        <!-- SEARCH -->
+        <h2 class="underline">Search</h2>
+        <p>Search across all movie collections (now playing and upcoming) by title, actors, directors, or genres.</p>
+        <br/>
+
+        <div class="table-responsive">
+            <table class="mdl-data-table mdl-js-data-table mdl-shadow--2dp">
+                <thead>
+                    <tr>
+                        <th>Method</th>
+                        <th>Requests</th>
+                        <th>Params</th>
+                        <th>Description</th>
+                        <th>Example</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>GET</td>
+                        <td>/search</td>
+                        <td>
+                            <p>q (required)</p>
+                        </td>
+                        <td>
+                            <p>Search query - searches in title, alternative titles, actors, directors, and genres. Returns max 20 results sorted by relevance.</p>
+                        </td>
+                        <td>
+                            <p>/search?q=batman</p>
+                            <p>/search?q=dicaprio</p>
+                            <p>/search?q=nolan</p>
+                            <p>/search?q=drama</p>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+
+        <div class="text-center">
+            <button data-id="search" class="modal-button mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-button--accent">
+                JSON response
+            </button>
+        </div>
+        <hr/>
+
     </div>
 </div>

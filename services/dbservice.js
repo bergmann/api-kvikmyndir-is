@@ -350,7 +350,7 @@ var updateDocument = function (
  * @param {obj} queryObject: to query
  * @param {obj} updateObj : object to update
  * @param {string} collection name
- * @param {func} callback function to run 
+ * @param {func} callback function to run
  */
 var updatePartialDocument = function (
     queryObj,
@@ -371,6 +371,36 @@ var updatePartialDocument = function (
                     client.close();
                 }
             );
+        }
+    });
+};
+
+/**
+ * Run aggregation pipeline on a collection
+ * --------------------------------------
+ * @param {array} pipeline - Aggregation pipeline array
+ * @param {string} collectionName - Collection name
+ * @param {func} callback - Callback function to run
+ */
+var aggregate = function (pipeline, collectionName, callback) {
+    connectToDataBase(function (err, db, client) {
+        if (err) {
+            logger.databaseError().info("Error connecting to database " + err);
+            callback(err, null);
+        } else {
+            var collection = db.collection(collectionName);
+            collection
+                .aggregate(pipeline)
+                .toArray()
+                .then((results) => {
+                    callback(null, results);
+                })
+                .catch((aggregateErr) => {
+                    callback(aggregateErr, null);
+                })
+                .finally(() => {
+                    client.close();
+                });
         }
     });
 };
@@ -416,6 +446,9 @@ var DBService = {
         callback
     ) {
         updatePartialDocument(queryObj, updateObj, collectionName, callback);
+    },
+    aggregate: function (pipeline, collectionName, callback) {
+        aggregate(pipeline, collectionName, callback);
     },
 };
 

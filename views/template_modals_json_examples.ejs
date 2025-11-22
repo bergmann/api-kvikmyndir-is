@@ -919,4 +919,95 @@ $.ajax({
             </section>
         </div>
     </div>
+
+    <!-- SEARCH MODAL -->
+    <div class="modal_custom" data-id="search">
+        <span class="icon-exit" data-id="search">
+            <svg class="icon icon-exit">
+                <use xlink:href="#icon-exit" xmlns:xlink="http://www.w3.org/1999/xlink"></use>
+            </svg>
+        </span>
+        <div class="modal_custom__body">
+            <div class="api_doc_container">
+                <section>
+                    <div class="json_example">
+                        <!-- Search json example-->
+                        <pre>
+                            <code class="language-javascript">
+//---------------------------------------
+// GET Request for search
+//---------------------------------------
+
+// Url: https://api.kvikmyndir.is/search?q=batman
+{
+    "success": true,
+    "query": "batman",
+    "count": 15,
+    "returned": 15,
+    "results": [
+        {
+            "_id": "572a43828d67709c36abc640",
+            "id": 9650,
+            "ids": {
+                "imdb": "3498820",
+                "rotten": null,
+                "tmdb": "271110"
+            },
+            "title": "The Batman",
+            "alternativeTitles": "Batman",
+            "year": "2022",
+            "certificateIS": "12 ára",
+            "durationMinutes": 176,
+            "genres": [
+                {
+                    "ID": 1,
+                    "Name": "Spenna",
+                    "NameEN": "Action"
+                },
+                {
+                    "ID": 4,
+                    "Name": "Drama",
+                    "NameEN": "Drama"
+                }
+            ],
+            "poster": "https://kvikmyndir.is/images/poster/...",
+            "actors_abridged": [
+                {
+                    "name": "Robert Pattinson"
+                },
+                {
+                    "name": "Zoë Kravitz"
+                }
+            ],
+            "directors_abridged": [
+                {
+                    "name": "Matt Reeves"
+                }
+            ],
+            "ratings": {
+                "imdb": "7.8",
+                "rotten_audience": "87",
+                "rotten_critics": "85"
+            },
+            "showtimes": [...],
+            "_collection": "movies0"
+        },
+        {
+            ...more results (max 20 total)
+        }
+    ]
+}
+
+// Note: Results are sorted by relevance:
+// 1. Exact title matches first
+// 2. Titles starting with query
+// 3. Then sorted by IMDB rating
+// Maximum 20 results returned
+                        </code>
+                    </pre>
+                </div>
+            </section>
+        </div>
+    </div>
+
 </div><!-- MODALS ENDS -->

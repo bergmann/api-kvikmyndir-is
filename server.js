@@ -93,6 +93,7 @@ var login = require("./routes/login")(passport);
 var logout = require("./routes/logout")(passport);
 var users = require("./routes/users")(passport);
 var logs = require("./routes/logs")(passport);
+var analytics = require("./routes/analytics")(passport);
 var newpassword = require("./routes/newpassword")();
 var authenticate = require("./routes/authenticate")();
 
@@ -103,6 +104,7 @@ app.use("/createuser", createuser);
 app.use("/authenticate", authenticate);
 app.use("/users", users);
 app.use("/logs", logs);
+app.use("/analytics", analytics);
 app.use("/newpassword", newpassword);
 
 app.use(function (req, res, next) {
