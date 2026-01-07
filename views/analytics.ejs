@@ -271,7 +271,15 @@
                                     </td>
                                     <td>
                                         <% if (log.queryParams && Object.keys(log.queryParams).length > 0) { %>
-                                            <small><%= JSON.stringify(log.queryParams) %></small>
+                                            <small style="font-family: monospace;">
+                                                <%
+                                                var params = [];
+                                                for (var key in log.queryParams) {
+                                                    params.push(key + '=' + log.queryParams[key]);
+                                                }
+                                                %>
+                                                <%= params.join(', ') %>
+                                            </small>
                                         <% } else { %>
                                             <small>-</small>
                                         <% } %>

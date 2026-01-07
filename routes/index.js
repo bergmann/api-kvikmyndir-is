@@ -333,23 +333,51 @@ function logApiUsage(req, res, decoded) {
             }
         }
 
-        var logData = {
-            endpoint: req.path,
-            username: decoded.username || decoded.email || 'unknown',
-            userId: decoded._id || null,
-            statusCode: statusCode || res.statusCode || 200,
-            queryParams: queryParams,
-            method: req.method,
-            timestamp: requestTimestamp
-        };
+        // Look up user from database to get username
+        // The JWT token only contains 'id', not username/email
+        if (decoded.id) {
+            DBService.findOne({ _id: decoded.id }, 'users', function(err, user) {
+                var username = 'unknown';
+                if (!err && user) {
+                    username = user.username || user.email || 'unknown';
+                }
 
-        // Log asynchronously (don't wait for completion)
-        apiUsageService.logApiRequest(logData, function(err) {
-            if (err) {
-                // Silently fail - don't impact API performance
-                logger.error().info('Failed to log API usage: ' + err);
-            }
-        });
+                var logData = {
+                    endpoint: req.path,
+                    username: username,
+                    userId: decoded.id,
+                    statusCode: statusCode || res.statusCode || 200,
+                    queryParams: queryParams,
+                    method: req.method,
+                    timestamp: requestTimestamp
+                };
+
+                // Log asynchronously (don't wait for completion)
+                apiUsageService.logApiRequest(logData, function(err) {
+                    if (err) {
+                        // Silently fail - don't impact API performance
+                        logger.error().info('Failed to log API usage: ' + err);
+                    }
+                });
+            });
+        } else {
+            // Fallback if no user ID in token
+            var logData = {
+                endpoint: req.path,
+                username: 'unknown',
+                userId: null,
+                statusCode: statusCode || res.statusCode || 200,
+                queryParams: queryParams,
+                method: req.method,
+                timestamp: requestTimestamp
+            };
+
+            apiUsageService.logApiRequest(logData, function(err) {
+                if (err) {
+                    logger.error().info('Failed to log API usage: ' + err);
+                }
+            });
+        }
     };
 
     // Wrap res.json to capture status code
