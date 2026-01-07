@@ -336,15 +336,48 @@ function logApiUsage(req, res, decoded) {
         // Look up user from database to get username
         // The JWT token only contains 'id', not username/email
         if (decoded.id) {
-            DBService.findOne({ _id: decoded.id }, 'users', function(err, user) {
-                var username = 'unknown';
-                if (!err && user) {
-                    username = user.username || user.email || 'unknown';
-                }
+            // Convert string ID to ObjectId for MongoDB query
+            var userId;
+            try {
+                userId = new ObjectId(decoded.id);
+            } catch (e) {
+                // Invalid ObjectId format - log with unknown user
+                console.error('Invalid ObjectId in token:', decoded.id);
+                userId = null;
+            }
 
+            if (userId) {
+                DBService.findOne({ _id: userId }, 'users', function(err, user) {
+                    var username = 'unknown';
+                    if (!err && user) {
+                        username = user.username || user.email || 'unknown';
+                    } else if (err) {
+                        console.error('Error looking up user:', err);
+                    }
+
+                    var logData = {
+                        endpoint: req.path,
+                        username: username,
+                        userId: decoded.id,
+                        statusCode: statusCode || res.statusCode || 200,
+                        queryParams: queryParams,
+                        method: req.method,
+                        timestamp: requestTimestamp
+                    };
+
+                    // Log asynchronously (don't wait for completion)
+                    apiUsageService.logApiRequest(logData, function(err) {
+                        if (err) {
+                            // Silently fail - don't impact API performance
+                            logger.error().info('Failed to log API usage: ' + err);
+                        }
+                    });
+                });
+            } else {
+                // Invalid ObjectId - log with unknown user
                 var logData = {
                     endpoint: req.path,
-                    username: username,
+                    username: 'unknown',
                     userId: decoded.id,
                     statusCode: statusCode || res.statusCode || 200,
                     queryParams: queryParams,
@@ -352,14 +385,12 @@ function logApiUsage(req, res, decoded) {
                     timestamp: requestTimestamp
                 };
 
-                // Log asynchronously (don't wait for completion)
                 apiUsageService.logApiRequest(logData, function(err) {
                     if (err) {
-                        // Silently fail - don't impact API performance
                         logger.error().info('Failed to log API usage: ' + err);
                     }
                 });
-            });
+            }
         } else {
             // Fallback if no user ID in token
             var logData = {
