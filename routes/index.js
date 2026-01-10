@@ -185,7 +185,7 @@ module.exports = function (passport) {
         // movies by date
         // Where 0 is today and 1 is tomorrow
         // Days to get are between 0 and 4. Four being the maximum
-        // This is only for global admins
+        // Requires authentication
         .get(
             "/movies-by-dates/:id",
             tokenAuthentication,
@@ -273,31 +273,13 @@ function tokenAuthentication(req, res, next) {
                     error: err,
                 });
             } else {
-                if (req.path.indexOf("movies-by-date") > -1) {
-                    if (decoded.admin) {
-                        // if everything is good, save to request for use in other routes
-                        req.decoded = decoded;
+                // if everything is good, save to request for use in other routes
+                req.decoded = decoded;
 
-                        // Log API usage
-                        logApiUsage(req, res, decoded);
+                // Log API usage
+                logApiUsage(req, res, decoded);
 
-                        next();
-                    } else {
-                        // return an error
-                        return res.status(403).send({
-                            success: false,
-                            message: "This route is for admin only",
-                        });
-                    }
-                } else {
-                    // if everything is good, save to request for use in other routes
-                    req.decoded = decoded;
-
-                    // Log API usage
-                    logApiUsage(req, res, decoded);
-
-                    next();
-                }
+                next();
             }
         });
     } else {
